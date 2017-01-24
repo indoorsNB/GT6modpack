@@ -1,0 +1,11 @@
+*redstone
+*rail
+*dispenser
+*piston
+*detector
+*powered
+*pressure
+*crystal
+*spawner
+*gt.meta.ore
+*Chest
