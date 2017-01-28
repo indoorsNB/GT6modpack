@@ -3125,38 +3125,38 @@ ExtraTiC:moltenVoidmetal, Molten Voidmetal
 ExtraTiC:blockFunStuff:0, 精灵方块
 ExtraTiC:blockFunStuff:1, 铁血方块
 ExtraTiC:blockFunStuff:2, 赤金方块
-ThaumicTinkerer:fireWater, 坎水之焰
-ThaumicTinkerer:bedrockPortal, 基岩传送门
-ThaumicTinkerer:fireChaos, 混沌之焰
-ThaumicTinkerer:forcefield, 力场
+ThaumicTinkerer:infusedFarmland, tile.infusedFarmland.name
+ThaumicTinkerer:dislocator, 矢量转位仪
+ThaumicTinkerer:enchanter, 渗透附魔台
+ThaumicTinkerer:fireAir, 巽风之焰
 ThaumicTinkerer:fireEarth, 坤地之焰
+ThaumicTinkerer:fireFire, 离火之焰
+ThaumicTinkerer:spawner, 死灵祭坛
+ThaumicTinkerer:funnel, 要素漏斗
+ThaumicTinkerer:magnet:0, 奥术念力磁铁
+ThaumicTinkerer:magnet:1, 奥术生物磁铁
+ThaumicTinkerer:animationTablet, 活化工具台
+ThaumicTinkerer:fireChaos, 混沌之焰
+ThaumicTinkerer:darkQuartzStairs, 烟黑石英楼梯
+ThaumicTinkerer:warpGate, 仙域之门
+ThaumicTinkerer:bedrockPortal, 基岩传送门
+ThaumicTinkerer:nitorGas, tile.nitorGas.name
+ThaumicTinkerer:fireOrder, 秩序之焰
+ThaumicTinkerer:repairer, 奥法修复台
+ThaumicTinkerer:Levitational Locomotive, 悬浮平台
+ThaumicTinkerer:gaseousLight, tile.gaseousLight.name
+ThaumicTinkerer:forcefield, 力场
+ThaumicTinkerer:Levitational Locomotive Relay, 悬浮平台中继
+ThaumicTinkerer:fireWater, 坎水之焰
+ThaumicTinkerer:darkQuartzSlab:0, 烟黑石英台阶
+ThaumicTinkerer:darkQuartzSlabFull:0, 烟黑石英台阶
+ThaumicTinkerer:platform, 仙域平台
+ThaumicTinkerer:infusedGrainBlock, tile.infusedGrainBlock.name
+ThaumicTinkerer:interface, 矢量变换接口
+ThaumicTinkerer:gaseousShadow, tile.gaseousShadow.name
 ThaumicTinkerer:darkQuartz:0, 烟黑石英块
 ThaumicTinkerer:darkQuartz:1, 雕琢烟黑石英块
 ThaumicTinkerer:darkQuartz:2, 柱状烟黑石英块
-ThaumicTinkerer:magnet:0, 奥术念力磁铁
-ThaumicTinkerer:magnet:1, 奥术生物磁铁
-ThaumicTinkerer:gaseousLight, tile.gaseousLight.name
-ThaumicTinkerer:Levitational Locomotive, 悬浮平台
-ThaumicTinkerer:enchanter, 渗透附魔台
-ThaumicTinkerer:darkQuartzSlab:0, 烟黑石英台阶
-ThaumicTinkerer:darkQuartzSlabFull:0, 烟黑石英台阶
-ThaumicTinkerer:spawner, 死灵祭坛
-ThaumicTinkerer:nitorGas, tile.nitorGas.name
-ThaumicTinkerer:funnel, 要素漏斗
-ThaumicTinkerer:animationTablet, 活化工具台
-ThaumicTinkerer:infusedFarmland, tile.infusedFarmland.name
-ThaumicTinkerer:interface, 矢量变换接口
-ThaumicTinkerer:fireFire, 离火之焰
-ThaumicTinkerer:Levitational Locomotive Relay, 悬浮平台中继
-ThaumicTinkerer:platform, 仙域平台
-ThaumicTinkerer:dislocator, 矢量转位仪
-ThaumicTinkerer:gaseousShadow, tile.gaseousShadow.name
-ThaumicTinkerer:darkQuartzStairs, 烟黑石英楼梯
-ThaumicTinkerer:fireOrder, 秩序之焰
-ThaumicTinkerer:warpGate, 仙域之门
-ThaumicTinkerer:repairer, 奥法修复台
-ThaumicTinkerer:fireAir, 巽风之焰
-ThaumicTinkerer:infusedGrainBlock, tile.infusedGrainBlock.name
 ForbiddenMagic:ArcaneCake, 奥法蛋糕
 ForbiddenMagic:WrathCage, 暴怒之笼
 ForbiddenMagic:InkFlower, 暗影玫瑰
@@ -10295,22 +10295,22 @@ ThermalDynamics:cover:0, 熔融虚空金属.name 覆盖板
 ThermalDynamics:cover:0, 精灵方块 覆盖板
 ThermalDynamics:cover:0, 铁血方块 覆盖板
 ThermalDynamics:cover:0, 赤金方块 覆盖板
-ThermalDynamics:cover:0, 坎水之焰 覆盖板
-ThermalDynamics:cover:0, 基岩传送门 覆盖板
-ThermalDynamics:cover:0, 混沌之焰 覆盖板
+ThermalDynamics:cover:0, 巽风之焰 覆盖板
 ThermalDynamics:cover:0, 坤地之焰 覆盖板
+ThermalDynamics:cover:0, 离火之焰 覆盖板
+ThermalDynamics:cover:0, 混沌之焰 覆盖板
+ThermalDynamics:cover:0, 烟黑石英楼梯 覆盖板
+ThermalDynamics:cover:0, 基岩传送门 覆盖板
+ThermalDynamics:cover:0, tile.nitorGas.name 覆盖板
+ThermalDynamics:cover:0, 秩序之焰 覆盖板
+ThermalDynamics:cover:0, tile.gaseousLight.name 覆盖板
+ThermalDynamics:cover:0, 坎水之焰 覆盖板
+ThermalDynamics:cover:0, 烟黑石英台阶 覆盖板
+ThermalDynamics:cover:0, 烟黑石英台阶 覆盖板
+ThermalDynamics:cover:0, tile.gaseousShadow.name 覆盖板
 ThermalDynamics:cover:0, 烟黑石英块 覆盖板
 ThermalDynamics:cover:0, 雕琢烟黑石英块 覆盖板
 ThermalDynamics:cover:0, 柱状烟黑石英块 覆盖板
-ThermalDynamics:cover:0, tile.gaseousLight.name 覆盖板
-ThermalDynamics:cover:0, 烟黑石英台阶 覆盖板
-ThermalDynamics:cover:0, 烟黑石英台阶 覆盖板
-ThermalDynamics:cover:0, tile.nitorGas.name 覆盖板
-ThermalDynamics:cover:0, 离火之焰 覆盖板
-ThermalDynamics:cover:0, tile.gaseousShadow.name 覆盖板
-ThermalDynamics:cover:0, 烟黑石英楼梯 覆盖板
-ThermalDynamics:cover:0, 秩序之焰 覆盖板
-ThermalDynamics:cover:0, 巽风之焰 覆盖板
 ThermalDynamics:cover:0, 奥法蛋糕 覆盖板
 ThermalDynamics:cover:0, 暗影玫瑰 覆盖板
 ThermalDynamics:cover:0, 下界之星方块 覆盖板
@@ -13863,10 +13863,10 @@ appliedenergistics2:item.ItemFacade:0, 线缆伪装板 - 雕琢褐岩砖块
 appliedenergistics2:item.ItemFacade:0, 线缆伪装板 - 精灵方块
 appliedenergistics2:item.ItemFacade:0, 线缆伪装板 - 铁血方块
 appliedenergistics2:item.ItemFacade:0, 线缆伪装板 - 赤金方块
+appliedenergistics2:item.ItemFacade:0, 线缆伪装板 - 烟黑石英台阶
 appliedenergistics2:item.ItemFacade:0, 线缆伪装板 - 烟黑石英块
 appliedenergistics2:item.ItemFacade:0, 线缆伪装板 - 雕琢烟黑石英块
 appliedenergistics2:item.ItemFacade:0, 线缆伪装板 - 柱状烟黑石英块
-appliedenergistics2:item.ItemFacade:0, 线缆伪装板 - 烟黑石英台阶
 appliedenergistics2:item.ItemFacade:0, 线缆伪装板 - 下界之星方块
 appliedenergistics2:item.ItemFacade:0, 线缆伪装板 - 腐化木头
 appliedenergistics2:item.ItemFacade:0, 线缆伪装板 - 腐化木板
