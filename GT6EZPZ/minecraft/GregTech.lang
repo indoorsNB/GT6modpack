@@ -1403,6 +1403,7 @@ languagefile {
     S:gt.lang.pipe.stats.stepsize=Stepsize:
     S:gt.lang.proof.acid=Can handle Acidous Substances
     S:gt.lang.proof.gas=Can handle Gaseous Substances
+    S:gt.lang.proof.plasma=Can handle Plasma
     S:gt.lang.railspeed=车速限制: 
     S:gt.lang.recipe=配方
     S:gt.lang.recipes=配方
@@ -6289,6 +6290,7 @@ languagefile {
     S:gt.multitileentity.32731.name=Tungsten Tap
     S:gt.multitileentity.32732.name=埃德曼合金Tap
     S:gt.multitileentity.32733.name=Wooden Barrel (Cheap)
+    S:gt.multitileentity.32734.name=Ironwood Barrel
     S:gt.multitileentity.32763.name=液体泉
     S:gt.multitileentity.32764.name=Supporter Certificate
     S:gt.multitileentity.32765.name=脚手架建筑泡沫方块
@@ -6402,6 +6404,7 @@ languagefile {
     S:gt.multitileentity.6032.name=量子存储器 (三钛合金)
     S:gt.multitileentity.6033.name=量子存储器 (艾德曼合金)
     S:gt.multitileentity.6034.name=量子存储器 (基岩合金)
+    S:gt.multitileentity.6997.name=Ironwood Item Barrel
     S:gt.multitileentity.6998.name=Wooden Item Barrel (Cheap)
     S:gt.multitileentity.6999.name=物品储罐
     S:gt.multitileentity.7.name=琥珀金箱子
