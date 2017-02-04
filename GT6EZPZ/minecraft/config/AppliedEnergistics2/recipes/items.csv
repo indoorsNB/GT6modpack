@@ -712,8 +712,8 @@ minecraft:spawn_egg:96, 生成 哞菇
 minecraft:spawn_egg:98, 生成 豹猫
 minecraft:spawn_egg:100, 生成 马
 minecraft:spawn_egg:120, 生成 村民
-minecraft:spawn_egg:4, 生成 核怪兽
-minecraft:spawn_egg:5, 生成 Paul
+minecraft:spawn_egg:3, 生成 核怪兽
+minecraft:spawn_egg:4, 生成 Paul
 minecraft:experience_bottle, 附魔之瓶
 minecraft:fire_charge, 火焰弹
 minecraft:writable_book, 书与笔
@@ -2563,55 +2563,6 @@ CarpentersBlocks:blockCarpentersStairs, 木匠楼梯
 CarpentersBlocks:blockCarpentersTorch, 木匠火把
 compactstorage:compactChest, Compact Chest
 compactstorage:chestBuilder, Builder
-props:blockProps, 未命名方块,请报告给作者.
-props:blockFake, 未命名方块,请报告给作者.
-DraconicEvolution:xRayBlock, 透视方块
-DraconicEvolution:weatherController, 气象控制器
-DraconicEvolution:sunDial, 日晷
-DraconicEvolution:draconiumOre, 龙矿
-DraconicEvolution:grinder, 怪物粉碎机
-DraconicEvolution:potentiometer, 电位器
-DraconicEvolution:rainSensor, 雨水传感器
-DraconicEvolution:particleGenerator, 粒子发生器
-DraconicEvolution:playerDetector, 玩家探测器
-DraconicEvolution:playerDetectorAdvanced, 高级玩家探测器
-DraconicEvolution:energyInfuser, 能量注入器
-DraconicEvolution:customSpawner, 稳定刷怪笼
-DraconicEvolution:generator, 发电机
-DraconicEvolution:energyStorageCore, 能量核心
-DraconicEvolution:draconium:0, 龙块
-DraconicEvolution:draconium:1, 复活石
-DraconicEvolution:draconium:2, 充能龙块
-DraconicEvolution:invisibleMultiblock, Energy Core
-DraconicEvolution:energyPylon, 能量塔
-DraconicEvolution:placedItem, tile.draconicevolution:placedItem.name
-DraconicEvolution:safetyFlame, tile.draconicevolution:safetyFlame.name
-DraconicEvolution:cKeyStone:0, 创造锁
-DraconicEvolution:cKeyStone:1, 创造锁
-DraconicEvolution:cKeyStone:2, 创造锁
-DraconicEvolution:cKeyStone:3, 创造锁
-DraconicEvolution:dissEnchanter, 祛魔台
-DraconicEvolution:teleporterStand, 错位宝石底座
-DraconicEvolution:draconiumChest, 龙箱
-DraconicEvolution:draconicBlock, 觉醒龙块
-DraconicEvolution:energyCrystal:0, 能量中继器
-DraconicEvolution:energyCrystal:1, 高级能量中继器
-DraconicEvolution:energyCrystal:2, 能量收发器
-DraconicEvolution:energyCrystal:3, 高级能量收发器
-DraconicEvolution:energyCrystal:4, 无线能量收发器
-DraconicEvolution:energyCrystal:5, 高级无线收发器
-DraconicEvolution:infusedObsidian, 注入龙力的黑曜石
-DraconicEvolution:dislocatorReceptacle, 错位容器
-DraconicEvolution:portal, 门
-DraconicEvolution:reactorCore, 反应堆核心
-DraconicEvolution:flowGate:0, 能量阀门
-DraconicEvolution:flowGate:6, 流体阀门
-DraconicEvolution:reactorStabilizer, 反应堆稳定器
-DraconicEvolution:reactorEnergyInjector, 反应堆能量喷射器
-DraconicEvolution:chaosCrystal, 混沌晶体
-DraconicEvolution:upgradeModifier, 升级调整器
-DraconicEvolution:longRangeDislocator:1, 创造错位宝石
-DraconicEvolution:chaosShardAtmos, tile.draconicevolution:chaosShardAtmos.name
 EMT:PortableNode, 便携式节点
 EMT:ShieldBlock, 护盾方块
 EMT:EMTSolars:0, 压缩太阳能
@@ -2644,6 +2595,20 @@ EMT:EssentiaGenerators:3, 木之源质发电机
 EMT:EssentiaGenerators:4, 风之源质发电机
 EMT:electricCloud, Electric Cloud
 eplus:tile.advancedEnchantmentTable, Advanced Enchantment Table
+ExtraBotany:ancientpylon:0, 远古种族的魔力水晶
+ExtraBotany:ancientpylon:1, 远古种族的自然水晶
+ExtraBotany:ancientpylon:2, 远古种族的盖亚水晶
+ExtraBotany:relicplate, tile.relicplate.name
+ExtraBotany:specialFlower, tile.specialFlower.name
+ExtraBotany:blockgaiaquartz, 盖亚石英块
+ExtraBotany:quartzStairsGaia, tile.quartzStairsGaia.name
+ExtraBotany:blockelvenquartz, 源质石英块
+ExtraBotany:quartzStairsElven, tile.quartzStairsElven.name
+ExtraBotany:gaiachest, 盖亚的宝箱
+ExtraBotany:blockgaiaquartz0Slab:0, 盖亚石英台阶
+ExtraBotany:blockgaiaquartz0SlabFull:0, tile.botania:blockgaiaquartz0SlabFull.name
+ExtraBotany:blockelvenquartz0Slab:0, 源质石英台阶
+ExtraBotany:blockelvenquartz0SlabFull:0, tile.botania:blockelvenquartz0SlabFull.name
 extracells:certustank, extracells.block.certustank.name
 extracells:walrus, 海象
 extracells:fluidcrafter, ME流体装配室
@@ -3125,38 +3090,38 @@ ExtraTiC:moltenVoidmetal, Molten Voidmetal
 ExtraTiC:blockFunStuff:0, 精灵方块
 ExtraTiC:blockFunStuff:1, 铁血方块
 ExtraTiC:blockFunStuff:2, 赤金方块
-ThaumicTinkerer:infusedFarmland, tile.infusedFarmland.name
-ThaumicTinkerer:dislocator, 矢量转位仪
-ThaumicTinkerer:enchanter, 渗透附魔台
-ThaumicTinkerer:fireAir, 巽风之焰
-ThaumicTinkerer:fireEarth, 坤地之焰
-ThaumicTinkerer:fireFire, 离火之焰
+ThaumicTinkerer:infusedGrainBlock, tile.infusedGrainBlock.name
+ThaumicTinkerer:darkQuartzStairs, 烟黑石英楼梯
 ThaumicTinkerer:spawner, 死灵祭坛
-ThaumicTinkerer:funnel, 要素漏斗
+ThaumicTinkerer:nitorGas, tile.nitorGas.name
+ThaumicTinkerer:enchanter, 渗透附魔台
 ThaumicTinkerer:magnet:0, 奥术念力磁铁
 ThaumicTinkerer:magnet:1, 奥术生物磁铁
-ThaumicTinkerer:animationTablet, 活化工具台
-ThaumicTinkerer:fireChaos, 混沌之焰
-ThaumicTinkerer:darkQuartzStairs, 烟黑石英楼梯
-ThaumicTinkerer:warpGate, 仙域之门
-ThaumicTinkerer:bedrockPortal, 基岩传送门
-ThaumicTinkerer:nitorGas, tile.nitorGas.name
-ThaumicTinkerer:fireOrder, 秩序之焰
 ThaumicTinkerer:repairer, 奥法修复台
+ThaumicTinkerer:fireChaos, 混沌之焰
+ThaumicTinkerer:funnel, 要素漏斗
+ThaumicTinkerer:fireOrder, 秩序之焰
+ThaumicTinkerer:fireAir, 巽风之焰
+ThaumicTinkerer:warpGate, 仙域之门
 ThaumicTinkerer:Levitational Locomotive, 悬浮平台
-ThaumicTinkerer:gaseousLight, tile.gaseousLight.name
+ThaumicTinkerer:fireFire, 离火之焰
+ThaumicTinkerer:infusedFarmland, tile.infusedFarmland.name
+ThaumicTinkerer:platform, 仙域平台
+ThaumicTinkerer:bedrockPortal, 基岩传送门
+ThaumicTinkerer:fireEarth, 坤地之焰
 ThaumicTinkerer:forcefield, 力场
 ThaumicTinkerer:Levitational Locomotive Relay, 悬浮平台中继
-ThaumicTinkerer:fireWater, 坎水之焰
 ThaumicTinkerer:darkQuartzSlab:0, 烟黑石英台阶
 ThaumicTinkerer:darkQuartzSlabFull:0, 烟黑石英台阶
-ThaumicTinkerer:platform, 仙域平台
-ThaumicTinkerer:infusedGrainBlock, tile.infusedGrainBlock.name
-ThaumicTinkerer:interface, 矢量变换接口
-ThaumicTinkerer:gaseousShadow, tile.gaseousShadow.name
+ThaumicTinkerer:gaseousLight, tile.gaseousLight.name
 ThaumicTinkerer:darkQuartz:0, 烟黑石英块
 ThaumicTinkerer:darkQuartz:1, 雕琢烟黑石英块
 ThaumicTinkerer:darkQuartz:2, 柱状烟黑石英块
+ThaumicTinkerer:gaseousShadow, tile.gaseousShadow.name
+ThaumicTinkerer:dislocator, 矢量转位仪
+ThaumicTinkerer:interface, 矢量变换接口
+ThaumicTinkerer:animationTablet, 活化工具台
+ThaumicTinkerer:fireWater, 坎水之焰
 ForbiddenMagic:ArcaneCake, 奥法蛋糕
 ForbiddenMagic:WrathCage, 暴怒之笼
 ForbiddenMagic:InkFlower, 暗影玫瑰
@@ -3914,6 +3879,11 @@ gregtech:gt.meta.storage.dust:2220, oredict.blockDustAdamantium.name
 gregtech:gt.meta.storage.dust:8000, oredict.blockDustSiliconDioxide.name
 gregtech:gt.meta.storage.dust:8001, oredict.blockDustGlass.name
 gregtech:gt.meta.storage.dust:8002, oredict.blockDustFlint.name
+gregtech:gt.meta.storage.dust:8003, oredict.blockDustCarborundum.name
+gregtech:gt.meta.storage.dust:8004, oredict.blockDustLithiumOxide.name
+gregtech:gt.meta.storage.dust:8005, oredict.blockDustFerrite.name
+gregtech:gt.meta.storage.dust:8006, oredict.blockDustDatolite.name
+gregtech:gt.meta.storage.dust:8007, oredict.blockDustHydrogenBorate.name
 gregtech:gt.meta.storage.dust:8102, oredict.blockDustSluiceSand.name
 gregtech:gt.meta.storage.dust:8103, oredict.blockDustPlatinumGroupSludge.name
 gregtech:gt.meta.storage.dust:8200, oredict.blockDustAshes.name
@@ -3985,6 +3955,9 @@ gregtech:gt.meta.storage.dust:8267, oredict.blockDustWoodPolished.name
 gregtech:gt.meta.storage.dust:8268, oredict.blockDustSodiumHydroxide.name
 gregtech:gt.meta.storage.dust:8269, oredict.blockDustSodiumSulfite.name
 gregtech:gt.meta.storage.dust:8270, oredict.blockDustSodiumSulfate.name
+gregtech:gt.meta.storage.dust:8271, oredict.blockDustPotassiumSulfate.name
+gregtech:gt.meta.storage.dust:8272, oredict.blockDustPotassiumSulfide.name
+gregtech:gt.meta.storage.dust:8273, oredict.blockDustPorcelain.name
 gregtech:gt.meta.storage.dust:8300, oredict.blockDustDiamond.name
 gregtech:gt.meta.storage.dust:8301, oredict.blockDustEmerald.name
 gregtech:gt.meta.storage.dust:8302, oredict.blockDustRuby.name
@@ -4402,6 +4375,8 @@ gregtech:gt.meta.storage.ingot:1740, oredict.blockIngotNaquadah.name
 gregtech:gt.meta.storage.ingot:1741, oredict.blockIngotNaquadahEnriched.name
 gregtech:gt.meta.storage.ingot:1742, oredict.blockIngotNaquadria.name
 gregtech:gt.meta.storage.ingot:2220, oredict.blockIngotAdamantium.name
+gregtech:gt.meta.storage.ingot:8003, oredict.blockIngotCarborundum.name
+gregtech:gt.meta.storage.ingot:8005, oredict.blockIngotFerrite.name
 gregtech:gt.meta.storage.ingot:8217, oredict.blockIngotRubber.name
 gregtech:gt.meta.storage.ingot:8218, oredict.blockIngotPlastic.name
 gregtech:gt.meta.storage.ingot:8343, oredict.blockIngotForce.name
@@ -4603,6 +4578,8 @@ gregtech:gt.meta.storage.plate:1740, oredict.blockPlateNaquadah.name
 gregtech:gt.meta.storage.plate:1741, oredict.blockPlateNaquadahEnriched.name
 gregtech:gt.meta.storage.plate:1742, oredict.blockPlateNaquadria.name
 gregtech:gt.meta.storage.plate:2220, oredict.blockPlateAdamantium.name
+gregtech:gt.meta.storage.plate:8003, oredict.blockPlateCarborundum.name
+gregtech:gt.meta.storage.plate:8005, oredict.blockPlateFerrite.name
 gregtech:gt.meta.storage.plate:8211, oredict.blockPlateBlaze.name
 gregtech:gt.meta.storage.plate:8214, oredict.blockPlateObsidian.name
 gregtech:gt.meta.storage.plate:8217, oredict.blockPlateRubber.name
@@ -4618,6 +4595,7 @@ gregtech:gt.meta.storage.plate:8238, oredict.blockPlateWaxParaffin.name
 gregtech:gt.meta.storage.plate:8239, oredict.blockPlateWaxPlant.name
 gregtech:gt.meta.storage.plate:8240, oredict.blockPlateWaxMagic.name
 gregtech:gt.meta.storage.plate:8267, oredict.blockPlateWoodPolished.name
+gregtech:gt.meta.storage.plate:8273, oredict.blockPlatePorcelain.name
 gregtech:gt.meta.storage.plate:8333, oredict.blockPlateRedstone.name
 gregtech:gt.meta.storage.plate:8339, oredict.blockPlateTeslatite.name
 gregtech:gt.meta.storage.plate:8340, oredict.blockPlateNikolite.name
@@ -4915,6 +4893,8 @@ gregtech:gt.meta.storage.solid:1740, oredict.blockSolidNaquadah.name
 gregtech:gt.meta.storage.solid:1741, oredict.blockSolidNaquadahEnriched.name
 gregtech:gt.meta.storage.solid:1742, oredict.blockSolidNaquadria.name
 gregtech:gt.meta.storage.solid:2220, oredict.blockSolidAdamantium.name
+gregtech:gt.meta.storage.solid:8003, oredict.blockSolidCarborundum.name
+gregtech:gt.meta.storage.solid:8005, oredict.blockSolidFerrite.name
 gregtech:gt.meta.storage.solid:8217, oredict.blockSolidRubber.name
 gregtech:gt.meta.storage.solid:8218, oredict.blockSolidPlastic.name
 gregtech:gt.meta.storage.solid:8343, oredict.blockSolidForce.name
@@ -5797,6 +5777,11 @@ gregtech:gt.meta.crate.dust:2220, oredict.crateGtDustAdamantium.name
 gregtech:gt.meta.crate.dust:8000, oredict.crateGtDustSiliconDioxide.name
 gregtech:gt.meta.crate.dust:8001, oredict.crateGtDustGlass.name
 gregtech:gt.meta.crate.dust:8002, oredict.crateGtDustFlint.name
+gregtech:gt.meta.crate.dust:8003, oredict.crateGtDustCarborundum.name
+gregtech:gt.meta.crate.dust:8004, oredict.crateGtDustLithiumOxide.name
+gregtech:gt.meta.crate.dust:8005, oredict.crateGtDustFerrite.name
+gregtech:gt.meta.crate.dust:8006, oredict.crateGtDustDatolite.name
+gregtech:gt.meta.crate.dust:8007, oredict.crateGtDustHydrogenBorate.name
 gregtech:gt.meta.crate.dust:8102, oredict.crateGtDustSluiceSand.name
 gregtech:gt.meta.crate.dust:8103, oredict.crateGtDustPlatinumGroupSludge.name
 gregtech:gt.meta.crate.dust:8200, oredict.crateGtDustAshes.name
@@ -5868,6 +5853,9 @@ gregtech:gt.meta.crate.dust:8267, oredict.crateGtDustWoodPolished.name
 gregtech:gt.meta.crate.dust:8268, oredict.crateGtDustSodiumHydroxide.name
 gregtech:gt.meta.crate.dust:8269, oredict.crateGtDustSodiumSulfite.name
 gregtech:gt.meta.crate.dust:8270, oredict.crateGtDustSodiumSulfate.name
+gregtech:gt.meta.crate.dust:8271, oredict.crateGtDustPotassiumSulfate.name
+gregtech:gt.meta.crate.dust:8272, oredict.crateGtDustPotassiumSulfide.name
+gregtech:gt.meta.crate.dust:8273, oredict.crateGtDustPorcelain.name
 gregtech:gt.meta.crate.dust:8300, oredict.crateGtDustDiamond.name
 gregtech:gt.meta.crate.dust:8301, oredict.crateGtDustEmerald.name
 gregtech:gt.meta.crate.dust:8302, oredict.crateGtDustRuby.name
@@ -6285,6 +6273,8 @@ gregtech:gt.meta.crate.ingot:1740, oredict.crateGtIngotNaquadah.name
 gregtech:gt.meta.crate.ingot:1741, oredict.crateGtIngotNaquadahEnriched.name
 gregtech:gt.meta.crate.ingot:1742, oredict.crateGtIngotNaquadria.name
 gregtech:gt.meta.crate.ingot:2220, oredict.crateGtIngotAdamantium.name
+gregtech:gt.meta.crate.ingot:8003, oredict.crateGtIngotCarborundum.name
+gregtech:gt.meta.crate.ingot:8005, oredict.crateGtIngotFerrite.name
 gregtech:gt.meta.crate.ingot:8217, oredict.crateGtIngotRubber.name
 gregtech:gt.meta.crate.ingot:8218, oredict.crateGtIngotPlastic.name
 gregtech:gt.meta.crate.ingot:8343, oredict.crateGtIngotForce.name
@@ -6486,6 +6476,8 @@ gregtech:gt.meta.crate.plate:1740, oredict.crateGtPlateNaquadah.name
 gregtech:gt.meta.crate.plate:1741, oredict.crateGtPlateNaquadahEnriched.name
 gregtech:gt.meta.crate.plate:1742, oredict.crateGtPlateNaquadria.name
 gregtech:gt.meta.crate.plate:2220, oredict.crateGtPlateAdamantium.name
+gregtech:gt.meta.crate.plate:8003, oredict.crateGtPlateCarborundum.name
+gregtech:gt.meta.crate.plate:8005, oredict.crateGtPlateFerrite.name
 gregtech:gt.meta.crate.plate:8211, oredict.crateGtPlateBlaze.name
 gregtech:gt.meta.crate.plate:8214, oredict.crateGtPlateObsidian.name
 gregtech:gt.meta.crate.plate:8217, oredict.crateGtPlateRubber.name
@@ -6501,6 +6493,7 @@ gregtech:gt.meta.crate.plate:8238, oredict.crateGtPlateWaxParaffin.name
 gregtech:gt.meta.crate.plate:8239, oredict.crateGtPlateWaxPlant.name
 gregtech:gt.meta.crate.plate:8240, oredict.crateGtPlateWaxMagic.name
 gregtech:gt.meta.crate.plate:8267, oredict.crateGtPlateWoodPolished.name
+gregtech:gt.meta.crate.plate:8273, oredict.crateGtPlatePorcelain.name
 gregtech:gt.meta.crate.plate:8333, oredict.crateGtPlateRedstone.name
 gregtech:gt.meta.crate.plate:8339, oredict.crateGtPlateTeslatite.name
 gregtech:gt.meta.crate.plate:8340, oredict.crateGtPlateNikolite.name
@@ -6949,6 +6942,7 @@ gregtech:gt.block.glass.slab.0:12, gt.block.glass.slab.0.12.name
 gregtech:gt.block.glass.slab.0:13, gt.block.glass.slab.0.13.name
 gregtech:gt.block.glass.slab.0:14, gt.block.glass.slab.0.14.name
 gregtech:gt.block.glass.slab.0:15, gt.block.glass.slab.0.15.name
+gregtech:gt.block.ocean, fluid.seawater.name
 gregtech:gt.block.fluid.oil.extraheavy, fluid.liquid_extra_heavy_oil.name
 gregtech:gt.block.fluid.oil.heavy, fluid.liquid_heavy_oil.name
 gregtech:gt.block.fluid.oil.medium, fluid.liquid_medium_oil.name
@@ -9891,18 +9885,15 @@ ThermalDynamics:cover:0, 燃油 覆盖板
 ThermalDynamics:cover:0, tile.blockRedPlasma.name 覆盖板
 ThermalDynamics:cover:0, 采矿管道 覆盖板
 ThermalDynamics:cover:0, 框架 覆盖板
-ThermalDynamics:cover:0, 透视方块 覆盖板
-ThermalDynamics:cover:0, 龙矿 覆盖板
-ThermalDynamics:cover:0, 雨水传感器 覆盖板
-ThermalDynamics:cover:0, 龙块 覆盖板
-ThermalDynamics:cover:0, 充能龙块 覆盖板
-ThermalDynamics:cover:0, 能量塔 覆盖板
-ThermalDynamics:cover:0, tile.draconicevolution:safetyFlame.name 覆盖板
-ThermalDynamics:cover:0, 觉醒龙块 覆盖板
-ThermalDynamics:cover:0, 注入龙力的黑曜石 覆盖板
-ThermalDynamics:cover:0, 创造错位宝石 覆盖板
-ThermalDynamics:cover:0, tile.draconicevolution:chaosShardAtmos.name 覆盖板
 ThermalDynamics:cover:0, 护盾方块 覆盖板
+ThermalDynamics:cover:0, 盖亚石英块 覆盖板
+ThermalDynamics:cover:0, 盖亚石英楼梯 覆盖板
+ThermalDynamics:cover:0, 源质石英块 覆盖板
+ThermalDynamics:cover:0, 源质石英楼梯 覆盖板
+ThermalDynamics:cover:0, 盖亚石英台阶 覆盖板
+ThermalDynamics:cover:0, tile.botania:blockgaiaquartz0SlabFull.name 覆盖板
+ThermalDynamics:cover:0, 源质石英台阶 覆盖板
+ThermalDynamics:cover:0, tile.botania:blockelvenquartz0SlabFull.name 覆盖板
 ThermalDynamics:cover:0, Cutting Board 覆盖板
 ThermalDynamics:cover:0, Pot 覆盖板
 ThermalDynamics:cover:0, Beehive 覆盖板
@@ -10295,22 +10286,22 @@ ThermalDynamics:cover:0, 熔融虚空金属.name 覆盖板
 ThermalDynamics:cover:0, 精灵方块 覆盖板
 ThermalDynamics:cover:0, 铁血方块 覆盖板
 ThermalDynamics:cover:0, 赤金方块 覆盖板
-ThermalDynamics:cover:0, 巽风之焰 覆盖板
-ThermalDynamics:cover:0, 坤地之焰 覆盖板
-ThermalDynamics:cover:0, 离火之焰 覆盖板
-ThermalDynamics:cover:0, 混沌之焰 覆盖板
 ThermalDynamics:cover:0, 烟黑石英楼梯 覆盖板
-ThermalDynamics:cover:0, 基岩传送门 覆盖板
 ThermalDynamics:cover:0, tile.nitorGas.name 覆盖板
+ThermalDynamics:cover:0, 混沌之焰 覆盖板
 ThermalDynamics:cover:0, 秩序之焰 覆盖板
+ThermalDynamics:cover:0, 巽风之焰 覆盖板
+ThermalDynamics:cover:0, 离火之焰 覆盖板
+ThermalDynamics:cover:0, 基岩传送门 覆盖板
+ThermalDynamics:cover:0, 坤地之焰 覆盖板
+ThermalDynamics:cover:0, 烟黑石英台阶 覆盖板
+ThermalDynamics:cover:0, 烟黑石英台阶 覆盖板
 ThermalDynamics:cover:0, tile.gaseousLight.name 覆盖板
-ThermalDynamics:cover:0, 坎水之焰 覆盖板
-ThermalDynamics:cover:0, 烟黑石英台阶 覆盖板
-ThermalDynamics:cover:0, 烟黑石英台阶 覆盖板
-ThermalDynamics:cover:0, tile.gaseousShadow.name 覆盖板
 ThermalDynamics:cover:0, 烟黑石英块 覆盖板
 ThermalDynamics:cover:0, 雕琢烟黑石英块 覆盖板
 ThermalDynamics:cover:0, 柱状烟黑石英块 覆盖板
+ThermalDynamics:cover:0, tile.gaseousShadow.name 覆盖板
+ThermalDynamics:cover:0, 坎水之焰 覆盖板
 ThermalDynamics:cover:0, 奥法蛋糕 覆盖板
 ThermalDynamics:cover:0, 暗影玫瑰 覆盖板
 ThermalDynamics:cover:0, 下界之星方块 覆盖板
@@ -10883,6 +10874,7 @@ ThermalDynamics:cover:0, gt.block.glass.slab.0.12.name 覆盖板
 ThermalDynamics:cover:0, gt.block.glass.slab.0.13.name 覆盖板
 ThermalDynamics:cover:0, gt.block.glass.slab.0.14.name 覆盖板
 ThermalDynamics:cover:0, gt.block.glass.slab.0.15.name 覆盖板
+ThermalDynamics:cover:0, fluid.seawater.name 覆盖板
 ThermalDynamics:cover:0, fluid.liquid_extra_heavy_oil.name 覆盖板
 ThermalDynamics:cover:0, fluid.liquid_heavy_oil.name 覆盖板
 ThermalDynamics:cover:0, fluid.liquid_medium_oil.name 覆盖板
@@ -13764,14 +13756,10 @@ appliedenergistics2:item.ItemFacade:0, 线缆伪装板 - 水晶矩阵
 appliedenergistics2:item.ItemFacade:0, 线缆伪装板 - 中子态素块
 appliedenergistics2:item.ItemFacade:0, 线缆伪装板 - 无尽之块
 appliedenergistics2:item.ItemFacade:0, 线缆伪装板 - tile.buildToolBlock.name
-appliedenergistics2:item.ItemFacade:0, 线缆伪装板 - 透视方块
-appliedenergistics2:item.ItemFacade:0, 线缆伪装板 - 龙矿
-appliedenergistics2:item.ItemFacade:0, 线缆伪装板 - 龙块
-appliedenergistics2:item.ItemFacade:0, 线缆伪装板 - 充能龙块
-appliedenergistics2:item.ItemFacade:0, 线缆伪装板 - 能量塔
-appliedenergistics2:item.ItemFacade:0, 线缆伪装板 - 觉醒龙块
-appliedenergistics2:item.ItemFacade:0, 线缆伪装板 - 注入龙力的黑曜石
-appliedenergistics2:item.ItemFacade:0, 线缆伪装板 - 创造错位宝石
+appliedenergistics2:item.ItemFacade:0, 线缆伪装板 - 盖亚石英块
+appliedenergistics2:item.ItemFacade:0, 线缆伪装板 - 源质石英块
+appliedenergistics2:item.ItemFacade:0, 线缆伪装板 - tile.botania:blockgaiaquartz0SlabFull.name
+appliedenergistics2:item.ItemFacade:0, 线缆伪装板 - tile.botania:blockelvenquartz0SlabFull.name
 appliedenergistics2:item.ItemFacade:0, 线缆伪装板 - Beehive
 appliedenergistics2:item.ItemFacade:0, 线缆伪装板 - tile.sink.name
 appliedenergistics2:item.ItemFacade:0, 线缆伪装板 - tile.sink.name
@@ -16113,1112 +16101,6 @@ CarpentersBlocks:itemCarpentersTile, 木匠瓷砖
 CarpentersBlocks:itemCarpentersDoor, 木匠门
 CarpentersBlocks:itemCarpentersBed, 木匠床
 compactstorage:backpack, Backpack
-props:props:0, 毛绒爬行者
-props:props:1, 葡萄酒瓶
-props:props:2, 落地式大摆钟
-props:props:3, 积木
-props:props:4, 纺车
-props:props:5, 玩偶匣
-props:props:6, 纸飞机
-props:props:7, 金锭堆
-props:props:8, 摇摆木马
-props:props:9, 玩具士兵
-props:props:10, R2 D2机器人
-props:props:11, Rubkik魔方
-props:props:12, 玩具船
-props:props:13, 精致餐具
-props:props:14, 钢琴
-props:props:15, 橙色染色玻璃
-props:props:16, 品红色染色玻璃
-props:props:17, 淡蓝色染色玻璃
-props:props:18, 黄色染色玻璃
-props:props:19, 黄绿色染色玻璃
-props:props:20, 粉色染色玻璃
-props:props:21, 青色染色玻璃
-props:props:22, 紫色染色玻璃
-props:props:23, 蓝色染色玻璃
-props:props:24, 绿色染色玻璃
-props:props:25, 红色染色玻璃
-props:props:26, 白色染色玻璃
-props:props:27, 茶具
-props:props:28, 茶杯
-props:props:29, 板条箱
-props:props:30, 野餐篮
-props:props:31, 布谷鸟钟
-props:props:32, 南瓜三兄弟
-props:props:33, 婴儿床
-props:props:34, 木琴
-props:props:35, 玩具火车
-props:props:36, DiscordMLP
-props:props:37, 稻草人
-props:props:38, 装满的酒架
-props:props:39, 空酒架
-props:props:40, 橙色剪纸
-props:props:41, 黑色剪纸
-props:props:42, 蓝色剪纸
-props:props:43, 青色剪纸
-props:props:44, 绿色剪纸
-props:props:45, 淡蓝色剪纸
-props:props:46, 黄绿色剪纸
-props:props:47, 品红色剪纸
-props:props:48, 粉色剪纸
-props:props:49, 紫色剪纸
-props:props:50, 红色剪纸
-props:props:51, 白色剪纸
-props:props:52, 黄色剪纸
-props:props:53, 金像
-props:props:54, 银像
-props:props:55, 青铜像
-props:props:56, 训练假人
-props:props:57, 毛绒兔子
-props:props:58, 毛绒泰迪熊
-props:props:59, 铁锭堆
-props:props:60, 青铜锭堆
-props:props:61, 牛皮架子
-props:props:62, 皮革架子
-props:props:63, 狼皮架子
-props:props:64, 磨石
-props:props:65, 熨衣板
-props:props:66, 晾衣绳1
-props:props:67, 晾衣绳2
-props:props:68, 晾衣绳3
-props:props:69, 晾衣绳4
-props:props:70, 晾衣绳5
-props:props:71, 晾衣绳6
-props:props:72, 洗衣板
-props:props:73, 鸟舍
-props:props:74, 大狗屋
-props:props:75, 小狗屋
-props:props:76, 毛绒狼
-props:props:77, 南瓜1
-props:props:78, 南瓜2
-props:props:79, 南瓜3
-props:props:80, 隔板
-props:props:81, 打乱的鲁比克魔方
-props:props:82, 野餐桌(左)
-props:props:83, 野餐桌(中)
-props:props:84, 野餐桌(右)
-props:props:85, 墓碑1
-props:props:86, 墓碑2
-props:props:87, 墓碑3
-props:props:88, 公园垃圾桶
-props:props:89, 桶
-props:props:90, 公园长椅
-props:props:91, 带锁的箱子
-props:props:92, Tardis时间机器
-props:props:93, 珠宝盒
-props:props:94, 花环
-props:props:95, 竖琴
-props:props:96, 梳子与刷子
-props:props:97, 蜘蛛蜡烛
-props:props:98, 毛绒蜘蛛
-props:props:99, 啤酒桶
-props:props:100, 大啤酒桶
-props:props:101, 平放的桶
-props:props:102, 大锚
-props:props:103, 锚
-props:props:104, 行李堆
-props:props:105, 保险箱
-props:props:106, 烤火鸡
-props:props:107, 神奇画板
-props:props:108, 留声机
-props:props:109, 绳子
-props:props:110, 冰锥
-props:props:111, 锁链(顶)
-props:props:112, 锁链(中)
-props:props:113, 锁链(底)
-props:props:114, 蜂蜜罐
-props:props:115, 沙漏
-props:props:116, 啤酒杯
-props:props:117, 火烈鸟
-props:props:118, 墙镜
-props:props:119, 花园地精
-props:props:120, 西部移民
-props:props:121, 印第安人
-props:props:122, 望远镜
-props:props:123, 缝纫机
-props:props:124, 跷跷板
-props:props:125, 圣诞彩灯
-props:props:126, 圣诞花环1
-props:props:127, 圣诞花环2
-props:props:128, 圣诞装饰1
-props:props:129, 圣诞装饰2
-props:props:130, 圣诞装饰3
-props:props:131, 圣诞装饰4
-props:props:132, 圣诞装饰5
-props:props:133, 圣诞装饰6
-props:props:134, 圣诞装饰7
-props:props:135, 礼物1
-props:props:136, 礼物2
-props:props:137, 礼物3
-props:props:138, 秋千
-props:props:139, 纸灯笼
-props:props:140, 厕纸
-props:props:141, 圣诞树
-props:props:142, 小圣诞树
-props:props:143, 纸巾盒
-props:props:144, 雪花玻璃球
-props:props:145, 雪橇
-props:props:146, 滑梯
-props:props:147, 雪人
-props:props:148, 圣诞装饰8
-props:props:149, 圣诞装饰9
-props:props:150, 圣诞装饰10
-props:props:151, 驯鹿
-props:props:152, 毛绒驯鹿
-props:props:153, 圣诞铃
-props:props:154, 姜饼屋
-props:props:155, 毛绒精灵
-props:props:156, 牛奶与饼干
-props:props:157, 糖果罐
-props:props:158, 圣诞袜1
-props:props:159, 圣诞袜2
-props:props:160, 槲寄生
-props:props:161, 毛绒圣诞老人
-props:props:162, 礼物1
-props:props:163, 礼物2
-props:props:164, 礼物3
-props:props:165, 礼物4
-props:props:166, 礼物5
-props:props:167, 礼物6
-props:props:168, 礼物7
-props:props:169, 礼物8
-props:props:170, 礼物9
-props:props:171, 小圣诞树
-props:props:172, 地球仪
-props:props:173, 水晶球
-props:props:174, 玫瑰玻璃罐
-props:props:175, 订婚戒指
-props:props:176, 沙堡
-props:props:177, 风铃
-props:props:178, 花园火烈鸟
-props:props:179, 纸灯笼(汉字)
-props:props:180, 纸灯笼(粉色)
-props:props:181, 纸灯笼(樱花)
-props:props:182, 纸灯笼(紫色)
-props:props:183, 纸灯笼(绿色)
-props:props:184, 纸灯笼(黄色)
-props:props:185, 理发店壁灯
-props:props:186, 理发店地灯
-props:props:187, 泼洒的药瓶
-props:props:188, 药瓶
-props:props:189, 标牌(蜂蜜)
-props:props:190, 标牌(药剂)
-props:props:191, 标牌(药剂2)
-props:props:192, 标牌(射箭)
-props:props:193, 标牌(面包店)
-props:props:194, 标牌(面包店2)
-props:props:195, 标牌(银行)
-props:props:196, 标牌(铁匠)
-props:props:197, 标牌(炸弹)
-props:props:198, 标牌(书)
-props:props:199, 标牌(屠夫)
-props:props:200, 标牌(篝火)
-props:props:201, 标牌(糖果)
-props:props:202, 标牌(农田)
-props:props:203, 标牌(鱼)
-props:props:204, 标牌(花)
-props:props:205, 标牌(杂货)
-props:props:206, 标牌(旅馆)
-props:props:207, 标牌(监狱)
-props:props:208, 标牌(珠宝)
-props:props:209, 标牌(珠宝2)
-props:props:210, 标牌(伐木)
-props:props:211, 标牌(魔法)
-props:props:212, 标牌(地图)
-props:props:213, 标牌(采矿)
-props:props:214, 标牌(宠物)
-props:props:215, 标牌(产品)
-props:props:216, 标牌(酒馆)
-props:props:217, 标牌(蹄铁)
-props:props:218, 标牌(缝纫)
-props:props:219, 标牌(玩具)
-props:props:220, 标牌(葡萄园)
-props:props:221, 标牌(剑)
-props:props:222, 标牌(头盔)
-props:props:223, 标牌(家具)
-props:props:224, 标牌(音乐)
-props:props:225, 标牌(盾牌)
-props:props:226, 衣帽架
-props:props:227, 棋盘
-props:props:228, 天平
-props:props:229, 玻璃桌子
-props:props:230, 木桌
-props:props:231, 木椅
-props:props:232, 石椅
-props:props:233, 毛绒牛
-props:props:234, 毛绒猪
-props:props:235, 毛绒羊
-props:props:236, 毛绒墨鱼
-props:props:237, 毛绒小鸡
-props:props:238, 毛绒老虎
-props:props:239, 毛绒松鼠
-props:props:240, 奶瓶
-props:props:241, 调味瓶
-props:props:242, 水桶
-props:props:243, 牛奶桶
-props:props:244, 蜡烛台
-props:props:245, 壁挂蜡烛
-props:props:246, 品红色台灯
-props:props:247, 橙色台灯
-props:props:248, 红色台灯
-props:props:249, 青色台灯
-props:props:250, 黄绿色台灯
-props:props:251, 灰色台灯
-props:props:252, 粉色台灯
-props:props:253, 黄色台灯
-props:props:254, 绿色台灯
-props:props:255, 黑色台灯
-props:props:256, 白色台灯
-props:props:257, 紫色台灯
-props:props:258, 蓝色台灯
-props:props:259, 淡蓝色台灯
-props:props:260, 奶酪轮
-props:props:261, 手推车
-props:props:262, 飞镖板
-props:props:263, 黑板
-props:props:264, 蓝色香水
-props:props:265, 粉色香水
-props:props:266, 紫色香水
-props:props:267, 黄绿色香水
-props:props:268, 青色香水
-props:props:269, 橙色香水
-props:props:270, 红色香水
-props:props:271, 卡牌堆
-props:props:272, 赌徒牌
-props:props:273, 煤堆和铲子
-props:props:274, 煤堆
-props:props:275, 果盘
-props:props:276, 花瓶
-props:props:277, Jill玩偶
-props:props:278, Mia玩偶
-props:props:279, 老式电话
-props:props:280, 地上的剑
-props:props:281, 八音盒
-props:props:282, 玩具直升机
-props:props:283, 浴巾
-props:props:284, 手巾
-props:props:285, 钥匙串
-props:props:286, 吊桥(左)
-props:props:287, 吊桥(右)
-props:props:288, 吊桥桩(左)
-props:props:289, 吊桥桩(右)
-props:props:290, 吊桥(单)
-props:props:291, 吊桥桩(单)
-props:props:292, Gennaln玩偶
-props:props:293, 鱼标本
-props:props:294, 蜂鸟喂食器
-props:props:295, 铁吊灯
-props:props:296, 金吊灯
-props:props:297, 水晶吊灯
-props:props:298, 架子
-props:props:299, 香肠串
-props:props:300, 粉色单人床
-props:props:301, 棕色单人床
-props:props:302, 橙色单人床
-props:props:303, 紫色单人床
-props:props:304, 蓝色单人床
-props:props:305, 黄绿色单人床
-props:props:306, 绿色单人床
-props:props:307, 紫红色单人床
-props:props:308, 淡蓝色单人床
-props:props:309, 紫罗兰色单人床
-props:props:310, 红色单人床
-props:props:311, 白色单人床
-props:props:312, 黑色单人床
-props:props:313, 黄色单人床
-props:props:314, 珊瑚色单人床
-props:props:315, 青色单人床
-props:props:316, 气球
-props:props:317, 桶装红苹果
-props:props:318, 桶装金苹果
-props:props:319, 桶装青苹果
-props:props:320, 马桶
-props:props:321, 厕所水管
-props:props:322, 厕所水箱
-props:props:323, 化妆台(左)
-props:props:324, 化妆台(中)
-props:props:325, 化妆台(右)
-props:props:326, 桶装土豆
-props:props:327, 桶装胡萝卜
-props:props:328, 画架
-props:props:329, 纸堆
-props:props:330, 鸟浴
-props:props:331, 鸡蛋篮子
-props:props:332, 铁丝网
-props:props:333, 相机
-props:props:334, 淋浴喷头
-props:props:335, 淋浴水阀
-props:props:336, 肥皂架
-props:props:337, 显微镜
-props:props:338, 烤乳猪
-props:props:339, 厨房龙头(靠外）
-props:props:340, 水龙头(靠外）
-props:props:341, 厨房龙头(靠内）
-props:props:342, 水龙头(靠内）
-props:props:343, 厨房水槽
-props:props:344, 水槽
-props:props:345, 浴缸龙头
-props:props:350, 面条
-props:props:351, 面包
-props:props:352, 床头柜
-props:props:353, 瓶中船
-props:props:354, 消防栓
-props:props:355, 黄绿色熔岩灯
-props:props:356, 青色熔岩灯
-props:props:357, 橙色熔岩灯
-props:props:358, 淡蓝色熔岩灯
-props:props:359, 紫色熔岩灯
-props:props:360, 淡粉色熔岩灯
-props:props:361, 蓝色熔岩灯
-props:props:362, 绿色熔岩灯
-props:props:363, 白色熔岩灯
-props:props:364, 红色熔岩灯
-props:props:365, 华丽色熔岩灯
-props:props:366, 黄色熔岩灯
-props:props:367, 粉色熔岩灯
-props:props:368, 彩色熔岩灯
-props:props:369, 扫帚
-props:props:370, 拖把
-props:props:371, 香料架
-props:props:372, 架子链条
-props:props:373, 骑士雕像
-props:props:374, 太阳系仪
-props:props:375, 太阳壁饰
-props:props:376, 月亮壁饰
-props:props:377, 粉色双人床(左)
-props:props:378, 粉色双人床(右)
-props:props:379, 棕色双人床(左)
-props:props:380, 棕色双人床(右)
-props:props:381, 橙色双人床(左)
-props:props:382, 橙色双人床(右)
-props:props:383, 紫色双人床(左)
-props:props:384, 紫色双人床(右)
-props:props:385, 蓝色双人床(左)
-props:props:386, 蓝色双人床(右)
-props:props:387, 黄绿色双人床(左)
-props:props:388, 黄绿色双人床(右)
-props:props:389, 绿色双人床(左)
-props:props:390, 绿色双人床(右)
-props:props:391, 紫红色双人床(左)
-props:props:392, 紫红色双人床(右)
-props:props:393, 淡蓝色双人床(左)
-props:props:394, 淡蓝色双人床(右)
-props:props:395, 紫罗兰色双人床(左)
-props:props:396, 紫罗兰色双人床(右)
-props:props:397, 红色双人床(左)
-props:props:398, 红色双人床(右)
-props:props:399, 白色双人床(左)
-props:props:400, 白色双人床(右)
-props:props:401, 黑色双人床(左)
-props:props:402, 黑色双人床(右)
-props:props:403, 黄色双人床(左)
-props:props:404, 黄色双人床(右)
-props:props:405, 珊瑚色双人床(左)
-props:props:406, 珊瑚色双人床(右)
-props:props:407, 青色双人床(左)
-props:props:408, 青色双人床(右)
-props:props:409, 粉色双人床(左)
-props:props:410, 粉色双人床(右)
-props:props:411, 棕色天蓬床(左)
-props:props:412, 棕色天蓬床(右)
-props:props:413, 橙色天蓬床(左)
-props:props:414, 橙色天蓬床(右)
-props:props:415, 紫色天蓬床(左)
-props:props:416, 紫色天蓬床(右)
-props:props:417, 蓝色天蓬床(左)
-props:props:418, 蓝色天蓬床(右)
-props:props:419, 黄绿色天蓬床(左)
-props:props:420, 黄绿色天蓬床(右)
-props:props:421, 绿色天蓬床(左)
-props:props:422, 绿色天蓬床(右)
-props:props:423, 紫红色天蓬床(左)
-props:props:424, 紫红色天蓬床(右)
-props:props:425, 淡蓝色天蓬床(左)
-props:props:426, 淡蓝色天蓬床(右)
-props:props:427, 华丽色天蓬床(左)
-props:props:428, 华丽色天蓬床(右)
-props:props:429, 红色天蓬床(左)
-props:props:430, 红色天蓬床(右)
-props:props:431, 白色天蓬床(左)
-props:props:432, 白色天蓬床(右)
-props:props:433, 黑色天蓬床(左)
-props:props:434, 黑色天蓬床(右)
-props:props:435, 黄色天蓬床(左)
-props:props:436, 黄色天蓬床(右)
-props:props:437, 珊瑚色天蓬床(左)
-props:props:438, 珊瑚色天蓬床(右)
-props:props:439, 青色天蓬床(左)
-props:props:440, 青色天蓬床(右)
-props:props:441, 彩虹吊床
-props:props:442, 吊绳
-props:props:443, 赞助人玩偶Girafi
-props:props:444, 化学仪器
-props:props:445, 赞助人玩偶BevoLJ
-props:props:446, 赞助人玩偶BulletPhase
-props:props:447, 赞助人玩偶Revstrom
-props:props:448, 结婚蛋糕
-props:props:449, 泡泡糖贩卖机
-props:props:450, 耙
-props:props:451, 洒水壶
-props:props:452, 海贝
-props:props:453, 烤面包机
-props:props:454, 牛顿撞球
-props:props:455, 赞助人玩偶coffee2002
-props:props:456, 水族馆
-props:props:457, 赞助人玩偶rckymtnrfc
-props:props:458, 赞助人玩偶fergcraft
-props:props:459, 赞助人玩偶Saice
-props:props:460, 赞助人玩偶Taelnia
-props:props:461, 船舵
-props:props:462, 培根平底锅
-props:props:463, 追梦者
-props:props:464, 干草堆与草叉
-props:props:465, 干草堆
-props:props:466, 摇椅
-props:props:467, 教堂靠背长椅(右)
-props:props:468, 教堂靠背长椅(中)
-props:props:469, 教堂靠背长椅(左)
-props:props:470, 跪垫
-props:props:471, 老旧电视
-props:props:472, 防火警报
-props:props:473, 座钟
-props:props:474, 笔记本电脑
-props:props:475, 书柜(右)
-props:props:476, 书柜(左)
-props:props:477, 满载马车
-props:props:478, 空马车
-props:props:479, 手推车(煤)
-props:props:480, 手推车(草料)
-props:props:481, 手推车(石头)
-props:props:482, 手推车(水壶)
-props:props:483, 木桌2
-props:props:484, Stock
-props:props:485, 加农炮
-props:props:486, 炮弹堆
-props:props:487, 木桌3
-props:props:488, 小堆金币
-props:props:489, 小堆银币
-props:props:490, 赞助人玩偶ChJees
-props:props:491, 赞助人玩偶Xaw4
-props:props:492, 旅行地图贴墙罗盘
-props:props:493, 骷髅1
-props:props:494, 骷髅2
-props:props:495, 骷髅3
-props:props:496, 骷髅4
-props:props:497, 原木长椅(右)
-props:props:498, 原木长椅(左)
-props:props:499, 斧头
-props:props:500, 甜甜圈
-props:props:501, 西班牙火腿
-props:props:502, 木棺材1
-props:props:503, 木棺材2
-props:props:504, 木棺材3
-props:props:505, 木棺材4
-props:props:506, 石棺材1
-props:props:507, 石棺材2
-props:props:508, 装饰工作台
-props:props:509, 梳妆台
-props:props:510, 餐具柜
-props:props:511, 衣柜
-props:props:512, 骨灰瓮
-props:props:513, 渔网
-props:props:514, 解剖学标本
-props:props:515, 地牢骷髅1
-props:props:516, 地牢骷髅2
-props:props:517, 地牢骷髅3
-props:props:518, 战利品-僵尸
-props:props:519, 战利品-鹿
-props:props:520, 战利品-熊
-props:props:521, 鸟笼
-props:props:522, 土豆派
-props:props:523, 胡萝卜派
-props:props:524, 牛奶罐
-props:props:525, 木质啤酒杯
-props:props:526, 吊顶风扇
-props:props:527, 黑熊皮
-props:props:528, 赞助人玩偶DuskMoon
-props:props:529, 轮胎秋千
-props:props:530, 赞助人玩偶JudgeGrimm
-props:props:531, 赞助人玩偶Jakimfett
-props:props:532, 赞助人玩偶tmzasz
-props:props:533, 赞助人玩偶Haggle1996
-props:props:534, 赞助人玩偶Gellegbs
-props:props:535, 地牢骷髅4
-props:props:536, 悬挂的野味
-props:props:537, 白色吊床
-props:props:538, 笔与墨
-props:props:539, 讲台
-props:props:540, 悬挂的鱼
-props:props:541, 弥诺陶洛斯人偶
-props:props:542, 赞助人玩偶CarrieExMachina
-props:props:543, 瓦西里休闲椅
-props:props:544, 红蓝休闲椅
-props:props:545, 巴塞罗那椅
-props:props:546, 桶背椅
-props:props:547, 蚁椅
-props:props:548, 曲木椅
-props:props:549, “月亮有多高”椅
-props:props:550, 高瓴椅
-props:props:551, 原处之椅
-props:props:552, 木质书桌
-props:props:553, 木质办公椅
-props:props:554, 档案柜
-props:props:555, 树秋千
-props:props:556, 自动唱片点唱机
-props:props:557, 台球桌
-props:props:558, 赞助人玩偶ZeroKazuma
-props:props:559, 赞助人玩偶Seriiiously
-props:props:560, 赞助人玩偶Daycarn
-props:props:561, 赞助人玩偶OnyxDarkKnight
-props:props:562, 赞助人玩偶Latvian
-props:props:563, 赞助人玩偶OpenKerley
-props:props:564, 赞助人玩偶Beanxxbot
-props:props:565, 赞助人玩偶Lividcoffee
-props:props:566, 捐款箱
-props:props:567, 底柜
-props:props:568, 底柜2
-props:props:569, 底柜3
-props:props:570, 顶柜
-props:props:571, 顶柜(玻璃)
-props:props:572, 酒架
-props:props:573, 男孩的玩具箱
-props:props:574, 女孩的玩具箱
-props:props:575, MCW Ring
-props:props:576, 男孩的着装台
-props:props:577, 女孩的梳妆台
-props:props:578, 男孩的抽屉柜
-props:props:579, 女孩的抽屉柜
-props:props:580, 小猪存钱罐
-props:props:581, 玩具屋1
-props:props:582, 玩具屋2
-props:props:583, 篮球架
-props:props:584, 篮球
-props:props:585, 小鱼缸
-props:props:586, 厨房水龙头2
-props:props:587, 厨房水龙头3
-props:props:588, 槽马桩
-props:props:589, 扫帚柜2
-props:props:590, 橱柜
-props:props:591, 底柜(中央)
-props:props:592, 底柜拐角(左)
-props:props:593, 底柜拐角(右)
-props:props:594, 刀架
-props:props:595, 茶杯钩
-props:props:596, 条形刀架
-props:props:597, 罩柜
-props:props:598, 钢罩
-props:props:599, 内置微波炉
-props:props:600, 灶台
-props:props:601, 食物加工机
-props:props:602, 烤炉(墙壁)
-props:props:603, 烤炉(接地)
-props:props:604, 厨房用具挂钩
-props:props:605, 菜板
-props:props:606, 墙柜
-props:props:607, 墙柜(黑)
-props:props:608, 底柜(黑)
-props:props:609, 底柜(黑2)
-props:props:610, 底柜(黑3)
-props:props:611, 厨房水槽(黑)
-props:props:612, 底柜中央(黑)
-props:props:613, 酒架(黑)
-props:props:614, 接地烤炉(黑)
-props:props:615, 墙壁烤炉(黑)
-props:props:617, 橱柜(黑)
-props:props:618, 内置微波炉(黑)
-props:props:619, 罩柜(黑)
-props:props:620, 底柜右角(黑)
-props:props:621, 底柜左角(黑)
-props:props:622, 扫帚柜2
-props:props:623, 顶部玻璃柜(黑)
-props:props:624, 顶柜(黑)
-props:props:625, 手摇水泵
-props:props:626, 大冰箱
-props:props:627, 小冰箱
-props:props:628, 碗碟架
-props:props:629, 碗碟架2
-props:props:630, 赞助人玩偶Davexx100
-props:props:631, 壁炉火
-props:props:632, 沙袋
-props:props:633, 玩具火箭
-props:props:634, 梨形沙袋
-props:props:635, ProfMobius And Razz Dolls
-props:props:636, Alarm Clock
-props:props:637, Treasure Map
-props:props:638, ToothBrush Case
-props:props:639, Mailbox
-props:props:640, Plunger
-props:props:641, Round Wall Clock
-props:props:642, Candy Bowl
-props:props:643, Bathroom Sign Female
-props:props:644, Bathroom Sign Male
-props:props:645, Giant Spider Web
-props:props:646, Patron Doll Trustlines
-props:props:647, Patron Doll Iarinu Tatsu
-props:props:648, Patron Doll TheJays
-props:props:649, Patron Doll Skuli
-props:props:650, Patron Doll convict999
-props:props:651, Altar De Muertos
-props:props:652, Tiki Torch
-props:props:653, Guillotine
-props:props:654, Dynamite Sticks
-props:props:655, Skull Candle
-props:props:656, Birthday Cake
-props:props:657, Birthday Cake 2
-props:props:658, Witch Cauldron
-props:props:659, Bathroom Sign
-props:props:660, Candy Corn Bowl
-props:props:661, IV Stand
-props:props:662, Radiator
-props:props:663, Staircase Light
-props:props:664, Staircase Dark
-props:props:665, Staircase Stone
-props:props:666, Staircase Quartz
-props:props:667, Staircase Light Landing
-props:props:668, Staircase Dark Landing
-props:props:669, Staircase Stone Landing
-props:props:670, Staircase Quartz Landing
-props:props:671, Staircase Light End Rail
-props:props:672, Staircase Dark End Rail
-props:props:673, Staircase Stone End Rail
-props:props:674, Staircase Quartz End Rail
-props:props:675, Stethoscope
-props:props:676, Wheelchair
-props:props:677, Gas Cylinder
-props:props:678, Gas Cylinder 2
-props:props:679, Syringe 1
-props:props:680, Syringe 2
-props:props:681, Hospital Bed
-props:props:682, Heart Monitor
-props:props:683, XRay1
-props:props:684, XRay2
-props:props:685, XRay3
-props:props:686, Hospital Curtain
-props:props:687, Pills
-props:props:688, Neon Lamp
-props:props:689, Defibrilator
-props:props:690, Rolling Tray
-props:props:691, Tool Tray Table
-props:props:692, Surgical Tools
-props:props:693, Art Supplies
-props:props:694, Crown With Pillow
-props:props:695, Diving Board
-props:props:696, Mixer
-props:props:697, Bone
-props:props:698, Window Barricade
-props:props:699, Patron Doll meepmeep
-props:props:700, Advent Wreath
-props:props:701, Arm Chair White
-props:props:702, Arm Chair Brown
-props:props:703, Arm Chair Orange
-props:props:704, Arm Chair Purple
-props:props:705, Arm Chair Blue
-props:props:706, Arm Chair Lime
-props:props:707, Arm Chair Green
-props:props:708, Arm Chair Fuchsia
-props:props:709, Arm Chair Light Blue
-props:props:710, Arm Chair Razzle
-props:props:711, Arm Chair Red
-props:props:712, Arm Chair Pink
-props:props:713, Arm Chair Black
-props:props:714, Arm Chair Yellow
-props:props:715, Arm Chair Coral
-props:props:716, Arm Chair Cyan
-props:props:717, Couch Left
-props:props:718, Couch Left Brown
-props:props:719, Couch Left Orange
-props:props:720, Couch Left Purple
-props:props:721, Couch Left Blue
-props:props:722, Couch Left Lime
-props:props:723, Couch Left Green
-props:props:724, Couch Left Fuchsia
-props:props:725, Couch Left Light Blue
-props:props:726, Couch Left Razzle
-props:props:727, Couch Left Red
-props:props:728, Couch Left Pink
-props:props:729, Couch Left Black
-props:props:730, Couch Left Yellow
-props:props:731, Couch Left Coral
-props:props:732, Couch Left Cyan
-props:props:733, Couch Center
-props:props:734, Couch Center Brown
-props:props:735, Couch Center Orange
-props:props:736, Couch Center Purple
-props:props:737, Couch Center Blue
-props:props:738, Couch Center Lime
-props:props:739, Couch Center Green
-props:props:740, Couch Center Fuchsia
-props:props:741, Couch Center Light Blue
-props:props:742, Couch Center Razzle
-props:props:743, Couch Center Red
-props:props:744, Couch Center Pink
-props:props:745, Couch Center Black
-props:props:746, Couch Center Yellow
-props:props:747, Couch Center Coral
-props:props:748, Couch Center Cyan
-props:props:749, Couch Right
-props:props:750, Couch Right Brown
-props:props:751, Couch Right Orange
-props:props:752, Couch Right Purple
-props:props:753, Couch Right Blue
-props:props:754, Couch Right Lime
-props:props:755, Couch Right Green
-props:props:756, Couch Right Fuchsia
-props:props:757, Couch Right Light Blue
-props:props:758, Couch Right Razzle
-props:props:759, Couch Right Red
-props:props:760, Couch Right Pink
-props:props:761, Couch Right Black
-props:props:762, Couch Right Yellow
-props:props:763, Couch Right Coral
-props:props:764, Couch Right Cyan
-props:props:765, Couch Corner
-props:props:766, Couch Corner Brown
-props:props:767, Couch Corner Orange
-props:props:768, Couch Corner Purple
-props:props:769, Couch Corner Blue
-props:props:770, Couch Corner Lime
-props:props:771, Couch Corner Green
-props:props:772, Couch Corner Fuchsia
-props:props:773, Couch Corner Light Blue
-props:props:774, Couch Corner Razzle
-props:props:775, Couch Corner Red
-props:props:776, Couch Corner Pink
-props:props:777, Couch Corner Black
-props:props:778, Couch Corner Yellow
-props:props:779, Couch Corner Coral
-props:props:780, Couch Corner Cyan
-props:props:781, PC
-props:props:782, PC Brown
-props:props:783, PC Orange
-props:props:784, PC Purple
-props:props:785, PC Blue
-props:props:786, PC Lime
-props:props:787, PC Green
-props:props:788, PC Fuchsia
-props:props:789, PC Light Blue
-props:props:790, PC Razzle
-props:props:791, PC Red
-props:props:792, PC Pink
-props:props:793, PC Black
-props:props:794, PC Yellow
-props:props:795, PC Coral
-props:props:796, PC Cyan
-props:props:797, Screen/Keyboard
-props:props:798, ScreenRight
-props:props:799, ScreenLeft
-props:props:800, Microwave
-props:props:801, Patron Doll FoxingtonFox
-props:props:802, Patron Doll MikanPachi
-props:props:803, Patron Doll Viesis
-props:props:804, Patron Doll Hazzar
-props:props:805, Minetendo
-props:props:806, Sword Stand
-props:props:808, WoodenSpikes
-props:props:809, Crate Red Apple
-props:props:810, Crate Golden Apple
-props:props:811, Crate Green Apples
-props:props:812, Crate Carrots
-props:props:813, Crate Potatoes
-props:props:814, Crate Oranges
-props:props:815, Crate Bananas
-props:props:816, Crate Pears
-props:props:817, Crate Beetroot
-props:props:818, Crate Tomatoes
-props:props:819, Crate Onions
-props:props:820, Crate Lettuce
-props:props:821, Crate Corn
-props:props:822, Patron Doll donald108
-props:props:823, Patron Doll Beroos Wain
-props:props:824, Spanish Beast
-props:props:825, Patron Doll Rojo
-props:props:826, Salmon Crate
-props:props:827, Mackerel Crate
-props:props:828, Lobster Crate
-props:props:829, Mussel Crate
-props:props:830, Shrimp Crate
-props:props:831, Sack Barley
-props:props:832, Sack Rice
-props:props:833, Sack Curry
-props:props:834, Sack Ginger
-props:props:835, Sack Saffron
-props:props:836, Sack Razzle Spice
-props:props:837, Sack Indigo Powder
-props:props:838, Sack Flour
-props:props:839, Sack Pepper
-props:props:840, Sack Salt
-props:props:841, Sack Tornado Spice
-props:props:842, Sack Green Tea
-props:props:843, Sack Taelnia Spice
-props:props:845, Cash Register
-props:props:846, Garden Swing Left
-props:props:847, Garden Swing Left Brown
-props:props:848, Garden Swing Left Orange
-props:props:849, Garden Swing Left Purple
-props:props:850, Garden Swing Left Blue
-props:props:851, Garden Swing Left Lime
-props:props:852, Garden Swing Left Green
-props:props:853, Garden Swing Left Fuchsia
-props:props:854, Garden Swing Left Light Blue
-props:props:855, Garden Swing Left Razzle
-props:props:856, Garden Swing Left Red
-props:props:857, Garden Swing Left Pink
-props:props:858, Garden Swing Left Black
-props:props:859, Garden Swing Left Yellow
-props:props:860, Garden Swing Left Coral
-props:props:861, Garden Swing Left Cyan
-props:props:862, Garden Swing Middle Left
-props:props:863, Garden Swing Middle Right
-props:props:864, Garden Swing Right
-props:props:865, Garden Swing Right Brown
-props:props:866, Garden Swing Right Orange
-props:props:867, Garden Swing Right Purple
-props:props:868, Garden Swing Right Blue
-props:props:869, Garden Swing Right Lime
-props:props:870, Garden Swing Right Green
-props:props:871, Garden Swing Right Fuchsia
-props:props:873, Garden Swing Right Razzle
-props:props:874, Garden Swing Right Red
-props:props:875, Garden Swing Right Pink
-props:props:876, Garden Swing Right Black
-props:props:877, Garden Swing Right Yellow
-props:props:878, Garden Swing Right Coral
-props:props:879, Garden Swing Right Cyan
-props:props:880, Mexican Table
-props:props:881, Mexican Table Fuchisa
-props:props:882, Mexican Table Orange
-props:props:883, Mexican Table Green
-props:props:884, Mexican Table Red
-props:props:885, Mexican Table Cyan
-props:props:886, Mexican Table Pink
-props:props:887, Mexican Table Blue
-props:props:888, Mexican Table Purple
-props:props:889, Mexican Table Large
-props:props:890, Mexican Table Large Fuchisa
-props:props:891, Mexican Table Large Orange
-props:props:892, Mexican Table Large Green
-props:props:893, Mexican Table Large Red
-props:props:894, Mexican Table Large Cyan
-props:props:895, Mexican Table Large Pink
-props:props:896, Mexican Table Large Blue
-props:props:897, Mexican Table Large Purple
-props:props:898, Mexican Chair
-props:props:899, Mexican Chair Fuchisa
-props:props:900, Mexican Chair Orange
-props:props:901, Mexican Chair Green
-props:props:902, Mexican Chair Red
-props:props:903, Mexican Chair Cyan
-props:props:904, Mexican Chair Pink
-props:props:905, Mexican Chair Blue
-props:props:906, Mexican Chair Purple
-props:props:907, Mexican Cupboard
-props:props:908, Mexican Cupboard Fuchisa
-props:props:909, Mexican Cupboard Orange
-props:props:910, Mexican Cupboard Green
-props:props:911, Mexican Cupboard Red
-props:props:912, Mexican Cupboard Cyan
-props:props:913, Mexican Cupboard Pink
-props:props:914, Mexican Cupboard Blue
-props:props:915, Mexican Cupboard Purple
-props:props:925, Hanging Peppers
-props:props:926, Star Pinata
-props:props:927, Joker Star Pinata
-props:props:928, Hay Bed
-props:props:929, Beer Tap
-props:props:930, Dance Dance Floor
-props:props:931, Patron Doll Misty Striker
-props:props:932, Patron Doll The Great Orator
-props:props:933, Patron Doll tuglowz
-props:props:934, Patron Doll Strange_Penguin
-props:props:951, Beach Chair
-props:props:952, Beach Chair Brown
-props:props:953, Beach Chair Orange
-props:props:954, Beach Chair Purple
-props:props:955, Beach Chair Blue
-props:props:956, Beach Chair Lime
-props:props:957, Beach Chair Green
-props:props:958, Beach Chair Fuchsia
-props:props:959, Beach Chair Light Blue
-props:props:960, Beach Chair Razzle
-props:props:961, Beach Chair Red
-props:props:962, Beach Chair Pink
-props:props:963, Beach Chair Black
-props:props:964, Beach Chair Yellow
-props:props:965, Beach Chair Coral
-props:props:966, Beach Chair Cyan
-props:props:967, Beach Umbrella
-props:props:968, Beach Umbrella Brown
-props:props:969, Beach Umbrella Orange
-props:props:970, Beach Umbrella Purple
-props:props:971, Beach Umbrella Blue
-props:props:972, Beach Umbrella Lime
-props:props:973, Beach Umbrella Green
-props:props:974, Beach Umbrella Fuchsia
-props:props:975, Beach Umbrella Light Blue
-props:props:976, Beach Umbrella Razzle
-props:props:977, Beach Umbrella Red
-props:props:978, Beach Umbrella Pink
-props:props:979, Beach Umbrella Black
-props:props:980, Beach Umbrella Yellow
-props:props:981, Beach Umbrella Coral
-props:props:982, Beach Umbrella Cyan
-props:props:983, Cooler
-props:props:984, Cactus Chair
-props:props:985, Lamp Post 1
-props:props:986, Lamp Post 2
-props:props:987, Hillhouse Chair Brown
-props:props:988, Hillhouse Chair Orange
-props:props:989, Hillhouse Chair Purple
-props:props:990, Hillhouse Chair Blue
-props:props:991, Hillhouse Chair Lime
-props:props:992, Hillhouse Chair Green
-props:props:993, Hillhouse Chair Fuchsia
-props:props:994, Hillhouse Chair Light Blue
-props:props:995, Hillhouse Chair Razzle
-props:props:996, Hillhouse Chair Red
-props:props:997, Hillhouse Chair Pink
-props:props:998, Hillhouse Chair Black
-props:props:999, Hillhouse Chair Yellow
-props:props:1000, Hillhouse Chair Coral
-props:props:1001, Hillhouse Chair Cyan
-props:props:1002, Ant Chair Brown
-props:props:1003, Ant Chair Orange
-props:props:1004, Ant Chair Purple
-props:props:1005, Ant Chair Blue
-props:props:1006, Ant Chair Lime
-props:props:1007, Ant Chair Green
-props:props:1008, Ant Chair Fuchsia
-props:props:1009, Ant Chair Light Blue
-props:props:1010, Ant Chair Razzle
-props:props:1011, Ant Chair Red
-props:props:1012, Ant Chair Pink
-props:props:1013, Ant Chair Black
-props:props:1014, Ant Chair Yellow
-props:props:1015, Ant Chair Coral
-props:props:1016, Ant Chair Cyan
-props:props:1017, Wassily Chair Brown
-props:props:1018, Wassily Chair Orange
-props:props:1019, Wassily Chair Purple
-props:props:1020, Wassily Chair Blue
-props:props:1021, Wassily Chair Lime
-props:props:1022, Wassily Chair Green
-props:props:1023, Wassily Chair Fuchsia
-props:props:1024, Wassily Chair Light Blue
-props:props:1025, Wassily Chair Razzle
-props:props:1026, Wassily Chair Red
-props:props:1027, Wassily Chair Pink
-props:props:1028, Wassily Chair Black
-props:props:1029, Wassily Chair Yellow
-props:props:1030, Wassily Chair Coral
-props:props:1031, Wassily Chair Cyan
-props:props:1032, Clawfoot Tub
-props:props:1033, Lounge Chair
-props:props:1035, CandleHolder
-props:props:1036, AlchemyTable
-props:props:1037, ArcheryTarget
-props:props:1038, Cow Skull
-props:props:1039, Patron Doll sarsum33
-props:props:1040, Fallen Soldier Tribute
-props:props:1041, Banana Split
-props:props:1042, HotTub
-props:props:1043, Fire Pit
-props:props:1044, Adventsljusstake White
-props:props:1045, Adventsljusstake Red
-props:props:1046, Adventsljusstake Black
-props:props:1047, Nativity Scene
-props:props:1048, Patron Doll Crueldog
-props:props:1049, White Mantel
-props:props:1050, Wood Mantel Light
-props:props:1051, Wood Mantel Medium
-props:props:1052, Wood Mantel Dark
-props:props:1053, Tinsel 1
-props:props:1054, Tinsel with Baubles Red
-props:props:1055, Tinsel with Baubles Yellow
-props:props:1056, Tinsel with Baubles Blue
-props:props:1057, 圣诞袜1
-props:props:1058, 圣诞袜2
-props:props:1059, Chocolate Chip Cookie Plate
-props:props:1060, Sugar Cookie Plate
-props:props:1061, Snickerdoodle Cookie Plate
-props:props:1062, Raisin Cookie Plate
-props:props:1063, Cherry Pie
-props:props:1064, Key Lime Pie
-props:props:1065, Blueberry Pie
-props:props:1066, Apple Pie
-props:props:1067, Baking Table
-props:clay:0, 红色工艺粘土
-props:clay:1, 蓝色工艺粘土
-props:clay:2, 绿色工艺粘土
-props:tool, Decowand
-DraconicEvolution:draconicDistructionStaff:0, 龙之权杖
-DraconicEvolution:draconicDistructionStaff:0, 龙之权杖
-DraconicEvolution:draconicPickaxe:0, 龙之镐
-DraconicEvolution:draconicPickaxe:0, 龙之镐
-DraconicEvolution:draconicAxe:0, 龙之斧
-DraconicEvolution:draconicAxe:0, 龙之斧
-DraconicEvolution:draconicShovel:0, 龙之铲
-DraconicEvolution:draconicShovel:0, 龙之铲
-DraconicEvolution:draconicHoe, 龙之锄
-DraconicEvolution:draconicSword, 龙之剑
-DraconicEvolution:draconicBow:0, 龙之弓
-DraconicEvolution:draconicBow:0, 龙之弓
-DraconicEvolution:draconicHelm, 龙之头盔
-DraconicEvolution:draconicChest, 龙之胸甲
-DraconicEvolution:draconicLeggs, 龙之护腿
-DraconicEvolution:draconicBoots, 龙之靴
-DraconicEvolution:wyvernPickaxe:0, 双足飞龙镐
-DraconicEvolution:wyvernPickaxe:0, 双足飞龙镐
-DraconicEvolution:wyvernShovel:0, 双足飞龙铲
-DraconicEvolution:wyvernShovel:0, 双足飞龙铲
-DraconicEvolution:wyvernSword, 双足飞龙剑
-DraconicEvolution:wyvernBow:0, 双足飞龙弓
-DraconicEvolution:wyvernBow:0, 双足飞龙弓
-DraconicEvolution:wyvernHelm, 双足飞龙头盔
-DraconicEvolution:wyvernChest, 双足飞龙胸甲
-DraconicEvolution:wyvernLeggs, 双足飞龙护腿
-DraconicEvolution:wyvernBoots, 双足飞龙靴
-DraconicEvolution:draconicCore, 龙芯
-DraconicEvolution:wyvernCore, 双足飞龙核心
-DraconicEvolution:awakenedCore, 觉醒核心
-DraconicEvolution:chaoticCore, 混沌核心
-DraconicEvolution:draconiumDust, 龙尘
-DraconicEvolution:draconiumIngot, 龙锭
-DraconicEvolution:draconiumBlend, 混合龙尘(已移除)
-DraconicEvolution:dragonHeart, 龙之心
-DraconicEvolution:teleporterMKI, 错位宝石
-DraconicEvolution:teleporterMKII, 高级错位宝石
-DraconicEvolution:tclogo, TCLogo
-DraconicEvolution:sunFocus, 日光焦点
-DraconicEvolution:mobSoul, 怪物灵魂
-DraconicEvolution:enderArrow, 末影箭
-DraconicEvolution:safetyMatch:0, 安全火柴盒
-DraconicEvolution:safetyMatch:1000, 安全火柴
-DraconicEvolution:key:0, 钥匙
-DraconicEvolution:key:1, 钥匙
-DraconicEvolution:creativeStructureSpawner:0, 生成彗星
-DraconicEvolution:creativeStructureSpawner:1, 生成末影岛
-DraconicEvolution:adminSpawnEgg, item.draconicevolution:adminSpawnEgg.name
-DraconicEvolution:infoTablet, 龙之研究信息板
-DraconicEvolution:draconicIngot, 觉醒龙锭
-DraconicEvolution:draconiumEnergyCore:0, 双足飞龙能量核心
-DraconicEvolution:draconiumEnergyCore:1, 龙之能量核心
-DraconicEvolution:draconiumFluxCapacitor, item.draconicevolution:draconiumFluxCapacitor.name
-DraconicEvolution:wrench, 连接扳手
-DraconicEvolution:chaosShard, 混沌碎片
-DraconicEvolution:reactorCraftingPart:0, 反应堆稳定器支架
-DraconicEvolution:reactorCraftingPart:1, 反应堆稳定器转子
-DraconicEvolution:reactorCraftingPart:2, 反应堆稳定器外转子
-DraconicEvolution:reactorCraftingPart:3, 反应堆稳定器转子总成
-DraconicEvolution:reactorCraftingPart:4, 反应堆稳定器聚能环
-DraconicEvolution:nugget:0, 龙粒
-DraconicEvolution:nugget:1, 觉醒龙粒
-DraconicEvolution:chaosFragment:0, 微小混沌片段
-DraconicEvolution:chaosFragment:1, 小混沌片段
-DraconicEvolution:chaosFragment:2, 大混乱片段
-DraconicEvolution:magnet:0, 物品错位器
-DraconicEvolution:magnet:1, 觉醒物品错位器
-DraconicEvolution:dezilsMarshmallow, Dezil的棉花糖
 EMT:EMTItems:1, 粉碎琥珀矿
 EMT:EMTItems:2, 纯净的粉碎琥珀矿
 EMT:EMTItems:3, 粉碎朱砂矿
@@ -17269,6 +16151,80 @@ EMT:ChargingFocus, 法杖核心:充电
 EMT:WandChargingFocus, Wand Focus: Wand Charging
 EMT:EnergyBallFocus, Energy Ball Focus
 eplus:item.tableUpgrade, Table Upgrade
+ExtraBotany:manareader, 魔力读取器
+ExtraBotany:recordA, item.recordA.name
+ExtraBotany:recordB, item.recordB.name
+ExtraBotany:recordC, item.recordC.name
+ExtraBotany:nightmarefuel, 梦魇燃料
+ExtraBotany:darksword, 暗影刀
+ExtraBotany:test, 测试道具
+ExtraBotany:dungeonbox, 地牢箱子
+ExtraBotany:box, 神秘箱子
+ExtraBotany:pill, SCP-500
+ExtraBotany:scissorbladered, 太刀剪「红」
+ExtraBotany:scissorbladepurple, 太刀剪「紫」
+ExtraBotany:phoenixblaster, 凤凰冲击波
+ExtraBotany:tacticalshotgun, 战术猎枪
+ExtraBotany:snowballlauncher, 雪球发射器
+ExtraBotany:boomstick, Boomstick
+ExtraBotany:flintlock, 燧发枪
+ExtraBotany:shotgun, 猎枪
+ExtraBotany:pistol, 手枪
+ExtraBotany:material:0, 彩虹碎片
+ExtraBotany:material:1, 白卡
+ExtraBotany:material:2, 盖亚精华
+ExtraBotany:material:3, 星光之力
+ExtraBotany:material:4, 红色彼岸花瓣
+ExtraBotany:material:5, 绿色彼岸花瓣
+ExtraBotany:material:6, 紫色彼岸花瓣
+ExtraBotany:material:7, 盖亚石英
+ExtraBotany:material:8, 源质石英
+ExtraBotany:material:9, 注魔金线
+ExtraBotany:material:10, 空骰子
+ExtraBotany:material:11, 祈之共鸣
+ExtraBotany:material:12, 生命结晶
+ExtraBotany:material:13, 护盾值
+ExtraBotany:material:14, 魔力结晶
+ExtraBotany:bullet:0, 高爆弹
+ExtraBotany:bullet:1, 金弹
+ExtraBotany:bullet:2, 高速弹
+ExtraBotany:bullet:3, 陨星弹
+ExtraBotany:bullet:4, 枪弹
+ExtraBotany:bullet:5, 银弹
+ExtraBotany:coronaclaymore, 日冕重剑
+ExtraBotany:dog:0, 波动狗
+ExtraBotany:dog:1, 波动狗
+ExtraBotany:dog:2, 波动狗
+ExtraBotany:dog:3, 波动狗
+ExtraBotany:gaiawise, item.gaiawise.name
+ExtraBotany:angelwand, 天使魔杖
+ExtraBotany:lokighostrick, item.lokighostrick.name
+ExtraBotany:cthulhueye, item.cthulhueye.name
+ExtraBotany:cronusphantom, item.cronusphantom.name
+ExtraBotany:athenabless, item.athenabless.name
+ExtraBotany:maxwelldemon, item.maxwelldemon.name
+ExtraBotany:excaliber, item.excaliber.name
+ExtraBotany:excaliberfake, item.excaliberfake.name
+ExtraBotany:vpowerbattleaxe, item.vpowerbattleaxe.name
+ExtraBotany:vhandgun_double, item.vhandgun_double.name
+ExtraBotany:vrangerboots, item.vrangerboots.name
+ExtraBotany:dice20, item.dice20.name
+ExtraBotany:hestiachastity, item.hestiachastity.name
+ExtraBotany:aphroditegrace, item.aphroditegrace.name
+ExtraBotany:olympusguard, item.olympusguard.name
+ExtraBotany:hermestravelclothing, item.hermestravelclothing.name
+ExtraBotany:hermeswand, item.hermeswand.name
+ExtraBotany:theseusship, item.theseusship.name
+ExtraBotany:eternalslience, item.eternalslience.name
+ExtraBotany:valkyriecombatuniform, item.valkyriecombatuniform.name
+ExtraBotany:manapotato, 魔力土豆
+ExtraBotany:gaiaTablet, item.gaiaTablet.name
+ExtraBotany:teleportpearl, 传送珍珠
+ExtraBotany:lycorisgreen, 绿色彼岸花之卡
+ExtraBotany:lycorisred, 红色彼岸花之卡
+ExtraBotany:lycorispurple, 紫色彼岸花之卡
+ExtraBotany:lycorisrandom, 随机彼岸花之卡
+ExtraBotany:key, 钥匙
 extracells:part.base:0, ME流体输出总线
 extracells:part.base:1, ME流体输入总线
 extracells:part.base:2, ME流体存储总线
@@ -18858,8 +17814,6 @@ TConstruct:BoltPart:167, 蓝宝石弩箭
 TConstruct:BoltPart:171, 玄钢弩箭
 TConstruct:BoltPart:172, 虚空金属弩箭
 TConstruct:BoltPart:173, 赤金弩箭
-TConstruct:BoltPart:178, 龙元素弩箭
-TConstruct:BoltPart:179, 觉醒龙元素弩箭
 TConstruct:BoltPart:180, 凝胶弩箭
 TConstruct:BoltPart:186, 催泪弩箭
 TConstruct:BoltPart:189, 末影弩箭
@@ -18908,8 +17862,6 @@ ExtraTiC:arrowhead:167, 蓝宝石箭头
 ExtraTiC:arrowhead:171, 玄钢箭头
 ExtraTiC:arrowhead:172, 虚空金属箭头
 ExtraTiC:arrowhead:173, 赤金箭头
-ExtraTiC:arrowhead:178, 龙元素箭头
-ExtraTiC:arrowhead:179, 觉醒龙元素箭头
 ExtraTiC:arrowhead:180, 凝胶箭头
 ExtraTiC:arrowhead:186, 催泪箭头
 ExtraTiC:arrowhead:189, 末影箭头
@@ -18935,8 +17887,6 @@ ExtraTiC:axeHead:167, 蓝宝石斧刃
 ExtraTiC:axeHead:171, 玄钢斧刃
 ExtraTiC:axeHead:172, 虚空金属斧刃
 ExtraTiC:axeHead:173, 赤金斧刃
-ExtraTiC:axeHead:178, 龙元素斧刃
-ExtraTiC:axeHead:179, 觉醒龙元素斧刃
 ExtraTiC:axeHead:180, 凝胶斧刃
 ExtraTiC:axeHead:186, 催泪斧刃
 ExtraTiC:axeHead:189, 末影斧刃
@@ -18962,8 +17912,6 @@ ExtraTiC:battelSign:167, 蓝宝石牌板
 ExtraTiC:battelSign:171, 玄钢牌板
 ExtraTiC:battelSign:172, 虚空金属牌板
 ExtraTiC:battelSign:173, 赤金牌板
-ExtraTiC:battelSign:178, 龙元素牌板
-ExtraTiC:battelSign:179, 觉醒龙元素牌板
 ExtraTiC:battelSign:180, 凝胶牌板
 ExtraTiC:battelSign:186, 催泪牌板
 ExtraTiC:battelSign:189, 末影牌板
@@ -18989,8 +17937,6 @@ ExtraTiC:binding:167, 蓝宝石绑定结
 ExtraTiC:binding:171, 玄钢绑定结
 ExtraTiC:binding:172, 虚空金属绑定结
 ExtraTiC:binding:173, 赤金绑定结
-ExtraTiC:binding:178, 龙元素绑定结
-ExtraTiC:binding:179, 觉醒龙元素绑定结
 ExtraTiC:binding:180, 凝胶绑定结
 ExtraTiC:binding:186, 催泪绑定结
 ExtraTiC:binding:189, 末影绑定结
@@ -19016,8 +17962,6 @@ ExtraTiC:chiselHead:167, 蓝宝石凿刃
 ExtraTiC:chiselHead:171, 玄钢凿刃
 ExtraTiC:chiselHead:172, 虚空金属凿刃
 ExtraTiC:chiselHead:173, 赤金凿刃
-ExtraTiC:chiselHead:178, 龙元素凿刃
-ExtraTiC:chiselHead:179, 觉醒龙元素凿刃
 ExtraTiC:chiselHead:180, 凝胶凿刃
 ExtraTiC:chiselHead:186, 催泪凿刃
 ExtraTiC:chiselHead:189, 末影凿刃
@@ -19043,8 +17987,6 @@ ExtraTiC:chunk:167, 蓝宝石 Chunk
 ExtraTiC:chunk:171, 玄钢 Chunk
 ExtraTiC:chunk:172, 虚空金属 Chunk
 ExtraTiC:chunk:173, 赤金 Chunk
-ExtraTiC:chunk:178, 龙元素 Chunk
-ExtraTiC:chunk:179, 觉醒龙元素 Chunk
 ExtraTiC:chunk:180, 凝胶 Chunk
 ExtraTiC:chunk:186, 催泪 Chunk
 ExtraTiC:chunk:189, 末影 Chunk
@@ -19070,8 +18012,6 @@ ExtraTiC:crossbar:167, 蓝宝石十字柄
 ExtraTiC:crossbar:171, 玄钢十字柄
 ExtraTiC:crossbar:172, 虚空金属十字柄
 ExtraTiC:crossbar:173, 赤金十字柄
-ExtraTiC:crossbar:178, 龙元素十字柄
-ExtraTiC:crossbar:179, 觉醒龙元素十字柄
 ExtraTiC:crossbar:180, 凝胶十字柄
 ExtraTiC:crossbar:186, 催泪十字柄
 ExtraTiC:crossbar:189, 末影十字柄
@@ -19097,8 +18037,6 @@ ExtraTiC:excavatorHead:167, 蓝宝石开掘铲铲刃
 ExtraTiC:excavatorHead:171, 玄钢开掘铲铲刃
 ExtraTiC:excavatorHead:172, 虚空金属开掘铲铲刃
 ExtraTiC:excavatorHead:173, 赤金开掘铲铲刃
-ExtraTiC:excavatorHead:178, 龙元素开掘铲铲刃
-ExtraTiC:excavatorHead:179, 觉醒龙元素开掘铲铲刃
 ExtraTiC:excavatorHead:180, 凝胶开掘铲铲刃
 ExtraTiC:excavatorHead:186, 催泪开掘铲铲刃
 ExtraTiC:excavatorHead:189, 末影开掘铲铲刃
@@ -19124,8 +18062,6 @@ ExtraTiC:frypanHead:167, 蓝宝石盘
 ExtraTiC:frypanHead:171, 玄钢盘
 ExtraTiC:frypanHead:172, 虚空金属盘
 ExtraTiC:frypanHead:173, 赤金盘
-ExtraTiC:frypanHead:178, 龙元素盘
-ExtraTiC:frypanHead:179, 觉醒龙元素盘
 ExtraTiC:frypanHead:180, 凝胶盘
 ExtraTiC:frypanHead:186, 催泪盘
 ExtraTiC:frypanHead:189, 末影盘
@@ -19151,8 +18087,6 @@ ExtraTiC:fullGuard:167, 蓝宝石大型护手
 ExtraTiC:fullGuard:171, 玄钢大型护手
 ExtraTiC:fullGuard:172, 虚空金属大型护手
 ExtraTiC:fullGuard:173, 赤金大型护手
-ExtraTiC:fullGuard:178, 龙元素大型护手
-ExtraTiC:fullGuard:179, 觉醒龙元素大型护手
 ExtraTiC:fullGuard:180, 凝胶大型护手
 ExtraTiC:fullGuard:186, 催泪大型护手
 ExtraTiC:fullGuard:189, 末影大型护手
@@ -19178,8 +18112,6 @@ ExtraTiC:hammerHead:167, 蓝宝石锤头
 ExtraTiC:hammerHead:171, 玄钢锤头
 ExtraTiC:hammerHead:172, 虚空金属锤头
 ExtraTiC:hammerHead:173, 赤金锤头
-ExtraTiC:hammerHead:178, 龙元素锤头
-ExtraTiC:hammerHead:179, 觉醒龙元素锤头
 ExtraTiC:hammerHead:180, 凝胶锤头
 ExtraTiC:hammerHead:186, 催泪锤头
 ExtraTiC:hammerHead:189, 末影锤头
@@ -19205,8 +18137,6 @@ ExtraTiC:knifeBlade:167, 蓝宝石刀刃
 ExtraTiC:knifeBlade:171, 玄钢刀刃
 ExtraTiC:knifeBlade:172, 虚空金属刀刃
 ExtraTiC:knifeBlade:173, 赤金刀刃
-ExtraTiC:knifeBlade:178, 龙元素刀刃
-ExtraTiC:knifeBlade:179, 觉醒龙元素刀刃
 ExtraTiC:knifeBlade:180, 凝胶刀刃
 ExtraTiC:knifeBlade:186, 催泪刀刃
 ExtraTiC:knifeBlade:189, 末影刀刃
@@ -19232,8 +18162,6 @@ ExtraTiC:largeGuard:167, 蓝宝石宽护手
 ExtraTiC:largeGuard:171, 玄钢宽护手
 ExtraTiC:largeGuard:172, 虚空金属宽护手
 ExtraTiC:largeGuard:173, 赤金宽护手
-ExtraTiC:largeGuard:178, 龙元素宽护手
-ExtraTiC:largeGuard:179, 觉醒龙元素宽护手
 ExtraTiC:largeGuard:180, 凝胶宽护手
 ExtraTiC:largeGuard:186, 催泪宽护手
 ExtraTiC:largeGuard:189, 末影宽护手
@@ -19259,8 +18187,6 @@ ExtraTiC:largeSwordBlade:167, 蓝宝石宽剑刃
 ExtraTiC:largeSwordBlade:171, 玄钢宽剑刃
 ExtraTiC:largeSwordBlade:172, 虚空金属宽剑刃
 ExtraTiC:largeSwordBlade:173, 赤金宽剑刃
-ExtraTiC:largeSwordBlade:178, 龙元素宽剑刃
-ExtraTiC:largeSwordBlade:179, 觉醒龙元素宽剑刃
 ExtraTiC:largeSwordBlade:180, 凝胶宽剑刃
 ExtraTiC:largeSwordBlade:186, 催泪宽剑刃
 ExtraTiC:largeSwordBlade:189, 末影宽剑刃
@@ -19286,8 +18212,6 @@ ExtraTiC:largeplate:167, 蓝宝石大板
 ExtraTiC:largeplate:171, 玄钢大板
 ExtraTiC:largeplate:172, 虚空金属大板
 ExtraTiC:largeplate:173, 赤金大板
-ExtraTiC:largeplate:178, 龙元素大板
-ExtraTiC:largeplate:179, 觉醒龙元素大板
 ExtraTiC:largeplate:180, 凝胶大板
 ExtraTiC:largeplate:186, 催泪大板
 ExtraTiC:largeplate:189, 末影大板
@@ -19313,8 +18237,6 @@ ExtraTiC:lumberaxeHead:167, 蓝宝石宽斧刃
 ExtraTiC:lumberaxeHead:171, 玄钢宽斧刃
 ExtraTiC:lumberaxeHead:172, 虚空金属宽斧刃
 ExtraTiC:lumberaxeHead:173, 赤金宽斧刃
-ExtraTiC:lumberaxeHead:178, 龙元素宽斧刃
-ExtraTiC:lumberaxeHead:179, 觉醒龙元素宽斧刃
 ExtraTiC:lumberaxeHead:180, 凝胶宽斧刃
 ExtraTiC:lumberaxeHead:186, 催泪宽斧刃
 ExtraTiC:lumberaxeHead:189, 末影宽斧刃
@@ -19340,8 +18262,6 @@ ExtraTiC:mediumGuard:167, 蓝宝石护手
 ExtraTiC:mediumGuard:171, 玄钢护手
 ExtraTiC:mediumGuard:172, 虚空金属护手
 ExtraTiC:mediumGuard:173, 赤金护手
-ExtraTiC:mediumGuard:178, 龙元素护手
-ExtraTiC:mediumGuard:179, 觉醒龙元素护手
 ExtraTiC:mediumGuard:180, 凝胶护手
 ExtraTiC:mediumGuard:186, 催泪护手
 ExtraTiC:mediumGuard:189, 末影护手
@@ -19367,8 +18287,6 @@ ExtraTiC:pickaxeHead:167, 蓝宝石镐头
 ExtraTiC:pickaxeHead:171, 玄钢镐头
 ExtraTiC:pickaxeHead:172, 虚空金属镐头
 ExtraTiC:pickaxeHead:173, 赤金镐头
-ExtraTiC:pickaxeHead:178, 龙元素镐头
-ExtraTiC:pickaxeHead:179, 觉醒龙元素镐头
 ExtraTiC:pickaxeHead:180, 凝胶镐头
 ExtraTiC:pickaxeHead:186, 催泪镐头
 ExtraTiC:pickaxeHead:189, 末影镐头
@@ -19394,8 +18312,6 @@ ExtraTiC:scytheHead:167, 蓝宝石镰刀刀刃
 ExtraTiC:scytheHead:171, 玄钢镰刀刀刃
 ExtraTiC:scytheHead:172, 虚空金属镰刀刀刃
 ExtraTiC:scytheHead:173, 赤金镰刀刀刃
-ExtraTiC:scytheHead:178, 龙元素镰刀刀刃
-ExtraTiC:scytheHead:179, 觉醒龙元素镰刀刀刃
 ExtraTiC:scytheHead:180, 凝胶镰刀刀刃
 ExtraTiC:scytheHead:186, 催泪镰刀刀刃
 ExtraTiC:scytheHead:189, 末影镰刀刀刃
@@ -19421,8 +18337,6 @@ ExtraTiC:shovelHead:167, 蓝宝石铲头
 ExtraTiC:shovelHead:171, 玄钢铲头
 ExtraTiC:shovelHead:172, 虚空金属铲头
 ExtraTiC:shovelHead:173, 赤金铲头
-ExtraTiC:shovelHead:178, 龙元素铲头
-ExtraTiC:shovelHead:179, 觉醒龙元素铲头
 ExtraTiC:shovelHead:180, 凝胶铲头
 ExtraTiC:shovelHead:186, 催泪铲头
 ExtraTiC:shovelHead:189, 末影铲头
@@ -19448,8 +18362,6 @@ ExtraTiC:swordBlade:167, 蓝宝石剑刃
 ExtraTiC:swordBlade:171, 玄钢剑刃
 ExtraTiC:swordBlade:172, 虚空金属剑刃
 ExtraTiC:swordBlade:173, 赤金剑刃
-ExtraTiC:swordBlade:178, 龙元素剑刃
-ExtraTiC:swordBlade:179, 觉醒龙元素剑刃
 ExtraTiC:swordBlade:180, 凝胶剑刃
 ExtraTiC:swordBlade:186, 催泪剑刃
 ExtraTiC:swordBlade:189, 末影剑刃
@@ -19475,8 +18387,6 @@ ExtraTiC:toolrod:167, 蓝宝石手柄
 ExtraTiC:toolrod:171, 玄钢手柄
 ExtraTiC:toolrod:172, 虚空金属手柄
 ExtraTiC:toolrod:173, 赤金手柄
-ExtraTiC:toolrod:178, 龙元素手柄
-ExtraTiC:toolrod:179, 觉醒龙元素手柄
 ExtraTiC:toolrod:180, 凝胶手柄
 ExtraTiC:toolrod:186, 催泪手柄
 ExtraTiC:toolrod:189, 末影手柄
@@ -19502,8 +18412,6 @@ ExtraTiC:toughbind:167, 蓝宝石坚韧绑定结
 ExtraTiC:toughbind:171, 玄钢坚韧绑定结
 ExtraTiC:toughbind:172, 虚空金属坚韧绑定结
 ExtraTiC:toughbind:173, 赤金坚韧绑定结
-ExtraTiC:toughbind:178, 龙元素坚韧绑定结
-ExtraTiC:toughbind:179, 觉醒龙元素坚韧绑定结
 ExtraTiC:toughbind:180, 凝胶坚韧绑定结
 ExtraTiC:toughbind:186, 催泪坚韧绑定结
 ExtraTiC:toughbind:189, 末影坚韧绑定结
@@ -19529,8 +18437,6 @@ ExtraTiC:toughrod:167, 蓝宝石坚韧手柄
 ExtraTiC:toughrod:171, 玄钢坚韧手柄
 ExtraTiC:toughrod:172, 虚空金属坚韧手柄
 ExtraTiC:toughrod:173, 赤金坚韧手柄
-ExtraTiC:toughrod:178, 龙元素坚韧手柄
-ExtraTiC:toughrod:179, 觉醒龙元素坚韧手柄
 ExtraTiC:toughrod:180, 凝胶坚韧手柄
 ExtraTiC:toughrod:186, 催泪坚韧手柄
 ExtraTiC:toughrod:189, 末影坚韧手柄
@@ -19556,8 +18462,6 @@ ExtraTiC:shuriken:167, 蓝宝石 回旋镖
 ExtraTiC:shuriken:171, 玄钢 回旋镖
 ExtraTiC:shuriken:172, 虚空金属 回旋镖
 ExtraTiC:shuriken:173, 赤金 回旋镖
-ExtraTiC:shuriken:178, 龙元素 回旋镖
-ExtraTiC:shuriken:179, 觉醒龙元素 回旋镖
 ExtraTiC:shuriken:180, 凝胶 回旋镖
 ExtraTiC:shuriken:186, 催泪 回旋镖
 ExtraTiC:shuriken:189, 末影 回旋镖
@@ -19583,8 +18487,6 @@ ExtraTiC:BowLimb:167, 蓝宝石 弓臂
 ExtraTiC:BowLimb:171, 玄钢 弓臂
 ExtraTiC:BowLimb:172, 虚空金属 弓臂
 ExtraTiC:BowLimb:173, 赤金 弓臂
-ExtraTiC:BowLimb:178, 龙元素 弓臂
-ExtraTiC:BowLimb:179, 觉醒龙元素 弓臂
 ExtraTiC:BowLimb:180, 凝胶 弓臂
 ExtraTiC:BowLimb:186, 催泪 弓臂
 ExtraTiC:BowLimb:189, 末影 弓臂
@@ -19610,8 +18512,6 @@ ExtraTiC:CrossbowLimb:167, 蓝宝石 弩臂
 ExtraTiC:CrossbowLimb:171, 玄钢 弩臂
 ExtraTiC:CrossbowLimb:172, 虚空金属 弩臂
 ExtraTiC:CrossbowLimb:173, 赤金 弩臂
-ExtraTiC:CrossbowLimb:178, 龙元素 弩臂
-ExtraTiC:CrossbowLimb:179, 觉醒龙元素 弩臂
 ExtraTiC:CrossbowLimb:180, 凝胶 弩臂
 ExtraTiC:CrossbowLimb:186, 催泪 弩臂
 ExtraTiC:CrossbowLimb:189, 末影 弩臂
@@ -19637,8 +18537,6 @@ ExtraTiC:CrossbowBody:167, 蓝宝石 弩身
 ExtraTiC:CrossbowBody:171, 玄钢 弩身
 ExtraTiC:CrossbowBody:172, 虚空金属 弩身
 ExtraTiC:CrossbowBody:173, 赤金 弩身
-ExtraTiC:CrossbowBody:178, 龙元素 弩身
-ExtraTiC:CrossbowBody:179, 觉醒龙元素 弩身
 ExtraTiC:CrossbowBody:180, 凝胶 弩身
 ExtraTiC:CrossbowBody:186, 催泪 弩身
 ExtraTiC:CrossbowBody:189, 末影 弩身
@@ -19664,8 +18562,6 @@ ExtraTiC:Blot:167, 蓝宝石 弩箭
 ExtraTiC:Blot:171, 玄钢 弩箭
 ExtraTiC:Blot:172, 虚空金属 弩箭
 ExtraTiC:Blot:173, 赤金 弩箭
-ExtraTiC:Blot:178, 龙元素 弩箭
-ExtraTiC:Blot:179, 觉醒龙元素 弩箭
 ExtraTiC:Blot:180, 凝胶 弩箭
 ExtraTiC:Blot:186, 催泪 弩箭
 ExtraTiC:Blot:189, 末影 弩箭
@@ -20694,41 +19590,49 @@ gregtech:gt.multiitem.randomtools:2001, gt.multiitem.randomtools.2001.name
 gregtech:gt.multiitem.randomtools:2002, gt.multiitem.randomtools.2002.name
 gregtech:gt.multiitem.randomtools:2003, gt.multiitem.randomtools.2003.name
 gregtech:gt.multiitem.randomtools:2004, gt.multiitem.randomtools.2004.name
+gregtech:gt.multiitem.randomtools:2005, gt.multiitem.randomtools.2005.name
 gregtech:gt.multiitem.randomtools:2100, gt.multiitem.randomtools.2100.name
 gregtech:gt.multiitem.randomtools:2101, gt.multiitem.randomtools.2101.name
 gregtech:gt.multiitem.randomtools:2102, gt.multiitem.randomtools.2102.name
 gregtech:gt.multiitem.randomtools:2103, gt.multiitem.randomtools.2103.name
 gregtech:gt.multiitem.randomtools:2104, gt.multiitem.randomtools.2104.name
+gregtech:gt.multiitem.randomtools:2105, gt.multiitem.randomtools.2105.name
 gregtech:gt.multiitem.randomtools:2200, gt.multiitem.randomtools.2200.name
 gregtech:gt.multiitem.randomtools:2201, gt.multiitem.randomtools.2201.name
 gregtech:gt.multiitem.randomtools:2202, gt.multiitem.randomtools.2202.name
 gregtech:gt.multiitem.randomtools:2203, gt.multiitem.randomtools.2203.name
 gregtech:gt.multiitem.randomtools:2204, gt.multiitem.randomtools.2204.name
+gregtech:gt.multiitem.randomtools:2205, gt.multiitem.randomtools.2205.name
 gregtech:gt.multiitem.randomtools:2300, gt.multiitem.randomtools.2300.name
 gregtech:gt.multiitem.randomtools:2301, gt.multiitem.randomtools.2301.name
 gregtech:gt.multiitem.randomtools:2302, gt.multiitem.randomtools.2302.name
 gregtech:gt.multiitem.randomtools:2303, gt.multiitem.randomtools.2303.name
 gregtech:gt.multiitem.randomtools:2304, gt.multiitem.randomtools.2304.name
+gregtech:gt.multiitem.randomtools:2305, gt.multiitem.randomtools.2305.name
 gregtech:gt.multiitem.randomtools:2400, gt.multiitem.randomtools.2400.name
 gregtech:gt.multiitem.randomtools:2401, gt.multiitem.randomtools.2401.name
 gregtech:gt.multiitem.randomtools:2402, gt.multiitem.randomtools.2402.name
 gregtech:gt.multiitem.randomtools:2403, gt.multiitem.randomtools.2403.name
 gregtech:gt.multiitem.randomtools:2404, gt.multiitem.randomtools.2404.name
+gregtech:gt.multiitem.randomtools:2405, gt.multiitem.randomtools.2405.name
 gregtech:gt.multiitem.randomtools:2500, gt.multiitem.randomtools.2500.name
 gregtech:gt.multiitem.randomtools:2501, gt.multiitem.randomtools.2501.name
 gregtech:gt.multiitem.randomtools:2502, gt.multiitem.randomtools.2502.name
 gregtech:gt.multiitem.randomtools:2503, gt.multiitem.randomtools.2503.name
 gregtech:gt.multiitem.randomtools:2504, gt.multiitem.randomtools.2504.name
+gregtech:gt.multiitem.randomtools:2505, gt.multiitem.randomtools.2505.name
 gregtech:gt.multiitem.randomtools:2600, gt.multiitem.randomtools.2600.name
 gregtech:gt.multiitem.randomtools:2601, gt.multiitem.randomtools.2601.name
 gregtech:gt.multiitem.randomtools:2602, gt.multiitem.randomtools.2602.name
 gregtech:gt.multiitem.randomtools:2603, gt.multiitem.randomtools.2603.name
 gregtech:gt.multiitem.randomtools:2604, gt.multiitem.randomtools.2604.name
+gregtech:gt.multiitem.randomtools:2605, gt.multiitem.randomtools.2605.name
 gregtech:gt.multiitem.randomtools:2700, gt.multiitem.randomtools.2700.name
 gregtech:gt.multiitem.randomtools:2701, gt.multiitem.randomtools.2701.name
 gregtech:gt.multiitem.randomtools:2702, gt.multiitem.randomtools.2702.name
 gregtech:gt.multiitem.randomtools:2703, gt.multiitem.randomtools.2703.name
 gregtech:gt.multiitem.randomtools:2704, gt.multiitem.randomtools.2704.name
+gregtech:gt.multiitem.randomtools:2705, gt.multiitem.randomtools.2705.name
 gregtech:gt.multiitem.randomtools:5000, gt.multiitem.randomtools.5000.name
 gregtech:gt.multiitem.randomtools:5003, gt.multiitem.randomtools.5003.name
 gregtech:gt.multiitem.randomtools:5004, gt.multiitem.randomtools.5004.name
@@ -21143,6 +20047,11 @@ gregtech:gt.meta.dust:2220, oredict.dustAdamantium.name
 gregtech:gt.meta.dust:8000, oredict.dustSiliconDioxide.name
 gregtech:gt.meta.dust:8001, oredict.dustGlass.name
 gregtech:gt.meta.dust:8002, oredict.dustFlint.name
+gregtech:gt.meta.dust:8003, oredict.dustCarborundum.name
+gregtech:gt.meta.dust:8004, oredict.dustLithiumOxide.name
+gregtech:gt.meta.dust:8005, oredict.dustFerrite.name
+gregtech:gt.meta.dust:8006, oredict.dustDatolite.name
+gregtech:gt.meta.dust:8007, oredict.dustHydrogenBorate.name
 gregtech:gt.meta.dust:8102, oredict.dustSluiceSand.name
 gregtech:gt.meta.dust:8103, oredict.dustPlatinumGroupSludge.name
 gregtech:gt.meta.dust:8200, oredict.dustAshes.name
@@ -21200,6 +20109,9 @@ gregtech:gt.meta.dust:8267, oredict.dustWoodPolished.name
 gregtech:gt.meta.dust:8268, oredict.dustSodiumHydroxide.name
 gregtech:gt.meta.dust:8269, oredict.dustSodiumSulfite.name
 gregtech:gt.meta.dust:8270, oredict.dustSodiumSulfate.name
+gregtech:gt.meta.dust:8271, oredict.dustPotassiumSulfate.name
+gregtech:gt.meta.dust:8272, oredict.dustPotassiumSulfide.name
+gregtech:gt.meta.dust:8273, oredict.dustPorcelain.name
 gregtech:gt.meta.dust:8300, oredict.dustDiamond.name
 gregtech:gt.meta.dust:8301, oredict.dustEmerald.name
 gregtech:gt.meta.dust:8302, oredict.dustRuby.name
@@ -21395,6 +20307,7 @@ gregtech:gt.meta.dust:8781, oredict.dustDesichalkos.name
 gregtech:gt.meta.dust:8782, oredict.dustTartarite.name
 gregtech:gt.meta.dust:8783, oredict.dustAmordrine.name
 gregtech:gt.meta.dust:8790, oredict.dustTrinitanium.name
+gregtech:gt.meta.dust:8791, oredict.dustDraconium.name
 gregtech:gt.meta.dust:8792, oredict.dustDraconiumAwakened.name
 gregtech:gt.meta.dust:9000, oredict.dustPumice.name
 gregtech:gt.meta.dust:9001, oredict.dustDiatomite.name
@@ -21626,6 +20539,11 @@ gregtech:gt.meta.dustSmall:2220, oredict.dustSmallAdamantium.name
 gregtech:gt.meta.dustSmall:8000, oredict.dustSmallSiliconDioxide.name
 gregtech:gt.meta.dustSmall:8001, oredict.dustSmallGlass.name
 gregtech:gt.meta.dustSmall:8002, oredict.dustSmallFlint.name
+gregtech:gt.meta.dustSmall:8003, oredict.dustSmallCarborundum.name
+gregtech:gt.meta.dustSmall:8004, oredict.dustSmallLithiumOxide.name
+gregtech:gt.meta.dustSmall:8005, oredict.dustSmallFerrite.name
+gregtech:gt.meta.dustSmall:8006, oredict.dustSmallDatolite.name
+gregtech:gt.meta.dustSmall:8007, oredict.dustSmallHydrogenBorate.name
 gregtech:gt.meta.dustSmall:8102, oredict.dustSmallSluiceSand.name
 gregtech:gt.meta.dustSmall:8103, oredict.dustSmallPlatinumGroupSludge.name
 gregtech:gt.meta.dustSmall:8200, oredict.dustSmallAshes.name
@@ -21697,6 +20615,9 @@ gregtech:gt.meta.dustSmall:8267, oredict.dustSmallWoodPolished.name
 gregtech:gt.meta.dustSmall:8268, oredict.dustSmallSodiumHydroxide.name
 gregtech:gt.meta.dustSmall:8269, oredict.dustSmallSodiumSulfite.name
 gregtech:gt.meta.dustSmall:8270, oredict.dustSmallSodiumSulfate.name
+gregtech:gt.meta.dustSmall:8271, oredict.dustSmallPotassiumSulfate.name
+gregtech:gt.meta.dustSmall:8272, oredict.dustSmallPotassiumSulfide.name
+gregtech:gt.meta.dustSmall:8273, oredict.dustSmallPorcelain.name
 gregtech:gt.meta.dustSmall:8300, oredict.dustSmallDiamond.name
 gregtech:gt.meta.dustSmall:8301, oredict.dustSmallEmerald.name
 gregtech:gt.meta.dustSmall:8302, oredict.dustSmallRuby.name
@@ -22133,6 +21054,11 @@ gregtech:gt.meta.dustTiny:2220, oredict.dustTinyAdamantium.name
 gregtech:gt.meta.dustTiny:8000, oredict.dustTinySiliconDioxide.name
 gregtech:gt.meta.dustTiny:8001, oredict.dustTinyGlass.name
 gregtech:gt.meta.dustTiny:8002, oredict.dustTinyFlint.name
+gregtech:gt.meta.dustTiny:8003, oredict.dustTinyCarborundum.name
+gregtech:gt.meta.dustTiny:8004, oredict.dustTinyLithiumOxide.name
+gregtech:gt.meta.dustTiny:8005, oredict.dustTinyFerrite.name
+gregtech:gt.meta.dustTiny:8006, oredict.dustTinyDatolite.name
+gregtech:gt.meta.dustTiny:8007, oredict.dustTinyHydrogenBorate.name
 gregtech:gt.meta.dustTiny:8102, oredict.dustTinySluiceSand.name
 gregtech:gt.meta.dustTiny:8103, oredict.dustTinyPlatinumGroupSludge.name
 gregtech:gt.meta.dustTiny:8200, oredict.dustTinyAshes.name
@@ -22204,6 +21130,9 @@ gregtech:gt.meta.dustTiny:8267, oredict.dustTinyWoodPolished.name
 gregtech:gt.meta.dustTiny:8268, oredict.dustTinySodiumHydroxide.name
 gregtech:gt.meta.dustTiny:8269, oredict.dustTinySodiumSulfite.name
 gregtech:gt.meta.dustTiny:8270, oredict.dustTinySodiumSulfate.name
+gregtech:gt.meta.dustTiny:8271, oredict.dustTinyPotassiumSulfate.name
+gregtech:gt.meta.dustTiny:8272, oredict.dustTinyPotassiumSulfide.name
+gregtech:gt.meta.dustTiny:8273, oredict.dustTinyPorcelain.name
 gregtech:gt.meta.dustTiny:8300, oredict.dustTinyDiamond.name
 gregtech:gt.meta.dustTiny:8301, oredict.dustTinyEmerald.name
 gregtech:gt.meta.dustTiny:8302, oredict.dustTinyRuby.name
@@ -22640,6 +21569,11 @@ gregtech:gt.meta.dustDiv72:2220, oredict.dustDiv72Adamantium.name
 gregtech:gt.meta.dustDiv72:8000, oredict.dustDiv72SiliconDioxide.name
 gregtech:gt.meta.dustDiv72:8001, oredict.dustDiv72Glass.name
 gregtech:gt.meta.dustDiv72:8002, oredict.dustDiv72Flint.name
+gregtech:gt.meta.dustDiv72:8003, oredict.dustDiv72Carborundum.name
+gregtech:gt.meta.dustDiv72:8004, oredict.dustDiv72LithiumOxide.name
+gregtech:gt.meta.dustDiv72:8005, oredict.dustDiv72Ferrite.name
+gregtech:gt.meta.dustDiv72:8006, oredict.dustDiv72Datolite.name
+gregtech:gt.meta.dustDiv72:8007, oredict.dustDiv72HydrogenBorate.name
 gregtech:gt.meta.dustDiv72:8102, oredict.dustDiv72SluiceSand.name
 gregtech:gt.meta.dustDiv72:8103, oredict.dustDiv72PlatinumGroupSludge.name
 gregtech:gt.meta.dustDiv72:8200, oredict.dustDiv72Ashes.name
@@ -22711,6 +21645,9 @@ gregtech:gt.meta.dustDiv72:8267, oredict.dustDiv72WoodPolished.name
 gregtech:gt.meta.dustDiv72:8268, oredict.dustDiv72SodiumHydroxide.name
 gregtech:gt.meta.dustDiv72:8269, oredict.dustDiv72SodiumSulfite.name
 gregtech:gt.meta.dustDiv72:8270, oredict.dustDiv72SodiumSulfate.name
+gregtech:gt.meta.dustDiv72:8271, oredict.dustDiv72PotassiumSulfate.name
+gregtech:gt.meta.dustDiv72:8272, oredict.dustDiv72PotassiumSulfide.name
+gregtech:gt.meta.dustDiv72:8273, oredict.dustDiv72Porcelain.name
 gregtech:gt.meta.dustDiv72:8300, oredict.dustDiv72Diamond.name
 gregtech:gt.meta.dustDiv72:8301, oredict.dustDiv72Emerald.name
 gregtech:gt.meta.dustDiv72:8302, oredict.dustDiv72Ruby.name
@@ -23146,6 +22083,8 @@ gregtech:gt.meta.dustImpure:1742, oredict.dustImpureNaquadria.name
 gregtech:gt.meta.dustImpure:2220, oredict.dustImpureAdamantium.name
 gregtech:gt.meta.dustImpure:8000, oredict.dustImpureSiliconDioxide.name
 gregtech:gt.meta.dustImpure:8002, oredict.dustImpureFlint.name
+gregtech:gt.meta.dustImpure:8003, oredict.dustImpureCarborundum.name
+gregtech:gt.meta.dustImpure:8005, oredict.dustImpureFerrite.name
 gregtech:gt.meta.dustImpure:8102, oredict.dustImpureSluiceSand.name
 gregtech:gt.meta.dustImpure:8103, oredict.dustImpurePlatinumGroupSludge.name
 gregtech:gt.meta.dustImpure:8203, oredict.dustImpureRockSalt.name
@@ -23461,6 +22400,8 @@ gregtech:gt.meta.dustPure:1742, oredict.dustPureNaquadria.name
 gregtech:gt.meta.dustPure:2220, oredict.dustPureAdamantium.name
 gregtech:gt.meta.dustPure:8000, oredict.dustPureSiliconDioxide.name
 gregtech:gt.meta.dustPure:8002, oredict.dustPureFlint.name
+gregtech:gt.meta.dustPure:8003, oredict.dustPureCarborundum.name
+gregtech:gt.meta.dustPure:8005, oredict.dustPureFerrite.name
 gregtech:gt.meta.dustPure:8102, oredict.dustPureSluiceSand.name
 gregtech:gt.meta.dustPure:8103, oredict.dustPurePlatinumGroupSludge.name
 gregtech:gt.meta.dustPure:8203, oredict.dustPureRockSalt.name
@@ -23775,6 +22716,8 @@ gregtech:gt.meta.crushed:1741, oredict.crushedNaquadahEnriched.name
 gregtech:gt.meta.crushed:1742, oredict.crushedNaquadria.name
 gregtech:gt.meta.crushed:2220, oredict.crushedAdamantium.name
 gregtech:gt.meta.crushed:8000, oredict.crushedSiliconDioxide.name
+gregtech:gt.meta.crushed:8003, oredict.crushedCarborundum.name
+gregtech:gt.meta.crushed:8005, oredict.crushedFerrite.name
 gregtech:gt.meta.crushed:8102, oredict.crushedSluiceSand.name
 gregtech:gt.meta.crushed:8103, oredict.crushedPlatinumGroupSludge.name
 gregtech:gt.meta.crushed:8203, oredict.crushedRockSalt.name
@@ -24059,6 +23002,8 @@ gregtech:gt.meta.crushedTiny:1741, oredict.crushedTinyNaquadahEnriched.name
 gregtech:gt.meta.crushedTiny:1742, oredict.crushedTinyNaquadria.name
 gregtech:gt.meta.crushedTiny:2220, oredict.crushedTinyAdamantium.name
 gregtech:gt.meta.crushedTiny:8000, oredict.crushedTinySiliconDioxide.name
+gregtech:gt.meta.crushedTiny:8003, oredict.crushedTinyCarborundum.name
+gregtech:gt.meta.crushedTiny:8005, oredict.crushedTinyFerrite.name
 gregtech:gt.meta.crushedTiny:8102, oredict.crushedTinySluiceSand.name
 gregtech:gt.meta.crushedTiny:8103, oredict.crushedTinyPlatinumGroupSludge.name
 gregtech:gt.meta.crushedTiny:8203, oredict.crushedTinyRockSalt.name
@@ -24343,6 +23288,8 @@ gregtech:gt.meta.crushedPurified:1741, oredict.crushedPurifiedNaquadahEnriched.n
 gregtech:gt.meta.crushedPurified:1742, oredict.crushedPurifiedNaquadria.name
 gregtech:gt.meta.crushedPurified:2220, oredict.crushedPurifiedAdamantium.name
 gregtech:gt.meta.crushedPurified:8000, oredict.crushedPurifiedSiliconDioxide.name
+gregtech:gt.meta.crushedPurified:8003, oredict.crushedPurifiedCarborundum.name
+gregtech:gt.meta.crushedPurified:8005, oredict.crushedPurifiedFerrite.name
 gregtech:gt.meta.crushedPurified:8102, oredict.crushedPurifiedSluiceSand.name
 gregtech:gt.meta.crushedPurified:8103, oredict.crushedPurifiedPlatinumGroupSludge.name
 gregtech:gt.meta.crushedPurified:8203, oredict.crushedPurifiedRockSalt.name
@@ -24627,6 +23574,8 @@ gregtech:gt.meta.crushedPurifiedTiny:1741, oredict.crushedPurifiedTinyNaquadahEn
 gregtech:gt.meta.crushedPurifiedTiny:1742, oredict.crushedPurifiedTinyNaquadria.name
 gregtech:gt.meta.crushedPurifiedTiny:2220, oredict.crushedPurifiedTinyAdamantium.name
 gregtech:gt.meta.crushedPurifiedTiny:8000, oredict.crushedPurifiedTinySiliconDioxide.name
+gregtech:gt.meta.crushedPurifiedTiny:8003, oredict.crushedPurifiedTinyCarborundum.name
+gregtech:gt.meta.crushedPurifiedTiny:8005, oredict.crushedPurifiedTinyFerrite.name
 gregtech:gt.meta.crushedPurifiedTiny:8102, oredict.crushedPurifiedTinySluiceSand.name
 gregtech:gt.meta.crushedPurifiedTiny:8103, oredict.crushedPurifiedTinyPlatinumGroupSludge.name
 gregtech:gt.meta.crushedPurifiedTiny:8203, oredict.crushedPurifiedTinyRockSalt.name
@@ -24911,6 +23860,8 @@ gregtech:gt.meta.crushedCentrifuged:1741, oredict.crushedCentrifugedNaquadahEnri
 gregtech:gt.meta.crushedCentrifuged:1742, oredict.crushedCentrifugedNaquadria.name
 gregtech:gt.meta.crushedCentrifuged:2220, oredict.crushedCentrifugedAdamantium.name
 gregtech:gt.meta.crushedCentrifuged:8000, oredict.crushedCentrifugedSiliconDioxide.name
+gregtech:gt.meta.crushedCentrifuged:8003, oredict.crushedCentrifugedCarborundum.name
+gregtech:gt.meta.crushedCentrifuged:8005, oredict.crushedCentrifugedFerrite.name
 gregtech:gt.meta.crushedCentrifuged:8102, oredict.crushedCentrifugedSluiceSand.name
 gregtech:gt.meta.crushedCentrifuged:8103, oredict.crushedCentrifugedPlatinumGroupSludge.name
 gregtech:gt.meta.crushedCentrifuged:8203, oredict.crushedCentrifugedRockSalt.name
@@ -25195,6 +24146,8 @@ gregtech:gt.meta.crushedCentrifugedTiny:1741, oredict.crushedCentrifugedTinyNaqu
 gregtech:gt.meta.crushedCentrifugedTiny:1742, oredict.crushedCentrifugedTinyNaquadria.name
 gregtech:gt.meta.crushedCentrifugedTiny:2220, oredict.crushedCentrifugedTinyAdamantium.name
 gregtech:gt.meta.crushedCentrifugedTiny:8000, oredict.crushedCentrifugedTinySiliconDioxide.name
+gregtech:gt.meta.crushedCentrifugedTiny:8003, oredict.crushedCentrifugedTinyCarborundum.name
+gregtech:gt.meta.crushedCentrifugedTiny:8005, oredict.crushedCentrifugedTinyFerrite.name
 gregtech:gt.meta.crushedCentrifugedTiny:8102, oredict.crushedCentrifugedTinySluiceSand.name
 gregtech:gt.meta.crushedCentrifugedTiny:8103, oredict.crushedCentrifugedTinyPlatinumGroupSludge.name
 gregtech:gt.meta.crushedCentrifugedTiny:8203, oredict.crushedCentrifugedTinyRockSalt.name
@@ -25713,6 +24666,8 @@ gregtech:gt.meta.nugget:1740, oredict.nuggetNaquadah.name
 gregtech:gt.meta.nugget:1741, oredict.nuggetNaquadahEnriched.name
 gregtech:gt.meta.nugget:1742, oredict.nuggetNaquadria.name
 gregtech:gt.meta.nugget:2220, oredict.nuggetAdamantium.name
+gregtech:gt.meta.nugget:8003, oredict.nuggetCarborundum.name
+gregtech:gt.meta.nugget:8005, oredict.nuggetFerrite.name
 gregtech:gt.meta.nugget:8217, oredict.nuggetRubber.name
 gregtech:gt.meta.nugget:8218, oredict.nuggetPlastic.name
 gregtech:gt.meta.nugget:8343, oredict.nuggetForce.name
@@ -25840,6 +24795,8 @@ gregtech:gt.meta.nugget:8781, oredict.nuggetDesichalkos.name
 gregtech:gt.meta.nugget:8782, oredict.nuggetTartarite.name
 gregtech:gt.meta.nugget:8783, oredict.nuggetAmordrine.name
 gregtech:gt.meta.nugget:8790, oredict.nuggetTrinitanium.name
+gregtech:gt.meta.nugget:8791, oredict.nuggetDraconium.name
+gregtech:gt.meta.nugget:8792, oredict.nuggetDraconiumAwakened.name
 gregtech:gt.meta.nugget:9700, oredict.nuggetMeatRaw.name
 gregtech:gt.meta.nugget:9701, oredict.nuggetMeatCooked.name
 gregtech:gt.meta.nugget:9710, oredict.nuggetMeatRotten.name
@@ -25907,6 +24864,8 @@ gregtech:gt.meta.chunkGt:1740, oredict.chunkGtNaquadah.name
 gregtech:gt.meta.chunkGt:1741, oredict.chunkGtNaquadahEnriched.name
 gregtech:gt.meta.chunkGt:1742, oredict.chunkGtNaquadria.name
 gregtech:gt.meta.chunkGt:2220, oredict.chunkGtAdamantium.name
+gregtech:gt.meta.chunkGt:8003, oredict.chunkGtCarborundum.name
+gregtech:gt.meta.chunkGt:8005, oredict.chunkGtFerrite.name
 gregtech:gt.meta.chunkGt:8217, oredict.chunkGtRubber.name
 gregtech:gt.meta.chunkGt:8218, oredict.chunkGtPlastic.name
 gregtech:gt.meta.chunkGt:8343, oredict.chunkGtForce.name
@@ -26105,6 +25064,8 @@ gregtech:gt.meta.ingot:1740, oredict.ingotNaquadah.name
 gregtech:gt.meta.ingot:1741, oredict.ingotNaquadahEnriched.name
 gregtech:gt.meta.ingot:1742, oredict.ingotNaquadria.name
 gregtech:gt.meta.ingot:2220, oredict.ingotAdamantium.name
+gregtech:gt.meta.ingot:8003, oredict.ingotCarborundum.name
+gregtech:gt.meta.ingot:8005, oredict.ingotFerrite.name
 gregtech:gt.meta.ingot:8217, oredict.ingotRubber.name
 gregtech:gt.meta.ingot:8218, oredict.ingotPlastic.name
 gregtech:gt.meta.ingot:8343, oredict.ingotForce.name
@@ -26230,6 +25191,8 @@ gregtech:gt.meta.ingot:8781, oredict.ingotDesichalkos.name
 gregtech:gt.meta.ingot:8782, oredict.ingotTartarite.name
 gregtech:gt.meta.ingot:8783, oredict.ingotAmordrine.name
 gregtech:gt.meta.ingot:8790, oredict.ingotTrinitanium.name
+gregtech:gt.meta.ingot:8791, oredict.ingotDraconium.name
+gregtech:gt.meta.ingot:8792, oredict.ingotDraconiumAwakened.name
 gregtech:gt.meta.ingot:9710, oredict.ingotMeatRotten.name
 gregtech:gt.meta.ingot:9713, oredict.ingotFishRotten.name
 gregtech:gt.meta.ingotHot:40, oredict.ingotHotBeryllium.name
@@ -26289,6 +25252,8 @@ gregtech:gt.meta.ingotHot:1740, oredict.ingotHotNaquadah.name
 gregtech:gt.meta.ingotHot:1741, oredict.ingotHotNaquadahEnriched.name
 gregtech:gt.meta.ingotHot:1742, oredict.ingotHotNaquadria.name
 gregtech:gt.meta.ingotHot:2220, oredict.ingotHotAdamantium.name
+gregtech:gt.meta.ingotHot:8003, oredict.ingotHotCarborundum.name
+gregtech:gt.meta.ingotHot:8005, oredict.ingotHotFerrite.name
 gregtech:gt.meta.ingotHot:8217, oredict.ingotHotRubber.name
 gregtech:gt.meta.ingotHot:8218, oredict.ingotHotPlastic.name
 gregtech:gt.meta.ingotHot:8343, oredict.ingotHotForce.name
@@ -26477,6 +25442,8 @@ gregtech:gt.meta.ingotDouble:1740, oredict.ingotDoubleNaquadah.name
 gregtech:gt.meta.ingotDouble:1741, oredict.ingotDoubleNaquadahEnriched.name
 gregtech:gt.meta.ingotDouble:1742, oredict.ingotDoubleNaquadria.name
 gregtech:gt.meta.ingotDouble:2220, oredict.ingotDoubleAdamantium.name
+gregtech:gt.meta.ingotDouble:8003, oredict.ingotDoubleCarborundum.name
+gregtech:gt.meta.ingotDouble:8005, oredict.ingotDoubleFerrite.name
 gregtech:gt.meta.ingotDouble:8217, oredict.ingotDoubleRubber.name
 gregtech:gt.meta.ingotDouble:8218, oredict.ingotDoublePlastic.name
 gregtech:gt.meta.ingotDouble:8343, oredict.ingotDoubleForce.name
@@ -26666,6 +25633,8 @@ gregtech:gt.meta.ingotTriple:1740, oredict.ingotTripleNaquadah.name
 gregtech:gt.meta.ingotTriple:1741, oredict.ingotTripleNaquadahEnriched.name
 gregtech:gt.meta.ingotTriple:1742, oredict.ingotTripleNaquadria.name
 gregtech:gt.meta.ingotTriple:2220, oredict.ingotTripleAdamantium.name
+gregtech:gt.meta.ingotTriple:8003, oredict.ingotTripleCarborundum.name
+gregtech:gt.meta.ingotTriple:8005, oredict.ingotTripleFerrite.name
 gregtech:gt.meta.ingotTriple:8217, oredict.ingotTripleRubber.name
 gregtech:gt.meta.ingotTriple:8218, oredict.ingotTriplePlastic.name
 gregtech:gt.meta.ingotTriple:8343, oredict.ingotTripleForce.name
@@ -26856,6 +25825,8 @@ gregtech:gt.meta.ingotQuadruple:1740, oredict.ingotQuadrupleNaquadah.name
 gregtech:gt.meta.ingotQuadruple:1741, oredict.ingotQuadrupleNaquadahEnriched.name
 gregtech:gt.meta.ingotQuadruple:1742, oredict.ingotQuadrupleNaquadria.name
 gregtech:gt.meta.ingotQuadruple:2220, oredict.ingotQuadrupleAdamantium.name
+gregtech:gt.meta.ingotQuadruple:8003, oredict.ingotQuadrupleCarborundum.name
+gregtech:gt.meta.ingotQuadruple:8005, oredict.ingotQuadrupleFerrite.name
 gregtech:gt.meta.ingotQuadruple:8217, oredict.ingotQuadrupleRubber.name
 gregtech:gt.meta.ingotQuadruple:8218, oredict.ingotQuadruplePlastic.name
 gregtech:gt.meta.ingotQuadruple:8343, oredict.ingotQuadrupleForce.name
@@ -27046,6 +26017,8 @@ gregtech:gt.meta.ingotQuintuple:1740, oredict.ingotQuintupleNaquadah.name
 gregtech:gt.meta.ingotQuintuple:1741, oredict.ingotQuintupleNaquadahEnriched.name
 gregtech:gt.meta.ingotQuintuple:1742, oredict.ingotQuintupleNaquadria.name
 gregtech:gt.meta.ingotQuintuple:2220, oredict.ingotQuintupleAdamantium.name
+gregtech:gt.meta.ingotQuintuple:8003, oredict.ingotQuintupleCarborundum.name
+gregtech:gt.meta.ingotQuintuple:8005, oredict.ingotQuintupleFerrite.name
 gregtech:gt.meta.ingotQuintuple:8217, oredict.ingotQuintupleRubber.name
 gregtech:gt.meta.ingotQuintuple:8218, oredict.ingotQuintuplePlastic.name
 gregtech:gt.meta.ingotQuintuple:8343, oredict.ingotQuintupleForce.name
@@ -27384,6 +26357,8 @@ gregtech:gt.meta.plateTiny:1740, oredict.plateTinyNaquadah.name
 gregtech:gt.meta.plateTiny:1741, oredict.plateTinyNaquadahEnriched.name
 gregtech:gt.meta.plateTiny:1742, oredict.plateTinyNaquadria.name
 gregtech:gt.meta.plateTiny:2220, oredict.plateTinyAdamantium.name
+gregtech:gt.meta.plateTiny:8003, oredict.plateTinyCarborundum.name
+gregtech:gt.meta.plateTiny:8005, oredict.plateTinyFerrite.name
 gregtech:gt.meta.plateTiny:8211, oredict.plateTinyBlaze.name
 gregtech:gt.meta.plateTiny:8214, oredict.plateTinyObsidian.name
 gregtech:gt.meta.plateTiny:8217, oredict.plateTinyRubber.name
@@ -27399,6 +26374,7 @@ gregtech:gt.meta.plateTiny:8238, oredict.plateTinyWaxParaffin.name
 gregtech:gt.meta.plateTiny:8239, oredict.plateTinyWaxPlant.name
 gregtech:gt.meta.plateTiny:8240, oredict.plateTinyWaxMagic.name
 gregtech:gt.meta.plateTiny:8267, oredict.plateTinyWoodPolished.name
+gregtech:gt.meta.plateTiny:8273, oredict.plateTinyPorcelain.name
 gregtech:gt.meta.plateTiny:8333, oredict.plateTinyRedstone.name
 gregtech:gt.meta.plateTiny:8339, oredict.plateTinyTeslatite.name
 gregtech:gt.meta.plateTiny:8340, oredict.plateTinyNikolite.name
@@ -27619,6 +26595,8 @@ gregtech:gt.meta.plate:1740, oredict.plateNaquadah.name
 gregtech:gt.meta.plate:1741, oredict.plateNaquadahEnriched.name
 gregtech:gt.meta.plate:1742, oredict.plateNaquadria.name
 gregtech:gt.meta.plate:2220, oredict.plateAdamantium.name
+gregtech:gt.meta.plate:8003, oredict.plateCarborundum.name
+gregtech:gt.meta.plate:8005, oredict.plateFerrite.name
 gregtech:gt.meta.plate:8211, oredict.plateBlaze.name
 gregtech:gt.meta.plate:8214, oredict.plateObsidian.name
 gregtech:gt.meta.plate:8217, oredict.plateRubber.name
@@ -27634,6 +26612,7 @@ gregtech:gt.meta.plate:8238, oredict.plateWaxParaffin.name
 gregtech:gt.meta.plate:8239, oredict.plateWaxPlant.name
 gregtech:gt.meta.plate:8240, oredict.plateWaxMagic.name
 gregtech:gt.meta.plate:8267, oredict.plateWoodPolished.name
+gregtech:gt.meta.plate:8273, oredict.platePorcelain.name
 gregtech:gt.meta.plate:8333, oredict.plateRedstone.name
 gregtech:gt.meta.plate:8339, oredict.plateTeslatite.name
 gregtech:gt.meta.plate:8340, oredict.plateNikolite.name
@@ -27855,6 +26834,8 @@ gregtech:gt.meta.plateDouble:1740, oredict.plateDoubleNaquadah.name
 gregtech:gt.meta.plateDouble:1741, oredict.plateDoubleNaquadahEnriched.name
 gregtech:gt.meta.plateDouble:1742, oredict.plateDoubleNaquadria.name
 gregtech:gt.meta.plateDouble:2220, oredict.plateDoubleAdamantium.name
+gregtech:gt.meta.plateDouble:8003, oredict.plateDoubleCarborundum.name
+gregtech:gt.meta.plateDouble:8005, oredict.plateDoubleFerrite.name
 gregtech:gt.meta.plateDouble:8216, oredict.plateDoublePaper.name
 gregtech:gt.meta.plateDouble:8217, oredict.plateDoubleRubber.name
 gregtech:gt.meta.plateDouble:8218, oredict.plateDoublePlastic.name
@@ -28044,6 +27025,8 @@ gregtech:gt.meta.plateTriple:1740, oredict.plateTripleNaquadah.name
 gregtech:gt.meta.plateTriple:1741, oredict.plateTripleNaquadahEnriched.name
 gregtech:gt.meta.plateTriple:1742, oredict.plateTripleNaquadria.name
 gregtech:gt.meta.plateTriple:2220, oredict.plateTripleAdamantium.name
+gregtech:gt.meta.plateTriple:8003, oredict.plateTripleCarborundum.name
+gregtech:gt.meta.plateTriple:8005, oredict.plateTripleFerrite.name
 gregtech:gt.meta.plateTriple:8216, oredict.plateTriplePaper.name
 gregtech:gt.meta.plateTriple:8217, oredict.plateTripleRubber.name
 gregtech:gt.meta.plateTriple:8218, oredict.plateTriplePlastic.name
@@ -28233,6 +27216,8 @@ gregtech:gt.meta.plateQuadruple:1740, oredict.plateQuadrupleNaquadah.name
 gregtech:gt.meta.plateQuadruple:1741, oredict.plateQuadrupleNaquadahEnriched.name
 gregtech:gt.meta.plateQuadruple:1742, oredict.plateQuadrupleNaquadria.name
 gregtech:gt.meta.plateQuadruple:2220, oredict.plateQuadrupleAdamantium.name
+gregtech:gt.meta.plateQuadruple:8003, oredict.plateQuadrupleCarborundum.name
+gregtech:gt.meta.plateQuadruple:8005, oredict.plateQuadrupleFerrite.name
 gregtech:gt.meta.plateQuadruple:8216, oredict.plateQuadruplePaper.name
 gregtech:gt.meta.plateQuadruple:8217, oredict.plateQuadrupleRubber.name
 gregtech:gt.meta.plateQuadruple:8218, oredict.plateQuadruplePlastic.name
@@ -28422,6 +27407,8 @@ gregtech:gt.meta.plateQuintuple:1740, oredict.plateQuintupleNaquadah.name
 gregtech:gt.meta.plateQuintuple:1741, oredict.plateQuintupleNaquadahEnriched.name
 gregtech:gt.meta.plateQuintuple:1742, oredict.plateQuintupleNaquadria.name
 gregtech:gt.meta.plateQuintuple:2220, oredict.plateQuintupleAdamantium.name
+gregtech:gt.meta.plateQuintuple:8003, oredict.plateQuintupleCarborundum.name
+gregtech:gt.meta.plateQuintuple:8005, oredict.plateQuintupleFerrite.name
 gregtech:gt.meta.plateQuintuple:8216, oredict.plateQuintuplePaper.name
 gregtech:gt.meta.plateQuintuple:8217, oredict.plateQuintupleRubber.name
 gregtech:gt.meta.plateQuintuple:8218, oredict.plateQuintuplePlastic.name
@@ -28611,8 +27598,13 @@ gregtech:gt.meta.plateDense:1740, oredict.plateDenseNaquadah.name
 gregtech:gt.meta.plateDense:1741, oredict.plateDenseNaquadahEnriched.name
 gregtech:gt.meta.plateDense:1742, oredict.plateDenseNaquadria.name
 gregtech:gt.meta.plateDense:2220, oredict.plateDenseAdamantium.name
+gregtech:gt.meta.plateDense:8003, oredict.plateDenseCarborundum.name
+gregtech:gt.meta.plateDense:8005, oredict.plateDenseFerrite.name
 gregtech:gt.meta.plateDense:8217, oredict.plateDenseRubber.name
 gregtech:gt.meta.plateDense:8218, oredict.plateDensePlastic.name
+gregtech:gt.meta.plateDense:8330, oredict.plateDenseLazurite.name
+gregtech:gt.meta.plateDense:8331, oredict.plateDenseSodalite.name
+gregtech:gt.meta.plateDense:8332, oredict.plateDenseLapis.name
 gregtech:gt.meta.plateDense:8343, oredict.plateDenseForce.name
 gregtech:gt.meta.plateDense:8600, oredict.plateDenseElectrum.name
 gregtech:gt.meta.plateDense:8601, oredict.plateDenseSterlingSilver.name
@@ -28799,6 +27791,8 @@ gregtech:gt.meta.plateCurved:1740, oredict.plateCurvedNaquadah.name
 gregtech:gt.meta.plateCurved:1741, oredict.plateCurvedNaquadahEnriched.name
 gregtech:gt.meta.plateCurved:1742, oredict.plateCurvedNaquadria.name
 gregtech:gt.meta.plateCurved:2220, oredict.plateCurvedAdamantium.name
+gregtech:gt.meta.plateCurved:8003, oredict.plateCurvedCarborundum.name
+gregtech:gt.meta.plateCurved:8005, oredict.plateCurvedFerrite.name
 gregtech:gt.meta.plateCurved:8211, oredict.plateCurvedBlaze.name
 gregtech:gt.meta.plateCurved:8214, oredict.plateCurvedObsidian.name
 gregtech:gt.meta.plateCurved:8217, oredict.plateCurvedRubber.name
@@ -28814,6 +27808,7 @@ gregtech:gt.meta.plateCurved:8238, oredict.plateCurvedWaxParaffin.name
 gregtech:gt.meta.plateCurved:8239, oredict.plateCurvedWaxPlant.name
 gregtech:gt.meta.plateCurved:8240, oredict.plateCurvedWaxMagic.name
 gregtech:gt.meta.plateCurved:8267, oredict.plateCurvedWoodPolished.name
+gregtech:gt.meta.plateCurved:8273, oredict.plateCurvedPorcelain.name
 gregtech:gt.meta.plateCurved:8333, oredict.plateCurvedRedstone.name
 gregtech:gt.meta.plateCurved:8339, oredict.plateCurvedTeslatite.name
 gregtech:gt.meta.plateCurved:8340, oredict.plateCurvedNikolite.name
@@ -29734,6 +28729,8 @@ gregtech:gt.meta.stick:1742, oredict.stickNaquadria.name
 gregtech:gt.meta.stick:2220, oredict.stickAdamantium.name
 gregtech:gt.meta.stick:8001, oredict.stickGlass.name
 gregtech:gt.meta.stick:8002, oredict.stickFlint.name
+gregtech:gt.meta.stick:8003, oredict.stickCarborundum.name
+gregtech:gt.meta.stick:8005, oredict.stickFerrite.name
 gregtech:gt.meta.stick:8206, oredict.stickNiter.name
 gregtech:gt.meta.stick:8208, oredict.stickPhosphorus.name
 gregtech:gt.meta.stick:8209, oredict.stickApatite.name
@@ -30031,6 +29028,8 @@ gregtech:gt.meta.stickLong:1742, oredict.stickLongNaquadria.name
 gregtech:gt.meta.stickLong:2220, oredict.stickLongAdamantium.name
 gregtech:gt.meta.stickLong:8001, oredict.stickLongGlass.name
 gregtech:gt.meta.stickLong:8002, oredict.stickLongFlint.name
+gregtech:gt.meta.stickLong:8003, oredict.stickLongCarborundum.name
+gregtech:gt.meta.stickLong:8005, oredict.stickLongFerrite.name
 gregtech:gt.meta.stickLong:8206, oredict.stickLongNiter.name
 gregtech:gt.meta.stickLong:8208, oredict.stickLongPhosphorus.name
 gregtech:gt.meta.stickLong:8209, oredict.stickLongApatite.name
@@ -31629,6 +30628,8 @@ gregtech:gt.meta.foil:1740, oredict.foilNaquadah.name
 gregtech:gt.meta.foil:1741, oredict.foilNaquadahEnriched.name
 gregtech:gt.meta.foil:1742, oredict.foilNaquadria.name
 gregtech:gt.meta.foil:2220, oredict.foilAdamantium.name
+gregtech:gt.meta.foil:8003, oredict.foilCarborundum.name
+gregtech:gt.meta.foil:8005, oredict.foilFerrite.name
 gregtech:gt.meta.foil:8217, oredict.foilRubber.name
 gregtech:gt.meta.foil:8218, oredict.foilPlastic.name
 gregtech:gt.meta.foil:8221, oredict.foilWood.name
@@ -32345,7 +31346,7 @@ gregtech:gt.meta.cell:9802, oredict.cellIce.name
 gregtech:gt.meta.cell:9803, oredict.cellFreshWater.name
 gregtech:gt.meta.cell:9804, oredict.cellSaltWater.name
 gregtech:gt.meta.cell:9805, oredict.cellHolyWater.name
-gregtech:gt.meta.cell:9806, oredict.cellSeawater.name
+gregtech:gt.meta.cell:9806, oredict.cellSeaWater.name
 gregtech:gt.meta.cell:9809, oredict.cellHydrogenPeroxide.name
 gregtech:gt.meta.cell:9820, oredict.cellNitroCarbon.name
 gregtech:gt.meta.cell:9821, oredict.cellGlyceryl.name
@@ -32480,6 +31481,11 @@ gregtech:gt.meta.chemtube:3720, oredict.chemtubeGravitonium.name
 gregtech:gt.meta.chemtube:8000, oredict.chemtubeSiliconDioxide.name
 gregtech:gt.meta.chemtube:8001, oredict.chemtubeGlass.name
 gregtech:gt.meta.chemtube:8002, oredict.chemtubeFlint.name
+gregtech:gt.meta.chemtube:8003, oredict.chemtubeCarborundum.name
+gregtech:gt.meta.chemtube:8004, oredict.chemtubeLithiumOxide.name
+gregtech:gt.meta.chemtube:8005, oredict.chemtubeFerrite.name
+gregtech:gt.meta.chemtube:8006, oredict.chemtubeDatolite.name
+gregtech:gt.meta.chemtube:8007, oredict.chemtubeHydrogenBorate.name
 gregtech:gt.meta.chemtube:8100, oredict.chemtubeSand.name
 gregtech:gt.meta.chemtube:8101, oredict.chemtubeSoulsand.name
 gregtech:gt.meta.chemtube:8102, oredict.chemtubeSluiceSand.name
@@ -32554,6 +31560,9 @@ gregtech:gt.meta.chemtube:8267, oredict.chemtubeWoodPolished.name
 gregtech:gt.meta.chemtube:8268, oredict.chemtubeSodiumHydroxide.name
 gregtech:gt.meta.chemtube:8269, oredict.chemtubeSodiumSulfite.name
 gregtech:gt.meta.chemtube:8270, oredict.chemtubeSodiumSulfate.name
+gregtech:gt.meta.chemtube:8271, oredict.chemtubePotassiumSulfate.name
+gregtech:gt.meta.chemtube:8272, oredict.chemtubePotassiumSulfide.name
+gregtech:gt.meta.chemtube:8273, oredict.chemtubePorcelain.name
 gregtech:gt.meta.chemtube:8300, oredict.chemtubeDiamond.name
 gregtech:gt.meta.chemtube:8301, oredict.chemtubeEmerald.name
 gregtech:gt.meta.chemtube:8302, oredict.chemtubeRuby.name
@@ -32932,7 +31941,7 @@ gregtech:gt.meta.chemtube:9802, oredict.chemtubeIce.name
 gregtech:gt.meta.chemtube:9803, oredict.chemtubeFreshWater.name
 gregtech:gt.meta.chemtube:9804, oredict.chemtubeSaltWater.name
 gregtech:gt.meta.chemtube:9805, oredict.chemtubeHolyWater.name
-gregtech:gt.meta.chemtube:9806, oredict.chemtubeSeawater.name
+gregtech:gt.meta.chemtube:9806, oredict.chemtubeSeaWater.name
 gregtech:gt.meta.chemtube:9809, oredict.chemtubeHydrogenPeroxide.name
 gregtech:gt.meta.chemtube:9810, oredict.chemtubeLava.name
 gregtech:gt.meta.chemtube:9820, oredict.chemtubeNitroCarbon.name
