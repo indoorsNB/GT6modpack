@@ -17,7 +17,11 @@ GT6EZPZ/.minecraft/launcher_profiles.json
 
 GT6EZPZ/.oracle_jre_usage/613bcfb3a06ef613.timestamp
 
-GT6EZPZ/hmcl.log
+GT6EZPZ/hmcl.log6
+
+GT6EZPZ/minecraft/crash-report
+
+GT6EZPZ/minecraft/liteconfig
 
 GT6EZPZ/minecraft/asm
 
@@ -58,3 +62,5 @@ GT6EZPZ/minecraft/backups
 GT6EZPZ/hmcl.json
 
 GT6EZPZ/HMCL-2.6.0.1.jar
+
+GT6EZPZ/minecraft/crash-reports/crash-2017-02-05_22.19.25-client.txt
