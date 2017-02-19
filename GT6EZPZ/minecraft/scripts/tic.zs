@@ -27,3 +27,6 @@ mods.tconstruct.Smeltery.removeMelting(<ore:dustAlumite>);
 mods.tconstruct.Smeltery.removeMelting(<ore:dustPyrotheum>);
 mods.tconstruct.Smeltery.removeMelting(<ore:dustCryotheum>);
 mods.tconstruct.Smeltery.removeMelting(<minecraft:flint_and_steel>);
+mods.tconstruct.Casting.removeTableRecipe(<TConstruct:materials:36>);
+
+

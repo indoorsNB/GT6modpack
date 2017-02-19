@@ -35,7 +35,7 @@ val cropperwire=<NuclearCraft:parts:12>;
 val golddots=<NuclearCraft:parts:11>;
 val ironweb=<NuclearCraft:parts:10>;
 val bronzedots=<NuclearCraft:parts:16>;
-val fuck=<NuclearCraft:parts:17>;
+val diediedie=<NuclearCraft:parts:17>;
 
 //remove recipes
 recipes.remove(nuclearcrusher);
@@ -78,7 +78,7 @@ recipes.addShaped(computer,
  [[bronze, null, null],
   [null, null, null],
   [null, null, null]]);
-  recipes.addShaped(fuck,
+  recipes.addShaped(diediedie,
  [[mag, mag, null],
   [null, null, null],
   [null, null, null]]);
