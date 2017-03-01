@@ -3090,37 +3090,37 @@ ExtraTiC:moltenVoidmetal, Molten Voidmetal
 ExtraTiC:blockFunStuff:0, 精灵方块
 ExtraTiC:blockFunStuff:1, 铁血方块
 ExtraTiC:blockFunStuff:2, 赤金方块
-ThaumicTinkerer:forcefield, 力场
-ThaumicTinkerer:Levitational Locomotive, 悬浮平台
+ThaumicTinkerer:magnet:0, 奥术念力磁铁
+ThaumicTinkerer:magnet:1, 奥术生物磁铁
+ThaumicTinkerer:gaseousLight, tile.gaseousLight.name
 ThaumicTinkerer:darkQuartzSlab:0, 烟黑石英台阶
 ThaumicTinkerer:darkQuartzSlabFull:0, 烟黑石英台阶
 ThaumicTinkerer:gaseousShadow, tile.gaseousShadow.name
-ThaumicTinkerer:animationTablet, 活化工具台
 ThaumicTinkerer:infusedGrainBlock, tile.infusedGrainBlock.name
-ThaumicTinkerer:nitorGas, tile.nitorGas.name
-ThaumicTinkerer:darkQuartzStairs, 烟黑石英楼梯
-ThaumicTinkerer:dislocator, 矢量转位仪
-ThaumicTinkerer:fireWater, 坎水之焰
-ThaumicTinkerer:Levitational Locomotive Relay, 悬浮平台中继
-ThaumicTinkerer:interface, 矢量变换接口
-ThaumicTinkerer:fireAir, 巽风之焰
-ThaumicTinkerer:fireEarth, 坤地之焰
+ThaumicTinkerer:Levitational Locomotive, 悬浮平台
 ThaumicTinkerer:funnel, 要素漏斗
-ThaumicTinkerer:platform, 仙域平台
-ThaumicTinkerer:fireChaos, 混沌之焰
-ThaumicTinkerer:spawner, 死灵祭坛
-ThaumicTinkerer:enchanter, 渗透附魔台
-ThaumicTinkerer:bedrockPortal, 基岩传送门
-ThaumicTinkerer:gaseousLight, tile.gaseousLight.name
-ThaumicTinkerer:repairer, 奥法修复台
-ThaumicTinkerer:warpGate, 仙域之门
+ThaumicTinkerer:fireEarth, 坤地之焰
+ThaumicTinkerer:nitorGas, tile.nitorGas.name
+ThaumicTinkerer:fireWater, 坎水之焰
 ThaumicTinkerer:fireFire, 离火之焰
-ThaumicTinkerer:infusedFarmland, tile.infusedFarmland.name
-ThaumicTinkerer:magnet:0, 奥术念力磁铁
-ThaumicTinkerer:magnet:1, 奥术生物磁铁
+ThaumicTinkerer:bedrockPortal, 基岩传送门
+ThaumicTinkerer:repairer, 奥法修复台
+ThaumicTinkerer:Levitational Locomotive Relay, 悬浮平台中继
 ThaumicTinkerer:darkQuartz:0, 烟黑石英块
 ThaumicTinkerer:darkQuartz:1, 雕琢烟黑石英块
 ThaumicTinkerer:darkQuartz:2, 柱状烟黑石英块
+ThaumicTinkerer:dislocator, 矢量转位仪
+ThaumicTinkerer:platform, 仙域平台
+ThaumicTinkerer:infusedFarmland, tile.infusedFarmland.name
+ThaumicTinkerer:fireChaos, 混沌之焰
+ThaumicTinkerer:darkQuartzStairs, 烟黑石英楼梯
+ThaumicTinkerer:spawner, 死灵祭坛
+ThaumicTinkerer:warpGate, 仙域之门
+ThaumicTinkerer:fireAir, 巽风之焰
+ThaumicTinkerer:interface, 矢量变换接口
+ThaumicTinkerer:animationTablet, 活化工具台
+ThaumicTinkerer:enchanter, 渗透附魔台
+ThaumicTinkerer:forcefield, 力场
 ThaumicTinkerer:fireOrder, 秩序之焰
 ForbiddenMagic:ArcaneCake, 奥法蛋糕
 ForbiddenMagic:WrathCage, 暴怒之笼
@@ -3958,6 +3958,7 @@ gregtech:gt.meta.storage.dust:8270, oredict.blockDustSodiumSulfate.name
 gregtech:gt.meta.storage.dust:8271, oredict.blockDustPotassiumSulfate.name
 gregtech:gt.meta.storage.dust:8272, oredict.blockDustPotassiumSulfide.name
 gregtech:gt.meta.storage.dust:8273, oredict.blockDustPorcelain.name
+gregtech:gt.meta.storage.dust:8274, oredict.blockDustCalciumSulfate.name
 gregtech:gt.meta.storage.dust:8300, oredict.blockDustDiamond.name
 gregtech:gt.meta.storage.dust:8301, oredict.blockDustEmerald.name
 gregtech:gt.meta.storage.dust:8302, oredict.blockDustRuby.name
@@ -4155,6 +4156,7 @@ gregtech:gt.meta.storage.dust:8779, oredict.blockDustCelenegil.name
 gregtech:gt.meta.storage.dust:8781, oredict.blockDustDesichalkos.name
 gregtech:gt.meta.storage.dust:8782, oredict.blockDustTartarite.name
 gregtech:gt.meta.storage.dust:8783, oredict.blockDustAmordrine.name
+gregtech:gt.meta.storage.dust:8784, oredict.blockDustAdamantine.name
 gregtech:gt.meta.storage.dust:8790, oredict.blockDustTrinitanium.name
 gregtech:gt.meta.storage.dust:8791, oredict.blockDustDraconium.name
 gregtech:gt.meta.storage.dust:8792, oredict.blockDustDraconiumAwakened.name
@@ -4279,6 +4281,8 @@ gregtech:gt.meta.storage.dust:9211, oredict.blockDustSmithsonite.name
 gregtech:gt.meta.storage.dust:9212, oredict.blockDustSperrylite.name
 gregtech:gt.meta.storage.dust:9213, oredict.blockDustKesterite.name
 gregtech:gt.meta.storage.dust:9214, oredict.blockDustStannite.name
+gregtech:gt.meta.storage.dust:9215, oredict.blockDustFluorite.name
+gregtech:gt.meta.storage.dust:9216, oredict.blockDustArsenopyrite.name
 gregtech:gt.meta.storage.dust:9700, oredict.blockDustMeatRaw.name
 gregtech:gt.meta.storage.dust:9701, oredict.blockDustMeatCooked.name
 gregtech:gt.meta.storage.dust:9702, oredict.blockDustWheat.name
@@ -4508,6 +4512,7 @@ gregtech:gt.meta.storage.ingot:8779, oredict.blockIngotCelenegil.name
 gregtech:gt.meta.storage.ingot:8781, oredict.blockIngotDesichalkos.name
 gregtech:gt.meta.storage.ingot:8782, oredict.blockIngotTartarite.name
 gregtech:gt.meta.storage.ingot:8783, oredict.blockIngotAmordrine.name
+gregtech:gt.meta.storage.ingot:8784, oredict.blockIngotAdamantine.name
 gregtech:gt.meta.storage.ingot:8790, oredict.blockIngotTrinitanium.name
 gregtech:gt.meta.storage.ingot:8791, oredict.blockIngotDraconium.name
 gregtech:gt.meta.storage.ingot:8792, oredict.blockIngotDraconiumAwakened.name
@@ -4739,6 +4744,7 @@ gregtech:gt.meta.storage.plate:8779, oredict.blockPlateCelenegil.name
 gregtech:gt.meta.storage.plate:8781, oredict.blockPlateDesichalkos.name
 gregtech:gt.meta.storage.plate:8782, oredict.blockPlateTartarite.name
 gregtech:gt.meta.storage.plate:8783, oredict.blockPlateAmordrine.name
+gregtech:gt.meta.storage.plate:8784, oredict.blockPlateAdamantine.name
 gregtech:gt.meta.storage.plate:8790, oredict.blockPlateTrinitanium.name
 gregtech:gt.meta.storage.plate:8791, oredict.blockPlateDraconium.name
 gregtech:gt.meta.storage.plate:8792, oredict.blockPlateDraconiumAwakened.name
@@ -5026,6 +5032,7 @@ gregtech:gt.meta.storage.solid:8779, oredict.blockSolidCelenegil.name
 gregtech:gt.meta.storage.solid:8781, oredict.blockSolidDesichalkos.name
 gregtech:gt.meta.storage.solid:8782, oredict.blockSolidTartarite.name
 gregtech:gt.meta.storage.solid:8783, oredict.blockSolidAmordrine.name
+gregtech:gt.meta.storage.solid:8784, oredict.blockSolidAdamantine.name
 gregtech:gt.meta.storage.solid:8790, oredict.blockSolidTrinitanium.name
 gregtech:gt.meta.storage.solid:8791, oredict.blockSolidDraconium.name
 gregtech:gt.meta.storage.solid:8792, oredict.blockSolidDraconiumAwakened.name
@@ -5181,6 +5188,7 @@ gregtech:gt.meta.machine:8779, oredict.casingMachineCelenegil.name
 gregtech:gt.meta.machine:8781, oredict.casingMachineDesichalkos.name
 gregtech:gt.meta.machine:8782, oredict.casingMachineTartarite.name
 gregtech:gt.meta.machine:8783, oredict.casingMachineAmordrine.name
+gregtech:gt.meta.machine:8784, oredict.casingMachineAdamantine.name
 gregtech:gt.meta.machine:8790, oredict.casingMachineTrinitanium.name
 gregtech:gt.meta.machine:8791, oredict.casingMachineDraconium.name
 gregtech:gt.meta.machine:8792, oredict.casingMachineDraconiumAwakened.name
@@ -5326,6 +5334,7 @@ gregtech:gt.meta.machine.double:8779, oredict.casingMachineDoubleCelenegil.name
 gregtech:gt.meta.machine.double:8781, oredict.casingMachineDoubleDesichalkos.name
 gregtech:gt.meta.machine.double:8782, oredict.casingMachineDoubleTartarite.name
 gregtech:gt.meta.machine.double:8783, oredict.casingMachineDoubleAmordrine.name
+gregtech:gt.meta.machine.double:8784, oredict.casingMachineDoubleAdamantine.name
 gregtech:gt.meta.machine.double:8790, oredict.casingMachineDoubleTrinitanium.name
 gregtech:gt.meta.machine.double:8791, oredict.casingMachineDoubleDraconium.name
 gregtech:gt.meta.machine.double:8792, oredict.casingMachineDoubleDraconiumAwakened.name
@@ -5471,6 +5480,7 @@ gregtech:gt.meta.machine.quadruple:8779, oredict.casingMachineQuadrupleCelenegil
 gregtech:gt.meta.machine.quadruple:8781, oredict.casingMachineQuadrupleDesichalkos.name
 gregtech:gt.meta.machine.quadruple:8782, oredict.casingMachineQuadrupleTartarite.name
 gregtech:gt.meta.machine.quadruple:8783, oredict.casingMachineQuadrupleAmordrine.name
+gregtech:gt.meta.machine.quadruple:8784, oredict.casingMachineQuadrupleAdamantine.name
 gregtech:gt.meta.machine.quadruple:8790, oredict.casingMachineQuadrupleTrinitanium.name
 gregtech:gt.meta.machine.quadruple:8791, oredict.casingMachineQuadrupleDraconium.name
 gregtech:gt.meta.machine.quadruple:8792, oredict.casingMachineQuadrupleDraconiumAwakened.name
@@ -5616,6 +5626,7 @@ gregtech:gt.meta.machine.dense:8779, oredict.casingMachineDenseCelenegil.name
 gregtech:gt.meta.machine.dense:8781, oredict.casingMachineDenseDesichalkos.name
 gregtech:gt.meta.machine.dense:8782, oredict.casingMachineDenseTartarite.name
 gregtech:gt.meta.machine.dense:8783, oredict.casingMachineDenseAmordrine.name
+gregtech:gt.meta.machine.dense:8784, oredict.casingMachineDenseAdamantine.name
 gregtech:gt.meta.machine.dense:8790, oredict.casingMachineDenseTrinitanium.name
 gregtech:gt.meta.machine.dense:8791, oredict.casingMachineDenseDraconium.name
 gregtech:gt.meta.machine.dense:8792, oredict.casingMachineDenseDraconiumAwakened.name
@@ -5856,6 +5867,7 @@ gregtech:gt.meta.crate.dust:8270, oredict.crateGtDustSodiumSulfate.name
 gregtech:gt.meta.crate.dust:8271, oredict.crateGtDustPotassiumSulfate.name
 gregtech:gt.meta.crate.dust:8272, oredict.crateGtDustPotassiumSulfide.name
 gregtech:gt.meta.crate.dust:8273, oredict.crateGtDustPorcelain.name
+gregtech:gt.meta.crate.dust:8274, oredict.crateGtDustCalciumSulfate.name
 gregtech:gt.meta.crate.dust:8300, oredict.crateGtDustDiamond.name
 gregtech:gt.meta.crate.dust:8301, oredict.crateGtDustEmerald.name
 gregtech:gt.meta.crate.dust:8302, oredict.crateGtDustRuby.name
@@ -6053,6 +6065,7 @@ gregtech:gt.meta.crate.dust:8779, oredict.crateGtDustCelenegil.name
 gregtech:gt.meta.crate.dust:8781, oredict.crateGtDustDesichalkos.name
 gregtech:gt.meta.crate.dust:8782, oredict.crateGtDustTartarite.name
 gregtech:gt.meta.crate.dust:8783, oredict.crateGtDustAmordrine.name
+gregtech:gt.meta.crate.dust:8784, oredict.crateGtDustAdamantine.name
 gregtech:gt.meta.crate.dust:8790, oredict.crateGtDustTrinitanium.name
 gregtech:gt.meta.crate.dust:8791, oredict.crateGtDustDraconium.name
 gregtech:gt.meta.crate.dust:8792, oredict.crateGtDustDraconiumAwakened.name
@@ -6177,6 +6190,8 @@ gregtech:gt.meta.crate.dust:9211, oredict.crateGtDustSmithsonite.name
 gregtech:gt.meta.crate.dust:9212, oredict.crateGtDustSperrylite.name
 gregtech:gt.meta.crate.dust:9213, oredict.crateGtDustKesterite.name
 gregtech:gt.meta.crate.dust:9214, oredict.crateGtDustStannite.name
+gregtech:gt.meta.crate.dust:9215, oredict.crateGtDustFluorite.name
+gregtech:gt.meta.crate.dust:9216, oredict.crateGtDustArsenopyrite.name
 gregtech:gt.meta.crate.dust:9700, oredict.crateGtDustMeatRaw.name
 gregtech:gt.meta.crate.dust:9701, oredict.crateGtDustMeatCooked.name
 gregtech:gt.meta.crate.dust:9702, oredict.crateGtDustWheat.name
@@ -6406,6 +6421,7 @@ gregtech:gt.meta.crate.ingot:8779, oredict.crateGtIngotCelenegil.name
 gregtech:gt.meta.crate.ingot:8781, oredict.crateGtIngotDesichalkos.name
 gregtech:gt.meta.crate.ingot:8782, oredict.crateGtIngotTartarite.name
 gregtech:gt.meta.crate.ingot:8783, oredict.crateGtIngotAmordrine.name
+gregtech:gt.meta.crate.ingot:8784, oredict.crateGtIngotAdamantine.name
 gregtech:gt.meta.crate.ingot:8790, oredict.crateGtIngotTrinitanium.name
 gregtech:gt.meta.crate.ingot:8791, oredict.crateGtIngotDraconium.name
 gregtech:gt.meta.crate.ingot:8792, oredict.crateGtIngotDraconiumAwakened.name
@@ -6637,6 +6653,7 @@ gregtech:gt.meta.crate.plate:8779, oredict.crateGtPlateCelenegil.name
 gregtech:gt.meta.crate.plate:8781, oredict.crateGtPlateDesichalkos.name
 gregtech:gt.meta.crate.plate:8782, oredict.crateGtPlateTartarite.name
 gregtech:gt.meta.crate.plate:8783, oredict.crateGtPlateAmordrine.name
+gregtech:gt.meta.crate.plate:8784, oredict.crateGtPlateAdamantine.name
 gregtech:gt.meta.crate.plate:8790, oredict.crateGtPlateTrinitanium.name
 gregtech:gt.meta.crate.plate:8791, oredict.crateGtPlateDraconium.name
 gregtech:gt.meta.crate.plate:8792, oredict.crateGtPlateDraconiumAwakened.name
@@ -8329,8 +8346,8 @@ minecraft:record_ward, 音乐唱片
 minecraft:record_11, 音乐唱片
 minecraft:record_wait, 音乐唱片
 Aroma1997Core:wrench, Aromic Hammer
-gregapi:gt.display.fluid, 流体显示器
-gregapi:gt.integrated_circuit:0, 集成电路
+gregapi:gt.display.fluid, Fluid Display
+gregapi:gt.integrated_circuit:0, Selector Tag
 Baubles:Ring:0, 矿工指环
 ThermalFoundation:lexicon, item.thermalfoundation.tome.name
 ThermalFoundation:bucket:0, 不稳定熔融红石桶
@@ -10286,21 +10303,21 @@ ThermalDynamics:cover:0, 熔融虚空金属.name 覆盖板
 ThermalDynamics:cover:0, 精灵方块 覆盖板
 ThermalDynamics:cover:0, 铁血方块 覆盖板
 ThermalDynamics:cover:0, 赤金方块 覆盖板
+ThermalDynamics:cover:0, tile.gaseousLight.name 覆盖板
 ThermalDynamics:cover:0, 烟黑石英台阶 覆盖板
 ThermalDynamics:cover:0, 烟黑石英台阶 覆盖板
 ThermalDynamics:cover:0, tile.gaseousShadow.name 覆盖板
-ThermalDynamics:cover:0, tile.nitorGas.name 覆盖板
-ThermalDynamics:cover:0, 烟黑石英楼梯 覆盖板
-ThermalDynamics:cover:0, 坎水之焰 覆盖板
-ThermalDynamics:cover:0, 巽风之焰 覆盖板
 ThermalDynamics:cover:0, 坤地之焰 覆盖板
-ThermalDynamics:cover:0, 混沌之焰 覆盖板
-ThermalDynamics:cover:0, 基岩传送门 覆盖板
-ThermalDynamics:cover:0, tile.gaseousLight.name 覆盖板
+ThermalDynamics:cover:0, tile.nitorGas.name 覆盖板
+ThermalDynamics:cover:0, 坎水之焰 覆盖板
 ThermalDynamics:cover:0, 离火之焰 覆盖板
+ThermalDynamics:cover:0, 基岩传送门 覆盖板
 ThermalDynamics:cover:0, 烟黑石英块 覆盖板
 ThermalDynamics:cover:0, 雕琢烟黑石英块 覆盖板
 ThermalDynamics:cover:0, 柱状烟黑石英块 覆盖板
+ThermalDynamics:cover:0, 混沌之焰 覆盖板
+ThermalDynamics:cover:0, 烟黑石英楼梯 覆盖板
+ThermalDynamics:cover:0, 巽风之焰 覆盖板
 ThermalDynamics:cover:0, 秩序之焰 覆盖板
 ThermalDynamics:cover:0, 奥法蛋糕 覆盖板
 ThermalDynamics:cover:0, 暗影玫瑰 覆盖板
@@ -19320,6 +19337,8 @@ gregtech:gt.multiitem.technological:10902, gt.multiitem.technological.10902.name
 gregtech:gt.multiitem.technological:10903, gt.multiitem.technological.10903.name
 gregtech:gt.multiitem.technological:10904, gt.multiitem.technological.10904.name
 gregtech:gt.multiitem.technological:10905, gt.multiitem.technological.10905.name
+gregtech:gt.multiitem.technological:10906, gt.multiitem.technological.10906.name
+gregtech:gt.multiitem.technological:10907, gt.multiitem.technological.10907.name
 gregtech:gt.multiitem.technological:11000, gt.multiitem.technological.11000.name
 gregtech:gt.multiitem.technological:11001, gt.multiitem.technological.11001.name
 gregtech:gt.multiitem.technological:11002, gt.multiitem.technological.11002.name
@@ -19591,48 +19610,64 @@ gregtech:gt.multiitem.randomtools:2002, gt.multiitem.randomtools.2002.name
 gregtech:gt.multiitem.randomtools:2003, gt.multiitem.randomtools.2003.name
 gregtech:gt.multiitem.randomtools:2004, gt.multiitem.randomtools.2004.name
 gregtech:gt.multiitem.randomtools:2005, gt.multiitem.randomtools.2005.name
+gregtech:gt.multiitem.randomtools:2006, gt.multiitem.randomtools.2006.name
+gregtech:gt.multiitem.randomtools:2007, gt.multiitem.randomtools.2007.name
 gregtech:gt.multiitem.randomtools:2100, gt.multiitem.randomtools.2100.name
 gregtech:gt.multiitem.randomtools:2101, gt.multiitem.randomtools.2101.name
 gregtech:gt.multiitem.randomtools:2102, gt.multiitem.randomtools.2102.name
 gregtech:gt.multiitem.randomtools:2103, gt.multiitem.randomtools.2103.name
 gregtech:gt.multiitem.randomtools:2104, gt.multiitem.randomtools.2104.name
 gregtech:gt.multiitem.randomtools:2105, gt.multiitem.randomtools.2105.name
+gregtech:gt.multiitem.randomtools:2106, gt.multiitem.randomtools.2106.name
+gregtech:gt.multiitem.randomtools:2107, gt.multiitem.randomtools.2107.name
 gregtech:gt.multiitem.randomtools:2200, gt.multiitem.randomtools.2200.name
 gregtech:gt.multiitem.randomtools:2201, gt.multiitem.randomtools.2201.name
 gregtech:gt.multiitem.randomtools:2202, gt.multiitem.randomtools.2202.name
 gregtech:gt.multiitem.randomtools:2203, gt.multiitem.randomtools.2203.name
 gregtech:gt.multiitem.randomtools:2204, gt.multiitem.randomtools.2204.name
 gregtech:gt.multiitem.randomtools:2205, gt.multiitem.randomtools.2205.name
+gregtech:gt.multiitem.randomtools:2206, gt.multiitem.randomtools.2206.name
+gregtech:gt.multiitem.randomtools:2207, gt.multiitem.randomtools.2207.name
 gregtech:gt.multiitem.randomtools:2300, gt.multiitem.randomtools.2300.name
 gregtech:gt.multiitem.randomtools:2301, gt.multiitem.randomtools.2301.name
 gregtech:gt.multiitem.randomtools:2302, gt.multiitem.randomtools.2302.name
 gregtech:gt.multiitem.randomtools:2303, gt.multiitem.randomtools.2303.name
 gregtech:gt.multiitem.randomtools:2304, gt.multiitem.randomtools.2304.name
 gregtech:gt.multiitem.randomtools:2305, gt.multiitem.randomtools.2305.name
+gregtech:gt.multiitem.randomtools:2306, gt.multiitem.randomtools.2306.name
+gregtech:gt.multiitem.randomtools:2307, gt.multiitem.randomtools.2307.name
 gregtech:gt.multiitem.randomtools:2400, gt.multiitem.randomtools.2400.name
 gregtech:gt.multiitem.randomtools:2401, gt.multiitem.randomtools.2401.name
 gregtech:gt.multiitem.randomtools:2402, gt.multiitem.randomtools.2402.name
 gregtech:gt.multiitem.randomtools:2403, gt.multiitem.randomtools.2403.name
 gregtech:gt.multiitem.randomtools:2404, gt.multiitem.randomtools.2404.name
 gregtech:gt.multiitem.randomtools:2405, gt.multiitem.randomtools.2405.name
+gregtech:gt.multiitem.randomtools:2406, gt.multiitem.randomtools.2406.name
+gregtech:gt.multiitem.randomtools:2407, gt.multiitem.randomtools.2407.name
 gregtech:gt.multiitem.randomtools:2500, gt.multiitem.randomtools.2500.name
 gregtech:gt.multiitem.randomtools:2501, gt.multiitem.randomtools.2501.name
 gregtech:gt.multiitem.randomtools:2502, gt.multiitem.randomtools.2502.name
 gregtech:gt.multiitem.randomtools:2503, gt.multiitem.randomtools.2503.name
 gregtech:gt.multiitem.randomtools:2504, gt.multiitem.randomtools.2504.name
 gregtech:gt.multiitem.randomtools:2505, gt.multiitem.randomtools.2505.name
+gregtech:gt.multiitem.randomtools:2506, gt.multiitem.randomtools.2506.name
+gregtech:gt.multiitem.randomtools:2507, gt.multiitem.randomtools.2507.name
 gregtech:gt.multiitem.randomtools:2600, gt.multiitem.randomtools.2600.name
 gregtech:gt.multiitem.randomtools:2601, gt.multiitem.randomtools.2601.name
 gregtech:gt.multiitem.randomtools:2602, gt.multiitem.randomtools.2602.name
 gregtech:gt.multiitem.randomtools:2603, gt.multiitem.randomtools.2603.name
 gregtech:gt.multiitem.randomtools:2604, gt.multiitem.randomtools.2604.name
 gregtech:gt.multiitem.randomtools:2605, gt.multiitem.randomtools.2605.name
+gregtech:gt.multiitem.randomtools:2606, gt.multiitem.randomtools.2606.name
+gregtech:gt.multiitem.randomtools:2607, gt.multiitem.randomtools.2607.name
 gregtech:gt.multiitem.randomtools:2700, gt.multiitem.randomtools.2700.name
 gregtech:gt.multiitem.randomtools:2701, gt.multiitem.randomtools.2701.name
 gregtech:gt.multiitem.randomtools:2702, gt.multiitem.randomtools.2702.name
 gregtech:gt.multiitem.randomtools:2703, gt.multiitem.randomtools.2703.name
 gregtech:gt.multiitem.randomtools:2704, gt.multiitem.randomtools.2704.name
 gregtech:gt.multiitem.randomtools:2705, gt.multiitem.randomtools.2705.name
+gregtech:gt.multiitem.randomtools:2706, gt.multiitem.randomtools.2706.name
+gregtech:gt.multiitem.randomtools:2707, gt.multiitem.randomtools.2707.name
 gregtech:gt.multiitem.randomtools:5000, gt.multiitem.randomtools.5000.name
 gregtech:gt.multiitem.randomtools:5003, gt.multiitem.randomtools.5003.name
 gregtech:gt.multiitem.randomtools:5004, gt.multiitem.randomtools.5004.name
@@ -19751,6 +19786,13 @@ gregtech:gt.multiitem.food:170, gt.multiitem.food.170.name
 gregtech:gt.multiitem.food:180, gt.multiitem.food.180.name
 gregtech:gt.multiitem.food:190, gt.multiitem.food.190.name
 gregtech:gt.multiitem.food:200, gt.multiitem.food.200.name
+gregtech:gt.multiitem.food:210, gt.multiitem.food.210.name
+gregtech:gt.multiitem.food:211, gt.multiitem.food.211.name
+gregtech:gt.multiitem.food:220, gt.multiitem.food.220.name
+gregtech:gt.multiitem.food:221, gt.multiitem.food.221.name
+gregtech:gt.multiitem.food:231, gt.multiitem.food.231.name
+gregtech:gt.multiitem.food:240, gt.multiitem.food.240.name
+gregtech:gt.multiitem.food:241, gt.multiitem.food.241.name
 gregtech:gt.multiitem.food:1000, gt.multiitem.food.1000.name
 gregtech:gt.multiitem.food:1001, gt.multiitem.food.1001.name
 gregtech:gt.multiitem.food:1100, gt.multiitem.food.1100.name
@@ -20112,6 +20154,7 @@ gregtech:gt.meta.dust:8270, oredict.dustSodiumSulfate.name
 gregtech:gt.meta.dust:8271, oredict.dustPotassiumSulfate.name
 gregtech:gt.meta.dust:8272, oredict.dustPotassiumSulfide.name
 gregtech:gt.meta.dust:8273, oredict.dustPorcelain.name
+gregtech:gt.meta.dust:8274, oredict.dustCalciumSulfate.name
 gregtech:gt.meta.dust:8300, oredict.dustDiamond.name
 gregtech:gt.meta.dust:8301, oredict.dustEmerald.name
 gregtech:gt.meta.dust:8302, oredict.dustRuby.name
@@ -20306,6 +20349,7 @@ gregtech:gt.meta.dust:8779, oredict.dustCelenegil.name
 gregtech:gt.meta.dust:8781, oredict.dustDesichalkos.name
 gregtech:gt.meta.dust:8782, oredict.dustTartarite.name
 gregtech:gt.meta.dust:8783, oredict.dustAmordrine.name
+gregtech:gt.meta.dust:8784, oredict.dustAdamantine.name
 gregtech:gt.meta.dust:8790, oredict.dustTrinitanium.name
 gregtech:gt.meta.dust:8791, oredict.dustDraconium.name
 gregtech:gt.meta.dust:8792, oredict.dustDraconiumAwakened.name
@@ -20430,6 +20474,8 @@ gregtech:gt.meta.dust:9211, oredict.dustSmithsonite.name
 gregtech:gt.meta.dust:9212, oredict.dustSperrylite.name
 gregtech:gt.meta.dust:9213, oredict.dustKesterite.name
 gregtech:gt.meta.dust:9214, oredict.dustStannite.name
+gregtech:gt.meta.dust:9215, oredict.dustFluorite.name
+gregtech:gt.meta.dust:9216, oredict.dustArsenopyrite.name
 gregtech:gt.meta.dust:9700, oredict.dustMeatRaw.name
 gregtech:gt.meta.dust:9701, oredict.dustMeatCooked.name
 gregtech:gt.meta.dust:9702, oredict.dustWheat.name
@@ -20618,6 +20664,7 @@ gregtech:gt.meta.dustSmall:8270, oredict.dustSmallSodiumSulfate.name
 gregtech:gt.meta.dustSmall:8271, oredict.dustSmallPotassiumSulfate.name
 gregtech:gt.meta.dustSmall:8272, oredict.dustSmallPotassiumSulfide.name
 gregtech:gt.meta.dustSmall:8273, oredict.dustSmallPorcelain.name
+gregtech:gt.meta.dustSmall:8274, oredict.dustSmallCalciumSulfate.name
 gregtech:gt.meta.dustSmall:8300, oredict.dustSmallDiamond.name
 gregtech:gt.meta.dustSmall:8301, oredict.dustSmallEmerald.name
 gregtech:gt.meta.dustSmall:8302, oredict.dustSmallRuby.name
@@ -20815,6 +20862,7 @@ gregtech:gt.meta.dustSmall:8779, oredict.dustSmallCelenegil.name
 gregtech:gt.meta.dustSmall:8781, oredict.dustSmallDesichalkos.name
 gregtech:gt.meta.dustSmall:8782, oredict.dustSmallTartarite.name
 gregtech:gt.meta.dustSmall:8783, oredict.dustSmallAmordrine.name
+gregtech:gt.meta.dustSmall:8784, oredict.dustSmallAdamantine.name
 gregtech:gt.meta.dustSmall:8790, oredict.dustSmallTrinitanium.name
 gregtech:gt.meta.dustSmall:8791, oredict.dustSmallDraconium.name
 gregtech:gt.meta.dustSmall:8792, oredict.dustSmallDraconiumAwakened.name
@@ -20939,6 +20987,8 @@ gregtech:gt.meta.dustSmall:9211, oredict.dustSmallSmithsonite.name
 gregtech:gt.meta.dustSmall:9212, oredict.dustSmallSperrylite.name
 gregtech:gt.meta.dustSmall:9213, oredict.dustSmallKesterite.name
 gregtech:gt.meta.dustSmall:9214, oredict.dustSmallStannite.name
+gregtech:gt.meta.dustSmall:9215, oredict.dustSmallFluorite.name
+gregtech:gt.meta.dustSmall:9216, oredict.dustSmallArsenopyrite.name
 gregtech:gt.meta.dustSmall:9700, oredict.dustSmallMeatRaw.name
 gregtech:gt.meta.dustSmall:9701, oredict.dustSmallMeatCooked.name
 gregtech:gt.meta.dustSmall:9702, oredict.dustSmallWheat.name
@@ -21133,6 +21183,7 @@ gregtech:gt.meta.dustTiny:8270, oredict.dustTinySodiumSulfate.name
 gregtech:gt.meta.dustTiny:8271, oredict.dustTinyPotassiumSulfate.name
 gregtech:gt.meta.dustTiny:8272, oredict.dustTinyPotassiumSulfide.name
 gregtech:gt.meta.dustTiny:8273, oredict.dustTinyPorcelain.name
+gregtech:gt.meta.dustTiny:8274, oredict.dustTinyCalciumSulfate.name
 gregtech:gt.meta.dustTiny:8300, oredict.dustTinyDiamond.name
 gregtech:gt.meta.dustTiny:8301, oredict.dustTinyEmerald.name
 gregtech:gt.meta.dustTiny:8302, oredict.dustTinyRuby.name
@@ -21330,6 +21381,7 @@ gregtech:gt.meta.dustTiny:8779, oredict.dustTinyCelenegil.name
 gregtech:gt.meta.dustTiny:8781, oredict.dustTinyDesichalkos.name
 gregtech:gt.meta.dustTiny:8782, oredict.dustTinyTartarite.name
 gregtech:gt.meta.dustTiny:8783, oredict.dustTinyAmordrine.name
+gregtech:gt.meta.dustTiny:8784, oredict.dustTinyAdamantine.name
 gregtech:gt.meta.dustTiny:8790, oredict.dustTinyTrinitanium.name
 gregtech:gt.meta.dustTiny:8791, oredict.dustTinyDraconium.name
 gregtech:gt.meta.dustTiny:8792, oredict.dustTinyDraconiumAwakened.name
@@ -21454,6 +21506,8 @@ gregtech:gt.meta.dustTiny:9211, oredict.dustTinySmithsonite.name
 gregtech:gt.meta.dustTiny:9212, oredict.dustTinySperrylite.name
 gregtech:gt.meta.dustTiny:9213, oredict.dustTinyKesterite.name
 gregtech:gt.meta.dustTiny:9214, oredict.dustTinyStannite.name
+gregtech:gt.meta.dustTiny:9215, oredict.dustTinyFluorite.name
+gregtech:gt.meta.dustTiny:9216, oredict.dustTinyArsenopyrite.name
 gregtech:gt.meta.dustTiny:9700, oredict.dustTinyMeatRaw.name
 gregtech:gt.meta.dustTiny:9701, oredict.dustTinyMeatCooked.name
 gregtech:gt.meta.dustTiny:9702, oredict.dustTinyWheat.name
@@ -21648,6 +21702,7 @@ gregtech:gt.meta.dustDiv72:8270, oredict.dustDiv72SodiumSulfate.name
 gregtech:gt.meta.dustDiv72:8271, oredict.dustDiv72PotassiumSulfate.name
 gregtech:gt.meta.dustDiv72:8272, oredict.dustDiv72PotassiumSulfide.name
 gregtech:gt.meta.dustDiv72:8273, oredict.dustDiv72Porcelain.name
+gregtech:gt.meta.dustDiv72:8274, oredict.dustDiv72CalciumSulfate.name
 gregtech:gt.meta.dustDiv72:8300, oredict.dustDiv72Diamond.name
 gregtech:gt.meta.dustDiv72:8301, oredict.dustDiv72Emerald.name
 gregtech:gt.meta.dustDiv72:8302, oredict.dustDiv72Ruby.name
@@ -21845,6 +21900,7 @@ gregtech:gt.meta.dustDiv72:8779, oredict.dustDiv72Celenegil.name
 gregtech:gt.meta.dustDiv72:8781, oredict.dustDiv72Desichalkos.name
 gregtech:gt.meta.dustDiv72:8782, oredict.dustDiv72Tartarite.name
 gregtech:gt.meta.dustDiv72:8783, oredict.dustDiv72Amordrine.name
+gregtech:gt.meta.dustDiv72:8784, oredict.dustDiv72Adamantine.name
 gregtech:gt.meta.dustDiv72:8790, oredict.dustDiv72Trinitanium.name
 gregtech:gt.meta.dustDiv72:8791, oredict.dustDiv72Draconium.name
 gregtech:gt.meta.dustDiv72:8792, oredict.dustDiv72DraconiumAwakened.name
@@ -21969,6 +22025,8 @@ gregtech:gt.meta.dustDiv72:9211, oredict.dustDiv72Smithsonite.name
 gregtech:gt.meta.dustDiv72:9212, oredict.dustDiv72Sperrylite.name
 gregtech:gt.meta.dustDiv72:9213, oredict.dustDiv72Kesterite.name
 gregtech:gt.meta.dustDiv72:9214, oredict.dustDiv72Stannite.name
+gregtech:gt.meta.dustDiv72:9215, oredict.dustDiv72Fluorite.name
+gregtech:gt.meta.dustDiv72:9216, oredict.dustDiv72Arsenopyrite.name
 gregtech:gt.meta.dustDiv72:9700, oredict.dustDiv72MeatRaw.name
 gregtech:gt.meta.dustDiv72:9701, oredict.dustDiv72MeatCooked.name
 gregtech:gt.meta.dustDiv72:9702, oredict.dustDiv72Wheat.name
@@ -22201,6 +22259,7 @@ gregtech:gt.meta.dustImpure:8773, oredict.dustImpureEximite.name
 gregtech:gt.meta.dustImpure:8774, oredict.dustImpurePrometheum.name
 gregtech:gt.meta.dustImpure:8775, oredict.dustImpureIgnatius.name
 gregtech:gt.meta.dustImpure:8776, oredict.dustImpureVulcanite.name
+gregtech:gt.meta.dustImpure:8784, oredict.dustImpureAdamantine.name
 gregtech:gt.meta.dustImpure:8791, oredict.dustImpureDraconium.name
 gregtech:gt.meta.dustImpure:9000, oredict.dustImpurePumice.name
 gregtech:gt.meta.dustImpure:9001, oredict.dustImpureDiatomite.name
@@ -22322,6 +22381,8 @@ gregtech:gt.meta.dustImpure:9211, oredict.dustImpureSmithsonite.name
 gregtech:gt.meta.dustImpure:9212, oredict.dustImpureSperrylite.name
 gregtech:gt.meta.dustImpure:9213, oredict.dustImpureKesterite.name
 gregtech:gt.meta.dustImpure:9214, oredict.dustImpureStannite.name
+gregtech:gt.meta.dustImpure:9215, oredict.dustImpureFluorite.name
+gregtech:gt.meta.dustImpure:9216, oredict.dustImpureArsenopyrite.name
 gregtech:gt.meta.dustImpure:9780, oredict.dustImpureCheese.name
 gregtech:gt.meta.dustImpure:9851, oredict.dustImpureOilsands.name
 gregtech:gt.meta.dustImpure:9852, oredict.dustImpureCrudeOil.name
@@ -22518,6 +22579,7 @@ gregtech:gt.meta.dustPure:8773, oredict.dustPureEximite.name
 gregtech:gt.meta.dustPure:8774, oredict.dustPurePrometheum.name
 gregtech:gt.meta.dustPure:8775, oredict.dustPureIgnatius.name
 gregtech:gt.meta.dustPure:8776, oredict.dustPureVulcanite.name
+gregtech:gt.meta.dustPure:8784, oredict.dustPureAdamantine.name
 gregtech:gt.meta.dustPure:8791, oredict.dustPureDraconium.name
 gregtech:gt.meta.dustPure:9000, oredict.dustPurePumice.name
 gregtech:gt.meta.dustPure:9001, oredict.dustPureDiatomite.name
@@ -22639,6 +22701,8 @@ gregtech:gt.meta.dustPure:9211, oredict.dustPureSmithsonite.name
 gregtech:gt.meta.dustPure:9212, oredict.dustPureSperrylite.name
 gregtech:gt.meta.dustPure:9213, oredict.dustPureKesterite.name
 gregtech:gt.meta.dustPure:9214, oredict.dustPureStannite.name
+gregtech:gt.meta.dustPure:9215, oredict.dustPureFluorite.name
+gregtech:gt.meta.dustPure:9216, oredict.dustPureArsenopyrite.name
 gregtech:gt.meta.dustPure:9780, oredict.dustPureCheese.name
 gregtech:gt.meta.dustPure:9851, oredict.dustPureOilsands.name
 gregtech:gt.meta.dustPure:9852, oredict.dustPureCrudeOil.name
@@ -22822,6 +22886,7 @@ gregtech:gt.meta.crushed:8773, oredict.crushedEximite.name
 gregtech:gt.meta.crushed:8774, oredict.crushedPrometheum.name
 gregtech:gt.meta.crushed:8775, oredict.crushedIgnatius.name
 gregtech:gt.meta.crushed:8776, oredict.crushedVulcanite.name
+gregtech:gt.meta.crushed:8784, oredict.crushedAdamantine.name
 gregtech:gt.meta.crushed:8791, oredict.crushedDraconium.name
 gregtech:gt.meta.crushed:9000, oredict.crushedPumice.name
 gregtech:gt.meta.crushed:9001, oredict.crushedDiatomite.name
@@ -22925,6 +22990,8 @@ gregtech:gt.meta.crushed:9211, oredict.crushedSmithsonite.name
 gregtech:gt.meta.crushed:9212, oredict.crushedSperrylite.name
 gregtech:gt.meta.crushed:9213, oredict.crushedKesterite.name
 gregtech:gt.meta.crushed:9214, oredict.crushedStannite.name
+gregtech:gt.meta.crushed:9215, oredict.crushedFluorite.name
+gregtech:gt.meta.crushed:9216, oredict.crushedArsenopyrite.name
 gregtech:gt.meta.crushed:9780, oredict.crushedCheese.name
 gregtech:gt.meta.crushed:9851, oredict.crushedOilsands.name
 gregtech:gt.meta.crushed:9852, oredict.crushedCrudeOil.name
@@ -23108,6 +23175,7 @@ gregtech:gt.meta.crushedTiny:8773, oredict.crushedTinyEximite.name
 gregtech:gt.meta.crushedTiny:8774, oredict.crushedTinyPrometheum.name
 gregtech:gt.meta.crushedTiny:8775, oredict.crushedTinyIgnatius.name
 gregtech:gt.meta.crushedTiny:8776, oredict.crushedTinyVulcanite.name
+gregtech:gt.meta.crushedTiny:8784, oredict.crushedTinyAdamantine.name
 gregtech:gt.meta.crushedTiny:8791, oredict.crushedTinyDraconium.name
 gregtech:gt.meta.crushedTiny:9000, oredict.crushedTinyPumice.name
 gregtech:gt.meta.crushedTiny:9001, oredict.crushedTinyDiatomite.name
@@ -23211,6 +23279,8 @@ gregtech:gt.meta.crushedTiny:9211, oredict.crushedTinySmithsonite.name
 gregtech:gt.meta.crushedTiny:9212, oredict.crushedTinySperrylite.name
 gregtech:gt.meta.crushedTiny:9213, oredict.crushedTinyKesterite.name
 gregtech:gt.meta.crushedTiny:9214, oredict.crushedTinyStannite.name
+gregtech:gt.meta.crushedTiny:9215, oredict.crushedTinyFluorite.name
+gregtech:gt.meta.crushedTiny:9216, oredict.crushedTinyArsenopyrite.name
 gregtech:gt.meta.crushedTiny:9780, oredict.crushedTinyCheese.name
 gregtech:gt.meta.crushedTiny:9851, oredict.crushedTinyOilsands.name
 gregtech:gt.meta.crushedTiny:9852, oredict.crushedTinyCrudeOil.name
@@ -23394,6 +23464,7 @@ gregtech:gt.meta.crushedPurified:8773, oredict.crushedPurifiedEximite.name
 gregtech:gt.meta.crushedPurified:8774, oredict.crushedPurifiedPrometheum.name
 gregtech:gt.meta.crushedPurified:8775, oredict.crushedPurifiedIgnatius.name
 gregtech:gt.meta.crushedPurified:8776, oredict.crushedPurifiedVulcanite.name
+gregtech:gt.meta.crushedPurified:8784, oredict.crushedPurifiedAdamantine.name
 gregtech:gt.meta.crushedPurified:8791, oredict.crushedPurifiedDraconium.name
 gregtech:gt.meta.crushedPurified:9000, oredict.crushedPurifiedPumice.name
 gregtech:gt.meta.crushedPurified:9001, oredict.crushedPurifiedDiatomite.name
@@ -23497,6 +23568,8 @@ gregtech:gt.meta.crushedPurified:9211, oredict.crushedPurifiedSmithsonite.name
 gregtech:gt.meta.crushedPurified:9212, oredict.crushedPurifiedSperrylite.name
 gregtech:gt.meta.crushedPurified:9213, oredict.crushedPurifiedKesterite.name
 gregtech:gt.meta.crushedPurified:9214, oredict.crushedPurifiedStannite.name
+gregtech:gt.meta.crushedPurified:9215, oredict.crushedPurifiedFluorite.name
+gregtech:gt.meta.crushedPurified:9216, oredict.crushedPurifiedArsenopyrite.name
 gregtech:gt.meta.crushedPurified:9780, oredict.crushedPurifiedCheese.name
 gregtech:gt.meta.crushedPurified:9851, oredict.crushedPurifiedOilsands.name
 gregtech:gt.meta.crushedPurified:9852, oredict.crushedPurifiedCrudeOil.name
@@ -23680,6 +23753,7 @@ gregtech:gt.meta.crushedPurifiedTiny:8773, oredict.crushedPurifiedTinyEximite.na
 gregtech:gt.meta.crushedPurifiedTiny:8774, oredict.crushedPurifiedTinyPrometheum.name
 gregtech:gt.meta.crushedPurifiedTiny:8775, oredict.crushedPurifiedTinyIgnatius.name
 gregtech:gt.meta.crushedPurifiedTiny:8776, oredict.crushedPurifiedTinyVulcanite.name
+gregtech:gt.meta.crushedPurifiedTiny:8784, oredict.crushedPurifiedTinyAdamantine.name
 gregtech:gt.meta.crushedPurifiedTiny:8791, oredict.crushedPurifiedTinyDraconium.name
 gregtech:gt.meta.crushedPurifiedTiny:9000, oredict.crushedPurifiedTinyPumice.name
 gregtech:gt.meta.crushedPurifiedTiny:9001, oredict.crushedPurifiedTinyDiatomite.name
@@ -23783,6 +23857,8 @@ gregtech:gt.meta.crushedPurifiedTiny:9211, oredict.crushedPurifiedTinySmithsonit
 gregtech:gt.meta.crushedPurifiedTiny:9212, oredict.crushedPurifiedTinySperrylite.name
 gregtech:gt.meta.crushedPurifiedTiny:9213, oredict.crushedPurifiedTinyKesterite.name
 gregtech:gt.meta.crushedPurifiedTiny:9214, oredict.crushedPurifiedTinyStannite.name
+gregtech:gt.meta.crushedPurifiedTiny:9215, oredict.crushedPurifiedTinyFluorite.name
+gregtech:gt.meta.crushedPurifiedTiny:9216, oredict.crushedPurifiedTinyArsenopyrite.name
 gregtech:gt.meta.crushedPurifiedTiny:9780, oredict.crushedPurifiedTinyCheese.name
 gregtech:gt.meta.crushedPurifiedTiny:9851, oredict.crushedPurifiedTinyOilsands.name
 gregtech:gt.meta.crushedPurifiedTiny:9852, oredict.crushedPurifiedTinyCrudeOil.name
@@ -23966,6 +24042,7 @@ gregtech:gt.meta.crushedCentrifuged:8773, oredict.crushedCentrifugedEximite.name
 gregtech:gt.meta.crushedCentrifuged:8774, oredict.crushedCentrifugedPrometheum.name
 gregtech:gt.meta.crushedCentrifuged:8775, oredict.crushedCentrifugedIgnatius.name
 gregtech:gt.meta.crushedCentrifuged:8776, oredict.crushedCentrifugedVulcanite.name
+gregtech:gt.meta.crushedCentrifuged:8784, oredict.crushedCentrifugedAdamantine.name
 gregtech:gt.meta.crushedCentrifuged:8791, oredict.crushedCentrifugedDraconium.name
 gregtech:gt.meta.crushedCentrifuged:9000, oredict.crushedCentrifugedPumice.name
 gregtech:gt.meta.crushedCentrifuged:9001, oredict.crushedCentrifugedDiatomite.name
@@ -24069,6 +24146,8 @@ gregtech:gt.meta.crushedCentrifuged:9211, oredict.crushedCentrifugedSmithsonite.
 gregtech:gt.meta.crushedCentrifuged:9212, oredict.crushedCentrifugedSperrylite.name
 gregtech:gt.meta.crushedCentrifuged:9213, oredict.crushedCentrifugedKesterite.name
 gregtech:gt.meta.crushedCentrifuged:9214, oredict.crushedCentrifugedStannite.name
+gregtech:gt.meta.crushedCentrifuged:9215, oredict.crushedCentrifugedFluorite.name
+gregtech:gt.meta.crushedCentrifuged:9216, oredict.crushedCentrifugedArsenopyrite.name
 gregtech:gt.meta.crushedCentrifuged:9780, oredict.crushedCentrifugedCheese.name
 gregtech:gt.meta.crushedCentrifuged:9851, oredict.crushedCentrifugedOilsands.name
 gregtech:gt.meta.crushedCentrifuged:9852, oredict.crushedCentrifugedCrudeOil.name
@@ -24252,6 +24331,7 @@ gregtech:gt.meta.crushedCentrifugedTiny:8773, oredict.crushedCentrifugedTinyExim
 gregtech:gt.meta.crushedCentrifugedTiny:8774, oredict.crushedCentrifugedTinyPrometheum.name
 gregtech:gt.meta.crushedCentrifugedTiny:8775, oredict.crushedCentrifugedTinyIgnatius.name
 gregtech:gt.meta.crushedCentrifugedTiny:8776, oredict.crushedCentrifugedTinyVulcanite.name
+gregtech:gt.meta.crushedCentrifugedTiny:8784, oredict.crushedCentrifugedTinyAdamantine.name
 gregtech:gt.meta.crushedCentrifugedTiny:8791, oredict.crushedCentrifugedTinyDraconium.name
 gregtech:gt.meta.crushedCentrifugedTiny:9000, oredict.crushedCentrifugedTinyPumice.name
 gregtech:gt.meta.crushedCentrifugedTiny:9001, oredict.crushedCentrifugedTinyDiatomite.name
@@ -24355,9 +24435,12 @@ gregtech:gt.meta.crushedCentrifugedTiny:9211, oredict.crushedCentrifugedTinySmit
 gregtech:gt.meta.crushedCentrifugedTiny:9212, oredict.crushedCentrifugedTinySperrylite.name
 gregtech:gt.meta.crushedCentrifugedTiny:9213, oredict.crushedCentrifugedTinyKesterite.name
 gregtech:gt.meta.crushedCentrifugedTiny:9214, oredict.crushedCentrifugedTinyStannite.name
+gregtech:gt.meta.crushedCentrifugedTiny:9215, oredict.crushedCentrifugedTinyFluorite.name
+gregtech:gt.meta.crushedCentrifugedTiny:9216, oredict.crushedCentrifugedTinyArsenopyrite.name
 gregtech:gt.meta.crushedCentrifugedTiny:9780, oredict.crushedCentrifugedTinyCheese.name
 gregtech:gt.meta.crushedCentrifugedTiny:9851, oredict.crushedCentrifugedTinyOilsands.name
 gregtech:gt.meta.crushedCentrifugedTiny:9852, oredict.crushedCentrifugedTinyCrudeOil.name
+gregtech:gt.meta.gemChipped:400, oredict.gemChippedZirconium.name
 gregtech:gt.meta.gemChipped:8001, oredict.gemChippedGlass.name
 gregtech:gt.meta.gemChipped:8203, oredict.gemChippedRockSalt.name
 gregtech:gt.meta.gemChipped:8204, oredict.gemChippedSalt.name
@@ -24399,6 +24482,7 @@ gregtech:gt.meta.gemChipped:9129, oredict.gemChippedSpessartine.name
 gregtech:gt.meta.gemChipped:9135, oredict.gemChippedUvarovite.name
 gregtech:gt.meta.gemChipped:9703, oredict.gemChippedSugar.name
 gregtech:gt.meta.gemChipped:9802, oredict.gemChippedIce.name
+gregtech:gt.meta.gemFlawed:400, oredict.gemFlawedZirconium.name
 gregtech:gt.meta.gemFlawed:8001, oredict.gemFlawedGlass.name
 gregtech:gt.meta.gemFlawed:8203, oredict.gemFlawedRockSalt.name
 gregtech:gt.meta.gemFlawed:8204, oredict.gemFlawedSalt.name
@@ -24501,6 +24585,7 @@ gregtech:gt.meta.gem:9135, oredict.gemUvarovite.name
 gregtech:gt.meta.gem:9156, oredict.gemMalachite.name
 gregtech:gt.meta.gem:9180, oredict.gemQuartzite.name
 gregtech:gt.meta.gem:9802, oredict.gemIce.name
+gregtech:gt.meta.gemFlawless:400, oredict.gemFlawlessZirconium.name
 gregtech:gt.meta.gemFlawless:8001, oredict.gemFlawlessGlass.name
 gregtech:gt.meta.gemFlawless:8300, oredict.gemFlawlessDiamond.name
 gregtech:gt.meta.gemFlawless:8301, oredict.gemFlawlessEmerald.name
@@ -24537,6 +24622,7 @@ gregtech:gt.meta.gemFlawless:9119, oredict.gemFlawlessGrossular.name
 gregtech:gt.meta.gemFlawless:9127, oredict.gemFlawlessPyrope.name
 gregtech:gt.meta.gemFlawless:9129, oredict.gemFlawlessSpessartine.name
 gregtech:gt.meta.gemFlawless:9135, oredict.gemFlawlessUvarovite.name
+gregtech:gt.meta.gemExquisite:400, oredict.gemExquisiteZirconium.name
 gregtech:gt.meta.gemExquisite:8001, oredict.gemExquisiteGlass.name
 gregtech:gt.meta.gemExquisite:8300, oredict.gemExquisiteDiamond.name
 gregtech:gt.meta.gemExquisite:8301, oredict.gemExquisiteEmerald.name
@@ -24573,6 +24659,7 @@ gregtech:gt.meta.gemExquisite:9119, oredict.gemExquisiteGrossular.name
 gregtech:gt.meta.gemExquisite:9127, oredict.gemExquisitePyrope.name
 gregtech:gt.meta.gemExquisite:9129, oredict.gemExquisiteSpessartine.name
 gregtech:gt.meta.gemExquisite:9135, oredict.gemExquisiteUvarovite.name
+gregtech:gt.meta.gemLegendary:400, oredict.gemLegendaryZirconium.name
 gregtech:gt.meta.gemLegendary:8001, oredict.gemLegendaryGlass.name
 gregtech:gt.meta.gemLegendary:8300, oredict.gemLegendaryDiamond.name
 gregtech:gt.meta.gemLegendary:8301, oredict.gemLegendaryEmerald.name
@@ -24794,6 +24881,7 @@ gregtech:gt.meta.nugget:8779, oredict.nuggetCelenegil.name
 gregtech:gt.meta.nugget:8781, oredict.nuggetDesichalkos.name
 gregtech:gt.meta.nugget:8782, oredict.nuggetTartarite.name
 gregtech:gt.meta.nugget:8783, oredict.nuggetAmordrine.name
+gregtech:gt.meta.nugget:8784, oredict.nuggetAdamantine.name
 gregtech:gt.meta.nugget:8790, oredict.nuggetTrinitanium.name
 gregtech:gt.meta.nugget:8791, oredict.nuggetDraconium.name
 gregtech:gt.meta.nugget:8792, oredict.nuggetDraconiumAwakened.name
@@ -24997,6 +25085,7 @@ gregtech:gt.meta.chunkGt:8779, oredict.chunkGtCelenegil.name
 gregtech:gt.meta.chunkGt:8781, oredict.chunkGtDesichalkos.name
 gregtech:gt.meta.chunkGt:8782, oredict.chunkGtTartarite.name
 gregtech:gt.meta.chunkGt:8783, oredict.chunkGtAmordrine.name
+gregtech:gt.meta.chunkGt:8784, oredict.chunkGtAdamantine.name
 gregtech:gt.meta.chunkGt:8790, oredict.chunkGtTrinitanium.name
 gregtech:gt.meta.chunkGt:8791, oredict.chunkGtDraconium.name
 gregtech:gt.meta.chunkGt:8792, oredict.chunkGtDraconiumAwakened.name
@@ -25190,6 +25279,7 @@ gregtech:gt.meta.ingot:8779, oredict.ingotCelenegil.name
 gregtech:gt.meta.ingot:8781, oredict.ingotDesichalkos.name
 gregtech:gt.meta.ingot:8782, oredict.ingotTartarite.name
 gregtech:gt.meta.ingot:8783, oredict.ingotAmordrine.name
+gregtech:gt.meta.ingot:8784, oredict.ingotAdamantine.name
 gregtech:gt.meta.ingot:8790, oredict.ingotTrinitanium.name
 gregtech:gt.meta.ingot:8791, oredict.ingotDraconium.name
 gregtech:gt.meta.ingot:8792, oredict.ingotDraconiumAwakened.name
@@ -25382,6 +25472,7 @@ gregtech:gt.meta.ingotHot:8779, oredict.ingotHotCelenegil.name
 gregtech:gt.meta.ingotHot:8781, oredict.ingotHotDesichalkos.name
 gregtech:gt.meta.ingotHot:8782, oredict.ingotHotTartarite.name
 gregtech:gt.meta.ingotHot:8783, oredict.ingotHotAmordrine.name
+gregtech:gt.meta.ingotHot:8784, oredict.ingotHotAdamantine.name
 gregtech:gt.meta.ingotHot:8790, oredict.ingotHotTrinitanium.name
 gregtech:gt.meta.ingotHot:8791, oredict.ingotHotDraconium.name
 gregtech:gt.meta.ingotHot:8792, oredict.ingotHotDraconiumAwakened.name
@@ -25573,6 +25664,7 @@ gregtech:gt.meta.ingotDouble:8779, oredict.ingotDoubleCelenegil.name
 gregtech:gt.meta.ingotDouble:8781, oredict.ingotDoubleDesichalkos.name
 gregtech:gt.meta.ingotDouble:8782, oredict.ingotDoubleTartarite.name
 gregtech:gt.meta.ingotDouble:8783, oredict.ingotDoubleAmordrine.name
+gregtech:gt.meta.ingotDouble:8784, oredict.ingotDoubleAdamantine.name
 gregtech:gt.meta.ingotDouble:8790, oredict.ingotDoubleTrinitanium.name
 gregtech:gt.meta.ingotDouble:8791, oredict.ingotDoubleDraconium.name
 gregtech:gt.meta.ingotDouble:8792, oredict.ingotDoubleDraconiumAwakened.name
@@ -25765,6 +25857,7 @@ gregtech:gt.meta.ingotTriple:8779, oredict.ingotTripleCelenegil.name
 gregtech:gt.meta.ingotTriple:8781, oredict.ingotTripleDesichalkos.name
 gregtech:gt.meta.ingotTriple:8782, oredict.ingotTripleTartarite.name
 gregtech:gt.meta.ingotTriple:8783, oredict.ingotTripleAmordrine.name
+gregtech:gt.meta.ingotTriple:8784, oredict.ingotTripleAdamantine.name
 gregtech:gt.meta.ingotTriple:8790, oredict.ingotTripleTrinitanium.name
 gregtech:gt.meta.ingotTriple:8791, oredict.ingotTripleDraconium.name
 gregtech:gt.meta.ingotTriple:8792, oredict.ingotTripleDraconiumAwakened.name
@@ -25957,6 +26050,7 @@ gregtech:gt.meta.ingotQuadruple:8779, oredict.ingotQuadrupleCelenegil.name
 gregtech:gt.meta.ingotQuadruple:8781, oredict.ingotQuadrupleDesichalkos.name
 gregtech:gt.meta.ingotQuadruple:8782, oredict.ingotQuadrupleTartarite.name
 gregtech:gt.meta.ingotQuadruple:8783, oredict.ingotQuadrupleAmordrine.name
+gregtech:gt.meta.ingotQuadruple:8784, oredict.ingotQuadrupleAdamantine.name
 gregtech:gt.meta.ingotQuadruple:8790, oredict.ingotQuadrupleTrinitanium.name
 gregtech:gt.meta.ingotQuadruple:8791, oredict.ingotQuadrupleDraconium.name
 gregtech:gt.meta.ingotQuadruple:8792, oredict.ingotQuadrupleDraconiumAwakened.name
@@ -26149,6 +26243,7 @@ gregtech:gt.meta.ingotQuintuple:8779, oredict.ingotQuintupleCelenegil.name
 gregtech:gt.meta.ingotQuintuple:8781, oredict.ingotQuintupleDesichalkos.name
 gregtech:gt.meta.ingotQuintuple:8782, oredict.ingotQuintupleTartarite.name
 gregtech:gt.meta.ingotQuintuple:8783, oredict.ingotQuintupleAmordrine.name
+gregtech:gt.meta.ingotQuintuple:8784, oredict.ingotQuintupleAdamantine.name
 gregtech:gt.meta.ingotQuintuple:8790, oredict.ingotQuintupleTrinitanium.name
 gregtech:gt.meta.ingotQuintuple:8791, oredict.ingotQuintupleDraconium.name
 gregtech:gt.meta.ingotQuintuple:8792, oredict.ingotQuintupleDraconiumAwakened.name
@@ -26518,6 +26613,7 @@ gregtech:gt.meta.plateTiny:8779, oredict.plateTinyCelenegil.name
 gregtech:gt.meta.plateTiny:8781, oredict.plateTinyDesichalkos.name
 gregtech:gt.meta.plateTiny:8782, oredict.plateTinyTartarite.name
 gregtech:gt.meta.plateTiny:8783, oredict.plateTinyAmordrine.name
+gregtech:gt.meta.plateTiny:8784, oredict.plateTinyAdamantine.name
 gregtech:gt.meta.plateTiny:8790, oredict.plateTinyTrinitanium.name
 gregtech:gt.meta.plateTiny:8791, oredict.plateTinyDraconium.name
 gregtech:gt.meta.plateTiny:8792, oredict.plateTinyDraconiumAwakened.name
@@ -26754,6 +26850,7 @@ gregtech:gt.meta.plate:8779, oredict.plateCelenegil.name
 gregtech:gt.meta.plate:8781, oredict.plateDesichalkos.name
 gregtech:gt.meta.plate:8782, oredict.plateTartarite.name
 gregtech:gt.meta.plate:8783, oredict.plateAmordrine.name
+gregtech:gt.meta.plate:8784, oredict.plateAdamantine.name
 gregtech:gt.meta.plate:8790, oredict.plateTrinitanium.name
 gregtech:gt.meta.plate:8791, oredict.plateDraconium.name
 gregtech:gt.meta.plate:8792, oredict.plateDraconiumAwakened.name
@@ -26965,6 +27062,7 @@ gregtech:gt.meta.plateDouble:8779, oredict.plateDoubleCelenegil.name
 gregtech:gt.meta.plateDouble:8781, oredict.plateDoubleDesichalkos.name
 gregtech:gt.meta.plateDouble:8782, oredict.plateDoubleTartarite.name
 gregtech:gt.meta.plateDouble:8783, oredict.plateDoubleAmordrine.name
+gregtech:gt.meta.plateDouble:8784, oredict.plateDoubleAdamantine.name
 gregtech:gt.meta.plateDouble:8790, oredict.plateDoubleTrinitanium.name
 gregtech:gt.meta.plateDouble:8791, oredict.plateDoubleDraconium.name
 gregtech:gt.meta.plateDouble:8792, oredict.plateDoubleDraconiumAwakened.name
@@ -27156,6 +27254,7 @@ gregtech:gt.meta.plateTriple:8779, oredict.plateTripleCelenegil.name
 gregtech:gt.meta.plateTriple:8781, oredict.plateTripleDesichalkos.name
 gregtech:gt.meta.plateTriple:8782, oredict.plateTripleTartarite.name
 gregtech:gt.meta.plateTriple:8783, oredict.plateTripleAmordrine.name
+gregtech:gt.meta.plateTriple:8784, oredict.plateTripleAdamantine.name
 gregtech:gt.meta.plateTriple:8790, oredict.plateTripleTrinitanium.name
 gregtech:gt.meta.plateTriple:8791, oredict.plateTripleDraconium.name
 gregtech:gt.meta.plateTriple:8792, oredict.plateTripleDraconiumAwakened.name
@@ -27347,6 +27446,7 @@ gregtech:gt.meta.plateQuadruple:8779, oredict.plateQuadrupleCelenegil.name
 gregtech:gt.meta.plateQuadruple:8781, oredict.plateQuadrupleDesichalkos.name
 gregtech:gt.meta.plateQuadruple:8782, oredict.plateQuadrupleTartarite.name
 gregtech:gt.meta.plateQuadruple:8783, oredict.plateQuadrupleAmordrine.name
+gregtech:gt.meta.plateQuadruple:8784, oredict.plateQuadrupleAdamantine.name
 gregtech:gt.meta.plateQuadruple:8790, oredict.plateQuadrupleTrinitanium.name
 gregtech:gt.meta.plateQuadruple:8791, oredict.plateQuadrupleDraconium.name
 gregtech:gt.meta.plateQuadruple:8792, oredict.plateQuadrupleDraconiumAwakened.name
@@ -27538,6 +27638,7 @@ gregtech:gt.meta.plateQuintuple:8779, oredict.plateQuintupleCelenegil.name
 gregtech:gt.meta.plateQuintuple:8781, oredict.plateQuintupleDesichalkos.name
 gregtech:gt.meta.plateQuintuple:8782, oredict.plateQuintupleTartarite.name
 gregtech:gt.meta.plateQuintuple:8783, oredict.plateQuintupleAmordrine.name
+gregtech:gt.meta.plateQuintuple:8784, oredict.plateQuintupleAdamantine.name
 gregtech:gt.meta.plateQuintuple:8790, oredict.plateQuintupleTrinitanium.name
 gregtech:gt.meta.plateQuintuple:8791, oredict.plateQuintupleDraconium.name
 gregtech:gt.meta.plateQuintuple:8792, oredict.plateQuintupleDraconiumAwakened.name
@@ -27731,6 +27832,7 @@ gregtech:gt.meta.plateDense:8779, oredict.plateDenseCelenegil.name
 gregtech:gt.meta.plateDense:8781, oredict.plateDenseDesichalkos.name
 gregtech:gt.meta.plateDense:8782, oredict.plateDenseTartarite.name
 gregtech:gt.meta.plateDense:8783, oredict.plateDenseAmordrine.name
+gregtech:gt.meta.plateDense:8784, oredict.plateDenseAdamantine.name
 gregtech:gt.meta.plateDense:8790, oredict.plateDenseTrinitanium.name
 gregtech:gt.meta.plateDense:8791, oredict.plateDenseDraconium.name
 gregtech:gt.meta.plateDense:8792, oredict.plateDenseDraconiumAwakened.name
@@ -27952,6 +28054,7 @@ gregtech:gt.meta.plateCurved:8779, oredict.plateCurvedCelenegil.name
 gregtech:gt.meta.plateCurved:8781, oredict.plateCurvedDesichalkos.name
 gregtech:gt.meta.plateCurved:8782, oredict.plateCurvedTartarite.name
 gregtech:gt.meta.plateCurved:8783, oredict.plateCurvedAmordrine.name
+gregtech:gt.meta.plateCurved:8784, oredict.plateCurvedAdamantine.name
 gregtech:gt.meta.plateCurved:8790, oredict.plateCurvedTrinitanium.name
 gregtech:gt.meta.plateCurved:8791, oredict.plateCurvedDraconium.name
 gregtech:gt.meta.plateCurved:8792, oredict.plateCurvedDraconiumAwakened.name
@@ -28178,6 +28281,7 @@ gregtech:gt.meta.gearGtSmall:8779, oredict.gearGtSmallCelenegil.name
 gregtech:gt.meta.gearGtSmall:8781, oredict.gearGtSmallDesichalkos.name
 gregtech:gt.meta.gearGtSmall:8782, oredict.gearGtSmallTartarite.name
 gregtech:gt.meta.gearGtSmall:8783, oredict.gearGtSmallAmordrine.name
+gregtech:gt.meta.gearGtSmall:8784, oredict.gearGtSmallAdamantine.name
 gregtech:gt.meta.gearGtSmall:8790, oredict.gearGtSmallTrinitanium.name
 gregtech:gt.meta.gearGtSmall:8791, oredict.gearGtSmallDraconium.name
 gregtech:gt.meta.gearGtSmall:8792, oredict.gearGtSmallDraconiumAwakened.name
@@ -28409,6 +28513,7 @@ gregtech:gt.meta.gearGt:8779, oredict.gearGtCelenegil.name
 gregtech:gt.meta.gearGt:8781, oredict.gearGtDesichalkos.name
 gregtech:gt.meta.gearGt:8782, oredict.gearGtTartarite.name
 gregtech:gt.meta.gearGt:8783, oredict.gearGtAmordrine.name
+gregtech:gt.meta.gearGt:8784, oredict.gearGtAdamantine.name
 gregtech:gt.meta.gearGt:8790, oredict.gearGtTrinitanium.name
 gregtech:gt.meta.gearGt:8791, oredict.gearGtDraconium.name
 gregtech:gt.meta.gearGt:8792, oredict.gearGtDraconiumAwakened.name
@@ -28640,6 +28745,7 @@ gregtech:gt.meta.rotor:8779, oredict.rotorCelenegil.name
 gregtech:gt.meta.rotor:8781, oredict.rotorDesichalkos.name
 gregtech:gt.meta.rotor:8782, oredict.rotorTartarite.name
 gregtech:gt.meta.rotor:8783, oredict.rotorAmordrine.name
+gregtech:gt.meta.rotor:8784, oredict.rotorAdamantine.name
 gregtech:gt.meta.rotor:8790, oredict.rotorTrinitanium.name
 gregtech:gt.meta.rotor:8791, oredict.rotorDraconium.name
 gregtech:gt.meta.rotor:8792, oredict.rotorDraconiumAwakened.name
@@ -28935,6 +29041,7 @@ gregtech:gt.meta.stick:8779, oredict.stickCelenegil.name
 gregtech:gt.meta.stick:8781, oredict.stickDesichalkos.name
 gregtech:gt.meta.stick:8782, oredict.stickTartarite.name
 gregtech:gt.meta.stick:8783, oredict.stickAmordrine.name
+gregtech:gt.meta.stick:8784, oredict.stickAdamantine.name
 gregtech:gt.meta.stick:8790, oredict.stickTrinitanium.name
 gregtech:gt.meta.stick:8791, oredict.stickDraconium.name
 gregtech:gt.meta.stick:8792, oredict.stickDraconiumAwakened.name
@@ -29237,6 +29344,7 @@ gregtech:gt.meta.stickLong:8779, oredict.stickLongCelenegil.name
 gregtech:gt.meta.stickLong:8781, oredict.stickLongDesichalkos.name
 gregtech:gt.meta.stickLong:8782, oredict.stickLongTartarite.name
 gregtech:gt.meta.stickLong:8783, oredict.stickLongAmordrine.name
+gregtech:gt.meta.stickLong:8784, oredict.stickLongAdamantine.name
 gregtech:gt.meta.stickLong:8790, oredict.stickLongTrinitanium.name
 gregtech:gt.meta.stickLong:8791, oredict.stickLongDraconium.name
 gregtech:gt.meta.stickLong:8792, oredict.stickLongDraconiumAwakened.name
@@ -29419,6 +29527,7 @@ gregtech:gt.meta.springSmall:8779, oredict.springSmallCelenegil.name
 gregtech:gt.meta.springSmall:8781, oredict.springSmallDesichalkos.name
 gregtech:gt.meta.springSmall:8782, oredict.springSmallTartarite.name
 gregtech:gt.meta.springSmall:8783, oredict.springSmallAmordrine.name
+gregtech:gt.meta.springSmall:8784, oredict.springSmallAdamantine.name
 gregtech:gt.meta.springSmall:8790, oredict.springSmallTrinitanium.name
 gregtech:gt.meta.springSmall:8791, oredict.springSmallDraconium.name
 gregtech:gt.meta.springSmall:8792, oredict.springSmallDraconiumAwakened.name
@@ -29587,6 +29696,7 @@ gregtech:gt.meta.spring:8779, oredict.springCelenegil.name
 gregtech:gt.meta.spring:8781, oredict.springDesichalkos.name
 gregtech:gt.meta.spring:8782, oredict.springTartarite.name
 gregtech:gt.meta.spring:8783, oredict.springAmordrine.name
+gregtech:gt.meta.spring:8784, oredict.springAdamantine.name
 gregtech:gt.meta.spring:8790, oredict.springTrinitanium.name
 gregtech:gt.meta.spring:8791, oredict.springDraconium.name
 gregtech:gt.meta.spring:8792, oredict.springDraconiumAwakened.name
@@ -29850,6 +29960,7 @@ gregtech:gt.meta.round:8779, oredict.roundCelenegil.name
 gregtech:gt.meta.round:8781, oredict.roundDesichalkos.name
 gregtech:gt.meta.round:8782, oredict.roundTartarite.name
 gregtech:gt.meta.round:8783, oredict.roundAmordrine.name
+gregtech:gt.meta.round:8784, oredict.roundAdamantine.name
 gregtech:gt.meta.round:8790, oredict.roundTrinitanium.name
 gregtech:gt.meta.round:8791, oredict.roundDraconium.name
 gregtech:gt.meta.round:8792, oredict.roundDraconiumAwakened.name
@@ -30081,6 +30192,7 @@ gregtech:gt.meta.bolt:8779, oredict.boltCelenegil.name
 gregtech:gt.meta.bolt:8781, oredict.boltDesichalkos.name
 gregtech:gt.meta.bolt:8782, oredict.boltTartarite.name
 gregtech:gt.meta.bolt:8783, oredict.boltAmordrine.name
+gregtech:gt.meta.bolt:8784, oredict.boltAdamantine.name
 gregtech:gt.meta.bolt:8790, oredict.boltTrinitanium.name
 gregtech:gt.meta.bolt:8791, oredict.boltDraconium.name
 gregtech:gt.meta.bolt:8792, oredict.boltDraconiumAwakened.name
@@ -30312,6 +30424,7 @@ gregtech:gt.meta.screw:8779, oredict.screwCelenegil.name
 gregtech:gt.meta.screw:8781, oredict.screwDesichalkos.name
 gregtech:gt.meta.screw:8782, oredict.screwTartarite.name
 gregtech:gt.meta.screw:8783, oredict.screwAmordrine.name
+gregtech:gt.meta.screw:8784, oredict.screwAdamantine.name
 gregtech:gt.meta.screw:8790, oredict.screwTrinitanium.name
 gregtech:gt.meta.screw:8791, oredict.screwDraconium.name
 gregtech:gt.meta.screw:8792, oredict.screwDraconiumAwakened.name
@@ -30543,6 +30656,7 @@ gregtech:gt.meta.ring:8779, oredict.ringCelenegil.name
 gregtech:gt.meta.ring:8781, oredict.ringDesichalkos.name
 gregtech:gt.meta.ring:8782, oredict.ringTartarite.name
 gregtech:gt.meta.ring:8783, oredict.ringAmordrine.name
+gregtech:gt.meta.ring:8784, oredict.ringAdamantine.name
 gregtech:gt.meta.ring:8790, oredict.ringTrinitanium.name
 gregtech:gt.meta.ring:8791, oredict.ringDraconium.name
 gregtech:gt.meta.ring:8792, oredict.ringDraconiumAwakened.name
@@ -30768,6 +30882,7 @@ gregtech:gt.meta.foil:8779, oredict.foilCelenegil.name
 gregtech:gt.meta.foil:8781, oredict.foilDesichalkos.name
 gregtech:gt.meta.foil:8782, oredict.foilTartarite.name
 gregtech:gt.meta.foil:8783, oredict.foilAmordrine.name
+gregtech:gt.meta.foil:8784, oredict.foilAdamantine.name
 gregtech:gt.meta.foil:8790, oredict.foilTrinitanium.name
 gregtech:gt.meta.foil:8791, oredict.foilDraconium.name
 gregtech:gt.meta.foil:8792, oredict.foilDraconiumAwakened.name
@@ -30967,6 +31082,7 @@ gregtech:gt.meta.casingSmall:8779, oredict.casingSmallCelenegil.name
 gregtech:gt.meta.casingSmall:8781, oredict.casingSmallDesichalkos.name
 gregtech:gt.meta.casingSmall:8782, oredict.casingSmallTartarite.name
 gregtech:gt.meta.casingSmall:8783, oredict.casingSmallAmordrine.name
+gregtech:gt.meta.casingSmall:8784, oredict.casingSmallAdamantine.name
 gregtech:gt.meta.casingSmall:8790, oredict.casingSmallTrinitanium.name
 gregtech:gt.meta.casingSmall:8791, oredict.casingSmallDraconium.name
 gregtech:gt.meta.casingSmall:8792, oredict.casingSmallDraconiumAwakened.name
@@ -31141,6 +31257,7 @@ gregtech:gt.meta.wireFine:8779, oredict.wireFineCelenegil.name
 gregtech:gt.meta.wireFine:8781, oredict.wireFineDesichalkos.name
 gregtech:gt.meta.wireFine:8782, oredict.wireFineTartarite.name
 gregtech:gt.meta.wireFine:8783, oredict.wireFineAmordrine.name
+gregtech:gt.meta.wireFine:8784, oredict.wireFineAdamantine.name
 gregtech:gt.meta.wireFine:8790, oredict.wireFineTrinitanium.name
 gregtech:gt.meta.wireFine:8791, oredict.wireFineDraconium.name
 gregtech:gt.meta.wireFine:8792, oredict.wireFineDraconiumAwakened.name
@@ -31286,6 +31403,7 @@ gregtech:gt.meta.minecartWheels:8779, oredict.minecartWheelsCelenegil.name
 gregtech:gt.meta.minecartWheels:8781, oredict.minecartWheelsDesichalkos.name
 gregtech:gt.meta.minecartWheels:8782, oredict.minecartWheelsTartarite.name
 gregtech:gt.meta.minecartWheels:8783, oredict.minecartWheelsAmordrine.name
+gregtech:gt.meta.minecartWheels:8784, oredict.minecartWheelsAdamantine.name
 gregtech:gt.meta.minecartWheels:8790, oredict.minecartWheelsTrinitanium.name
 gregtech:gt.meta.minecartWheels:8791, oredict.minecartWheelsDraconium.name
 gregtech:gt.meta.minecartWheels:8792, oredict.minecartWheelsDraconiumAwakened.name
@@ -31355,6 +31473,7 @@ gregtech:gt.meta.cell:9825, oredict.cellNitricAcid.name
 gregtech:gt.meta.cell:9826, oredict.cellHydrochloricAcid.name
 gregtech:gt.meta.cell:9827, oredict.cellAquaRegia.name
 gregtech:gt.meta.cell:9828, oredict.cellGlycerol.name
+gregtech:gt.meta.cell:9829, oredict.cellHydrogenFluoride.name
 gregtech:gt.meta.cell:9831, oredict.cellNitrogenDioxide.name
 gregtech:gt.meta.cell:9832, oredict.cellMethane.name
 gregtech:gt.meta.cell:9833, oredict.cellMethaneIce.name
@@ -31563,6 +31682,7 @@ gregtech:gt.meta.chemtube:8270, oredict.chemtubeSodiumSulfate.name
 gregtech:gt.meta.chemtube:8271, oredict.chemtubePotassiumSulfate.name
 gregtech:gt.meta.chemtube:8272, oredict.chemtubePotassiumSulfide.name
 gregtech:gt.meta.chemtube:8273, oredict.chemtubePorcelain.name
+gregtech:gt.meta.chemtube:8274, oredict.chemtubeCalciumSulfate.name
 gregtech:gt.meta.chemtube:8300, oredict.chemtubeDiamond.name
 gregtech:gt.meta.chemtube:8301, oredict.chemtubeEmerald.name
 gregtech:gt.meta.chemtube:8302, oredict.chemtubeRuby.name
@@ -31780,6 +31900,7 @@ gregtech:gt.meta.chemtube:8779, oredict.chemtubeCelenegil.name
 gregtech:gt.meta.chemtube:8781, oredict.chemtubeDesichalkos.name
 gregtech:gt.meta.chemtube:8782, oredict.chemtubeTartarite.name
 gregtech:gt.meta.chemtube:8783, oredict.chemtubeAmordrine.name
+gregtech:gt.meta.chemtube:8784, oredict.chemtubeAdamantine.name
 gregtech:gt.meta.chemtube:8790, oredict.chemtubeTrinitanium.name
 gregtech:gt.meta.chemtube:8791, oredict.chemtubeDraconium.name
 gregtech:gt.meta.chemtube:8792, oredict.chemtubeDraconiumAwakened.name
@@ -31904,6 +32025,8 @@ gregtech:gt.meta.chemtube:9211, oredict.chemtubeSmithsonite.name
 gregtech:gt.meta.chemtube:9212, oredict.chemtubeSperrylite.name
 gregtech:gt.meta.chemtube:9213, oredict.chemtubeKesterite.name
 gregtech:gt.meta.chemtube:9214, oredict.chemtubeStannite.name
+gregtech:gt.meta.chemtube:9215, oredict.chemtubeFluorite.name
+gregtech:gt.meta.chemtube:9216, oredict.chemtubeArsenopyrite.name
 gregtech:gt.meta.chemtube:9700, oredict.chemtubeMeatRaw.name
 gregtech:gt.meta.chemtube:9701, oredict.chemtubeMeatCooked.name
 gregtech:gt.meta.chemtube:9702, oredict.chemtubeWheat.name
@@ -31953,6 +32076,7 @@ gregtech:gt.meta.chemtube:9825, oredict.chemtubeNitricAcid.name
 gregtech:gt.meta.chemtube:9826, oredict.chemtubeHydrochloricAcid.name
 gregtech:gt.meta.chemtube:9827, oredict.chemtubeAquaRegia.name
 gregtech:gt.meta.chemtube:9828, oredict.chemtubeGlycerol.name
+gregtech:gt.meta.chemtube:9829, oredict.chemtubeHydrogenFluoride.name
 gregtech:gt.meta.chemtube:9830, oredict.chemtubeAir.name
 gregtech:gt.meta.chemtube:9831, oredict.chemtubeNitrogenDioxide.name
 gregtech:gt.meta.chemtube:9832, oredict.chemtubeMethane.name
@@ -32182,6 +32306,7 @@ gregtech:gt.meta.toolHeadRawSword:8779, oredict.toolHeadRawSwordCelenegil.name
 gregtech:gt.meta.toolHeadRawSword:8781, oredict.toolHeadRawSwordDesichalkos.name
 gregtech:gt.meta.toolHeadRawSword:8782, oredict.toolHeadRawSwordTartarite.name
 gregtech:gt.meta.toolHeadRawSword:8783, oredict.toolHeadRawSwordAmordrine.name
+gregtech:gt.meta.toolHeadRawSword:8784, oredict.toolHeadRawSwordAdamantine.name
 gregtech:gt.meta.toolHeadRawSword:8790, oredict.toolHeadRawSwordTrinitanium.name
 gregtech:gt.meta.toolHeadRawSword:9101, oredict.toolHeadRawSwordAlmandine.name
 gregtech:gt.meta.toolHeadRawSword:9102, oredict.toolHeadRawSwordAndradite.name
@@ -32397,6 +32522,7 @@ gregtech:gt.meta.toolHeadSword:8779, oredict.toolHeadSwordCelenegil.name
 gregtech:gt.meta.toolHeadSword:8781, oredict.toolHeadSwordDesichalkos.name
 gregtech:gt.meta.toolHeadSword:8782, oredict.toolHeadSwordTartarite.name
 gregtech:gt.meta.toolHeadSword:8783, oredict.toolHeadSwordAmordrine.name
+gregtech:gt.meta.toolHeadSword:8784, oredict.toolHeadSwordAdamantine.name
 gregtech:gt.meta.toolHeadSword:8790, oredict.toolHeadSwordTrinitanium.name
 gregtech:gt.meta.toolHeadSword:9101, oredict.toolHeadSwordAlmandine.name
 gregtech:gt.meta.toolHeadSword:9102, oredict.toolHeadSwordAndradite.name
@@ -32612,6 +32738,7 @@ gregtech:gt.meta.toolHeadRawPickaxe:8779, oredict.toolHeadRawPickaxeCelenegil.na
 gregtech:gt.meta.toolHeadRawPickaxe:8781, oredict.toolHeadRawPickaxeDesichalkos.name
 gregtech:gt.meta.toolHeadRawPickaxe:8782, oredict.toolHeadRawPickaxeTartarite.name
 gregtech:gt.meta.toolHeadRawPickaxe:8783, oredict.toolHeadRawPickaxeAmordrine.name
+gregtech:gt.meta.toolHeadRawPickaxe:8784, oredict.toolHeadRawPickaxeAdamantine.name
 gregtech:gt.meta.toolHeadRawPickaxe:8790, oredict.toolHeadRawPickaxeTrinitanium.name
 gregtech:gt.meta.toolHeadRawPickaxe:9101, oredict.toolHeadRawPickaxeAlmandine.name
 gregtech:gt.meta.toolHeadRawPickaxe:9102, oredict.toolHeadRawPickaxeAndradite.name
@@ -32827,6 +32954,7 @@ gregtech:gt.meta.toolHeadPickaxe:8779, oredict.toolHeadPickaxeCelenegil.name
 gregtech:gt.meta.toolHeadPickaxe:8781, oredict.toolHeadPickaxeDesichalkos.name
 gregtech:gt.meta.toolHeadPickaxe:8782, oredict.toolHeadPickaxeTartarite.name
 gregtech:gt.meta.toolHeadPickaxe:8783, oredict.toolHeadPickaxeAmordrine.name
+gregtech:gt.meta.toolHeadPickaxe:8784, oredict.toolHeadPickaxeAdamantine.name
 gregtech:gt.meta.toolHeadPickaxe:8790, oredict.toolHeadPickaxeTrinitanium.name
 gregtech:gt.meta.toolHeadPickaxe:9101, oredict.toolHeadPickaxeAlmandine.name
 gregtech:gt.meta.toolHeadPickaxe:9102, oredict.toolHeadPickaxeAndradite.name
@@ -33024,6 +33152,7 @@ gregtech:gt.meta.toolHeadConstructionPickaxe:8779, oredict.toolHeadConstructionP
 gregtech:gt.meta.toolHeadConstructionPickaxe:8781, oredict.toolHeadConstructionPickaxeDesichalkos.name
 gregtech:gt.meta.toolHeadConstructionPickaxe:8782, oredict.toolHeadConstructionPickaxeTartarite.name
 gregtech:gt.meta.toolHeadConstructionPickaxe:8783, oredict.toolHeadConstructionPickaxeAmordrine.name
+gregtech:gt.meta.toolHeadConstructionPickaxe:8784, oredict.toolHeadConstructionPickaxeAdamantine.name
 gregtech:gt.meta.toolHeadConstructionPickaxe:8790, oredict.toolHeadConstructionPickaxeTrinitanium.name
 gregtech:gt.meta.toolHeadConstructionPickaxe:9101, oredict.toolHeadConstructionPickaxeAlmandine.name
 gregtech:gt.meta.toolHeadConstructionPickaxe:9102, oredict.toolHeadConstructionPickaxeAndradite.name
@@ -33236,6 +33365,7 @@ gregtech:gt.meta.toolHeadRawShovel:8779, oredict.toolHeadRawShovelCelenegil.name
 gregtech:gt.meta.toolHeadRawShovel:8781, oredict.toolHeadRawShovelDesichalkos.name
 gregtech:gt.meta.toolHeadRawShovel:8782, oredict.toolHeadRawShovelTartarite.name
 gregtech:gt.meta.toolHeadRawShovel:8783, oredict.toolHeadRawShovelAmordrine.name
+gregtech:gt.meta.toolHeadRawShovel:8784, oredict.toolHeadRawShovelAdamantine.name
 gregtech:gt.meta.toolHeadRawShovel:8790, oredict.toolHeadRawShovelTrinitanium.name
 gregtech:gt.meta.toolHeadRawShovel:9101, oredict.toolHeadRawShovelAlmandine.name
 gregtech:gt.meta.toolHeadRawShovel:9102, oredict.toolHeadRawShovelAndradite.name
@@ -33451,6 +33581,7 @@ gregtech:gt.meta.toolHeadShovel:8779, oredict.toolHeadShovelCelenegil.name
 gregtech:gt.meta.toolHeadShovel:8781, oredict.toolHeadShovelDesichalkos.name
 gregtech:gt.meta.toolHeadShovel:8782, oredict.toolHeadShovelTartarite.name
 gregtech:gt.meta.toolHeadShovel:8783, oredict.toolHeadShovelAmordrine.name
+gregtech:gt.meta.toolHeadShovel:8784, oredict.toolHeadShovelAdamantine.name
 gregtech:gt.meta.toolHeadShovel:8790, oredict.toolHeadShovelTrinitanium.name
 gregtech:gt.meta.toolHeadShovel:9101, oredict.toolHeadShovelAlmandine.name
 gregtech:gt.meta.toolHeadShovel:9102, oredict.toolHeadShovelAndradite.name
@@ -33666,6 +33797,7 @@ gregtech:gt.meta.toolHeadRawAxe:8779, oredict.toolHeadRawAxeCelenegil.name
 gregtech:gt.meta.toolHeadRawAxe:8781, oredict.toolHeadRawAxeDesichalkos.name
 gregtech:gt.meta.toolHeadRawAxe:8782, oredict.toolHeadRawAxeTartarite.name
 gregtech:gt.meta.toolHeadRawAxe:8783, oredict.toolHeadRawAxeAmordrine.name
+gregtech:gt.meta.toolHeadRawAxe:8784, oredict.toolHeadRawAxeAdamantine.name
 gregtech:gt.meta.toolHeadRawAxe:8790, oredict.toolHeadRawAxeTrinitanium.name
 gregtech:gt.meta.toolHeadRawAxe:9101, oredict.toolHeadRawAxeAlmandine.name
 gregtech:gt.meta.toolHeadRawAxe:9102, oredict.toolHeadRawAxeAndradite.name
@@ -33881,6 +34013,7 @@ gregtech:gt.meta.toolHeadAxe:8779, oredict.toolHeadAxeCelenegil.name
 gregtech:gt.meta.toolHeadAxe:8781, oredict.toolHeadAxeDesichalkos.name
 gregtech:gt.meta.toolHeadAxe:8782, oredict.toolHeadAxeTartarite.name
 gregtech:gt.meta.toolHeadAxe:8783, oredict.toolHeadAxeAmordrine.name
+gregtech:gt.meta.toolHeadAxe:8784, oredict.toolHeadAxeAdamantine.name
 gregtech:gt.meta.toolHeadAxe:8790, oredict.toolHeadAxeTrinitanium.name
 gregtech:gt.meta.toolHeadAxe:9101, oredict.toolHeadAxeAlmandine.name
 gregtech:gt.meta.toolHeadAxe:9102, oredict.toolHeadAxeAndradite.name
@@ -34078,6 +34211,7 @@ gregtech:gt.meta.toolHeadRawAxeDouble:8779, oredict.toolHeadRawAxeDoubleCelenegi
 gregtech:gt.meta.toolHeadRawAxeDouble:8781, oredict.toolHeadRawAxeDoubleDesichalkos.name
 gregtech:gt.meta.toolHeadRawAxeDouble:8782, oredict.toolHeadRawAxeDoubleTartarite.name
 gregtech:gt.meta.toolHeadRawAxeDouble:8783, oredict.toolHeadRawAxeDoubleAmordrine.name
+gregtech:gt.meta.toolHeadRawAxeDouble:8784, oredict.toolHeadRawAxeDoubleAdamantine.name
 gregtech:gt.meta.toolHeadRawAxeDouble:8790, oredict.toolHeadRawAxeDoubleTrinitanium.name
 gregtech:gt.meta.toolHeadRawAxeDouble:9101, oredict.toolHeadRawAxeDoubleAlmandine.name
 gregtech:gt.meta.toolHeadRawAxeDouble:9102, oredict.toolHeadRawAxeDoubleAndradite.name
@@ -34272,6 +34406,7 @@ gregtech:gt.meta.toolHeadAxeDouble:8779, oredict.toolHeadAxeDoubleCelenegil.name
 gregtech:gt.meta.toolHeadAxeDouble:8781, oredict.toolHeadAxeDoubleDesichalkos.name
 gregtech:gt.meta.toolHeadAxeDouble:8782, oredict.toolHeadAxeDoubleTartarite.name
 gregtech:gt.meta.toolHeadAxeDouble:8783, oredict.toolHeadAxeDoubleAmordrine.name
+gregtech:gt.meta.toolHeadAxeDouble:8784, oredict.toolHeadAxeDoubleAdamantine.name
 gregtech:gt.meta.toolHeadAxeDouble:8790, oredict.toolHeadAxeDoubleTrinitanium.name
 gregtech:gt.meta.toolHeadAxeDouble:9101, oredict.toolHeadAxeDoubleAlmandine.name
 gregtech:gt.meta.toolHeadAxeDouble:9102, oredict.toolHeadAxeDoubleAndradite.name
@@ -34484,6 +34619,7 @@ gregtech:gt.meta.toolHeadRawHoe:8779, oredict.toolHeadRawHoeCelenegil.name
 gregtech:gt.meta.toolHeadRawHoe:8781, oredict.toolHeadRawHoeDesichalkos.name
 gregtech:gt.meta.toolHeadRawHoe:8782, oredict.toolHeadRawHoeTartarite.name
 gregtech:gt.meta.toolHeadRawHoe:8783, oredict.toolHeadRawHoeAmordrine.name
+gregtech:gt.meta.toolHeadRawHoe:8784, oredict.toolHeadRawHoeAdamantine.name
 gregtech:gt.meta.toolHeadRawHoe:8790, oredict.toolHeadRawHoeTrinitanium.name
 gregtech:gt.meta.toolHeadRawHoe:9101, oredict.toolHeadRawHoeAlmandine.name
 gregtech:gt.meta.toolHeadRawHoe:9102, oredict.toolHeadRawHoeAndradite.name
@@ -34699,6 +34835,7 @@ gregtech:gt.meta.toolHeadHoe:8779, oredict.toolHeadHoeCelenegil.name
 gregtech:gt.meta.toolHeadHoe:8781, oredict.toolHeadHoeDesichalkos.name
 gregtech:gt.meta.toolHeadHoe:8782, oredict.toolHeadHoeTartarite.name
 gregtech:gt.meta.toolHeadHoe:8783, oredict.toolHeadHoeAmordrine.name
+gregtech:gt.meta.toolHeadHoe:8784, oredict.toolHeadHoeAdamantine.name
 gregtech:gt.meta.toolHeadHoe:8790, oredict.toolHeadHoeTrinitanium.name
 gregtech:gt.meta.toolHeadHoe:9101, oredict.toolHeadHoeAlmandine.name
 gregtech:gt.meta.toolHeadHoe:9102, oredict.toolHeadHoeAndradite.name
@@ -34909,6 +35046,7 @@ gregtech:gt.meta.toolHeadHammer:8779, oredict.toolHeadHammerCelenegil.name
 gregtech:gt.meta.toolHeadHammer:8781, oredict.toolHeadHammerDesichalkos.name
 gregtech:gt.meta.toolHeadHammer:8782, oredict.toolHeadHammerTartarite.name
 gregtech:gt.meta.toolHeadHammer:8783, oredict.toolHeadHammerAmordrine.name
+gregtech:gt.meta.toolHeadHammer:8784, oredict.toolHeadHammerAdamantine.name
 gregtech:gt.meta.toolHeadHammer:8790, oredict.toolHeadHammerTrinitanium.name
 gregtech:gt.meta.toolHeadHammer:9101, oredict.toolHeadHammerAlmandine.name
 gregtech:gt.meta.toolHeadHammer:9102, oredict.toolHeadHammerAndradite.name
@@ -35098,6 +35236,7 @@ gregtech:gt.meta.toolHeadFile:8779, oredict.toolHeadFileCelenegil.name
 gregtech:gt.meta.toolHeadFile:8781, oredict.toolHeadFileDesichalkos.name
 gregtech:gt.meta.toolHeadFile:8782, oredict.toolHeadFileTartarite.name
 gregtech:gt.meta.toolHeadFile:8783, oredict.toolHeadFileAmordrine.name
+gregtech:gt.meta.toolHeadFile:8784, oredict.toolHeadFileAdamantine.name
 gregtech:gt.meta.toolHeadFile:8790, oredict.toolHeadFileTrinitanium.name
 gregtech:gt.meta.toolHeadFile:9101, oredict.toolHeadFileAlmandine.name
 gregtech:gt.meta.toolHeadFile:9102, oredict.toolHeadFileAndradite.name
@@ -35288,6 +35427,7 @@ gregtech:gt.meta.toolHeadRawChisel:8779, oredict.toolHeadRawChiselCelenegil.name
 gregtech:gt.meta.toolHeadRawChisel:8781, oredict.toolHeadRawChiselDesichalkos.name
 gregtech:gt.meta.toolHeadRawChisel:8782, oredict.toolHeadRawChiselTartarite.name
 gregtech:gt.meta.toolHeadRawChisel:8783, oredict.toolHeadRawChiselAmordrine.name
+gregtech:gt.meta.toolHeadRawChisel:8784, oredict.toolHeadRawChiselAdamantine.name
 gregtech:gt.meta.toolHeadRawChisel:8790, oredict.toolHeadRawChiselTrinitanium.name
 gregtech:gt.meta.toolHeadRawChisel:9101, oredict.toolHeadRawChiselAlmandine.name
 gregtech:gt.meta.toolHeadRawChisel:9102, oredict.toolHeadRawChiselAndradite.name
@@ -35478,6 +35618,7 @@ gregtech:gt.meta.toolHeadChisel:8779, oredict.toolHeadChiselCelenegil.name
 gregtech:gt.meta.toolHeadChisel:8781, oredict.toolHeadChiselDesichalkos.name
 gregtech:gt.meta.toolHeadChisel:8782, oredict.toolHeadChiselTartarite.name
 gregtech:gt.meta.toolHeadChisel:8783, oredict.toolHeadChiselAmordrine.name
+gregtech:gt.meta.toolHeadChisel:8784, oredict.toolHeadChiselAdamantine.name
 gregtech:gt.meta.toolHeadChisel:8790, oredict.toolHeadChiselTrinitanium.name
 gregtech:gt.meta.toolHeadChisel:9101, oredict.toolHeadChiselAlmandine.name
 gregtech:gt.meta.toolHeadChisel:9102, oredict.toolHeadChiselAndradite.name
@@ -35668,6 +35809,7 @@ gregtech:gt.meta.toolHeadRawSaw:8779, oredict.toolHeadRawSawCelenegil.name
 gregtech:gt.meta.toolHeadRawSaw:8781, oredict.toolHeadRawSawDesichalkos.name
 gregtech:gt.meta.toolHeadRawSaw:8782, oredict.toolHeadRawSawTartarite.name
 gregtech:gt.meta.toolHeadRawSaw:8783, oredict.toolHeadRawSawAmordrine.name
+gregtech:gt.meta.toolHeadRawSaw:8784, oredict.toolHeadRawSawAdamantine.name
 gregtech:gt.meta.toolHeadRawSaw:8790, oredict.toolHeadRawSawTrinitanium.name
 gregtech:gt.meta.toolHeadRawSaw:9101, oredict.toolHeadRawSawAlmandine.name
 gregtech:gt.meta.toolHeadRawSaw:9102, oredict.toolHeadRawSawAndradite.name
@@ -35858,6 +36000,7 @@ gregtech:gt.meta.toolHeadSaw:8779, oredict.toolHeadSawCelenegil.name
 gregtech:gt.meta.toolHeadSaw:8781, oredict.toolHeadSawDesichalkos.name
 gregtech:gt.meta.toolHeadSaw:8782, oredict.toolHeadSawTartarite.name
 gregtech:gt.meta.toolHeadSaw:8783, oredict.toolHeadSawAmordrine.name
+gregtech:gt.meta.toolHeadSaw:8784, oredict.toolHeadSawAdamantine.name
 gregtech:gt.meta.toolHeadSaw:8790, oredict.toolHeadSawTrinitanium.name
 gregtech:gt.meta.toolHeadSaw:9101, oredict.toolHeadSawAlmandine.name
 gregtech:gt.meta.toolHeadSaw:9102, oredict.toolHeadSawAndradite.name
@@ -36048,6 +36191,7 @@ gregtech:gt.meta.toolHeadDrill:8779, oredict.toolHeadDrillCelenegil.name
 gregtech:gt.meta.toolHeadDrill:8781, oredict.toolHeadDrillDesichalkos.name
 gregtech:gt.meta.toolHeadDrill:8782, oredict.toolHeadDrillTartarite.name
 gregtech:gt.meta.toolHeadDrill:8783, oredict.toolHeadDrillAmordrine.name
+gregtech:gt.meta.toolHeadDrill:8784, oredict.toolHeadDrillAdamantine.name
 gregtech:gt.meta.toolHeadDrill:8790, oredict.toolHeadDrillTrinitanium.name
 gregtech:gt.meta.toolHeadDrill:9101, oredict.toolHeadDrillAlmandine.name
 gregtech:gt.meta.toolHeadDrill:9102, oredict.toolHeadDrillAndradite.name
@@ -36238,6 +36382,7 @@ gregtech:gt.meta.toolHeadChainsaw:8779, oredict.toolHeadChainsawCelenegil.name
 gregtech:gt.meta.toolHeadChainsaw:8781, oredict.toolHeadChainsawDesichalkos.name
 gregtech:gt.meta.toolHeadChainsaw:8782, oredict.toolHeadChainsawTartarite.name
 gregtech:gt.meta.toolHeadChainsaw:8783, oredict.toolHeadChainsawAmordrine.name
+gregtech:gt.meta.toolHeadChainsaw:8784, oredict.toolHeadChainsawAdamantine.name
 gregtech:gt.meta.toolHeadChainsaw:8790, oredict.toolHeadChainsawTrinitanium.name
 gregtech:gt.meta.toolHeadChainsaw:9101, oredict.toolHeadChainsawAlmandine.name
 gregtech:gt.meta.toolHeadChainsaw:9102, oredict.toolHeadChainsawAndradite.name
@@ -36428,6 +36573,7 @@ gregtech:gt.meta.toolHeadWrench:8779, oredict.toolHeadWrenchCelenegil.name
 gregtech:gt.meta.toolHeadWrench:8781, oredict.toolHeadWrenchDesichalkos.name
 gregtech:gt.meta.toolHeadWrench:8782, oredict.toolHeadWrenchTartarite.name
 gregtech:gt.meta.toolHeadWrench:8783, oredict.toolHeadWrenchAmordrine.name
+gregtech:gt.meta.toolHeadWrench:8784, oredict.toolHeadWrenchAdamantine.name
 gregtech:gt.meta.toolHeadWrench:8790, oredict.toolHeadWrenchTrinitanium.name
 gregtech:gt.meta.toolHeadWrench:9101, oredict.toolHeadWrenchAlmandine.name
 gregtech:gt.meta.toolHeadWrench:9102, oredict.toolHeadWrenchAndradite.name
@@ -36622,6 +36768,7 @@ gregtech:gt.meta.toolHeadScrewdriver:8779, oredict.toolHeadScrewdriverCelenegil.
 gregtech:gt.meta.toolHeadScrewdriver:8781, oredict.toolHeadScrewdriverDesichalkos.name
 gregtech:gt.meta.toolHeadScrewdriver:8782, oredict.toolHeadScrewdriverTartarite.name
 gregtech:gt.meta.toolHeadScrewdriver:8783, oredict.toolHeadScrewdriverAmordrine.name
+gregtech:gt.meta.toolHeadScrewdriver:8784, oredict.toolHeadScrewdriverAdamantine.name
 gregtech:gt.meta.toolHeadScrewdriver:8790, oredict.toolHeadScrewdriverTrinitanium.name
 gregtech:gt.meta.toolHeadScrewdriver:9101, oredict.toolHeadScrewdriverAlmandine.name
 gregtech:gt.meta.toolHeadScrewdriver:9102, oredict.toolHeadScrewdriverAndradite.name
@@ -36812,6 +36959,7 @@ gregtech:gt.meta.toolHeadRawUniversalSpade:8779, oredict.toolHeadRawUniversalSpa
 gregtech:gt.meta.toolHeadRawUniversalSpade:8781, oredict.toolHeadRawUniversalSpadeDesichalkos.name
 gregtech:gt.meta.toolHeadRawUniversalSpade:8782, oredict.toolHeadRawUniversalSpadeTartarite.name
 gregtech:gt.meta.toolHeadRawUniversalSpade:8783, oredict.toolHeadRawUniversalSpadeAmordrine.name
+gregtech:gt.meta.toolHeadRawUniversalSpade:8784, oredict.toolHeadRawUniversalSpadeAdamantine.name
 gregtech:gt.meta.toolHeadRawUniversalSpade:8790, oredict.toolHeadRawUniversalSpadeTrinitanium.name
 gregtech:gt.meta.toolHeadRawUniversalSpade:9101, oredict.toolHeadRawUniversalSpadeAlmandine.name
 gregtech:gt.meta.toolHeadRawUniversalSpade:9102, oredict.toolHeadRawUniversalSpadeAndradite.name
@@ -37002,6 +37150,7 @@ gregtech:gt.meta.toolHeadUniversalSpade:8779, oredict.toolHeadUniversalSpadeCele
 gregtech:gt.meta.toolHeadUniversalSpade:8781, oredict.toolHeadUniversalSpadeDesichalkos.name
 gregtech:gt.meta.toolHeadUniversalSpade:8782, oredict.toolHeadUniversalSpadeTartarite.name
 gregtech:gt.meta.toolHeadUniversalSpade:8783, oredict.toolHeadUniversalSpadeAmordrine.name
+gregtech:gt.meta.toolHeadUniversalSpade:8784, oredict.toolHeadUniversalSpadeAdamantine.name
 gregtech:gt.meta.toolHeadUniversalSpade:8790, oredict.toolHeadUniversalSpadeTrinitanium.name
 gregtech:gt.meta.toolHeadUniversalSpade:9101, oredict.toolHeadUniversalSpadeAlmandine.name
 gregtech:gt.meta.toolHeadUniversalSpade:9102, oredict.toolHeadUniversalSpadeAndradite.name
@@ -37214,6 +37363,7 @@ gregtech:gt.meta.toolHeadRawSense:8779, oredict.toolHeadRawSenseCelenegil.name
 gregtech:gt.meta.toolHeadRawSense:8781, oredict.toolHeadRawSenseDesichalkos.name
 gregtech:gt.meta.toolHeadRawSense:8782, oredict.toolHeadRawSenseTartarite.name
 gregtech:gt.meta.toolHeadRawSense:8783, oredict.toolHeadRawSenseAmordrine.name
+gregtech:gt.meta.toolHeadRawSense:8784, oredict.toolHeadRawSenseAdamantine.name
 gregtech:gt.meta.toolHeadRawSense:8790, oredict.toolHeadRawSenseTrinitanium.name
 gregtech:gt.meta.toolHeadRawSense:9101, oredict.toolHeadRawSenseAlmandine.name
 gregtech:gt.meta.toolHeadRawSense:9102, oredict.toolHeadRawSenseAndradite.name
@@ -37429,6 +37579,7 @@ gregtech:gt.meta.toolHeadSense:8779, oredict.toolHeadSenseCelenegil.name
 gregtech:gt.meta.toolHeadSense:8781, oredict.toolHeadSenseDesichalkos.name
 gregtech:gt.meta.toolHeadSense:8782, oredict.toolHeadSenseTartarite.name
 gregtech:gt.meta.toolHeadSense:8783, oredict.toolHeadSenseAmordrine.name
+gregtech:gt.meta.toolHeadSense:8784, oredict.toolHeadSenseAdamantine.name
 gregtech:gt.meta.toolHeadSense:8790, oredict.toolHeadSenseTrinitanium.name
 gregtech:gt.meta.toolHeadSense:9101, oredict.toolHeadSenseAlmandine.name
 gregtech:gt.meta.toolHeadSense:9102, oredict.toolHeadSenseAndradite.name
@@ -37644,6 +37795,7 @@ gregtech:gt.meta.toolHeadRawPlow:8779, oredict.toolHeadRawPlowCelenegil.name
 gregtech:gt.meta.toolHeadRawPlow:8781, oredict.toolHeadRawPlowDesichalkos.name
 gregtech:gt.meta.toolHeadRawPlow:8782, oredict.toolHeadRawPlowTartarite.name
 gregtech:gt.meta.toolHeadRawPlow:8783, oredict.toolHeadRawPlowAmordrine.name
+gregtech:gt.meta.toolHeadRawPlow:8784, oredict.toolHeadRawPlowAdamantine.name
 gregtech:gt.meta.toolHeadRawPlow:8790, oredict.toolHeadRawPlowTrinitanium.name
 gregtech:gt.meta.toolHeadRawPlow:9101, oredict.toolHeadRawPlowAlmandine.name
 gregtech:gt.meta.toolHeadRawPlow:9102, oredict.toolHeadRawPlowAndradite.name
@@ -37859,6 +38011,7 @@ gregtech:gt.meta.toolHeadPlow:8779, oredict.toolHeadPlowCelenegil.name
 gregtech:gt.meta.toolHeadPlow:8781, oredict.toolHeadPlowDesichalkos.name
 gregtech:gt.meta.toolHeadPlow:8782, oredict.toolHeadPlowTartarite.name
 gregtech:gt.meta.toolHeadPlow:8783, oredict.toolHeadPlowAmordrine.name
+gregtech:gt.meta.toolHeadPlow:8784, oredict.toolHeadPlowAdamantine.name
 gregtech:gt.meta.toolHeadPlow:8790, oredict.toolHeadPlowTrinitanium.name
 gregtech:gt.meta.toolHeadPlow:9101, oredict.toolHeadPlowAlmandine.name
 gregtech:gt.meta.toolHeadPlow:9102, oredict.toolHeadPlowAndradite.name
@@ -38052,6 +38205,7 @@ gregtech:gt.meta.toolHeadBuzzSaw:8779, oredict.toolHeadBuzzSawCelenegil.name
 gregtech:gt.meta.toolHeadBuzzSaw:8781, oredict.toolHeadBuzzSawDesichalkos.name
 gregtech:gt.meta.toolHeadBuzzSaw:8782, oredict.toolHeadBuzzSawTartarite.name
 gregtech:gt.meta.toolHeadBuzzSaw:8783, oredict.toolHeadBuzzSawAmordrine.name
+gregtech:gt.meta.toolHeadBuzzSaw:8784, oredict.toolHeadBuzzSawAdamantine.name
 gregtech:gt.meta.toolHeadBuzzSaw:8790, oredict.toolHeadBuzzSawTrinitanium.name
 gregtech:gt.meta.toolHeadBuzzSaw:9101, oredict.toolHeadBuzzSawAlmandine.name
 gregtech:gt.meta.toolHeadBuzzSaw:9102, oredict.toolHeadBuzzSawAndradite.name
@@ -38264,6 +38418,7 @@ gregtech:gt.meta.toolHeadRawArrow:8779, oredict.toolHeadRawArrowCelenegil.name
 gregtech:gt.meta.toolHeadRawArrow:8781, oredict.toolHeadRawArrowDesichalkos.name
 gregtech:gt.meta.toolHeadRawArrow:8782, oredict.toolHeadRawArrowTartarite.name
 gregtech:gt.meta.toolHeadRawArrow:8783, oredict.toolHeadRawArrowAmordrine.name
+gregtech:gt.meta.toolHeadRawArrow:8784, oredict.toolHeadRawArrowAdamantine.name
 gregtech:gt.meta.toolHeadRawArrow:8790, oredict.toolHeadRawArrowTrinitanium.name
 gregtech:gt.meta.toolHeadRawArrow:9101, oredict.toolHeadRawArrowAlmandine.name
 gregtech:gt.meta.toolHeadRawArrow:9102, oredict.toolHeadRawArrowAndradite.name
@@ -38479,6 +38634,7 @@ gregtech:gt.meta.toolHeadArrow:8779, oredict.toolHeadArrowCelenegil.name
 gregtech:gt.meta.toolHeadArrow:8781, oredict.toolHeadArrowDesichalkos.name
 gregtech:gt.meta.toolHeadArrow:8782, oredict.toolHeadArrowTartarite.name
 gregtech:gt.meta.toolHeadArrow:8783, oredict.toolHeadArrowAmordrine.name
+gregtech:gt.meta.toolHeadArrow:8784, oredict.toolHeadArrowAdamantine.name
 gregtech:gt.meta.toolHeadArrow:8790, oredict.toolHeadArrowTrinitanium.name
 gregtech:gt.meta.toolHeadArrow:9101, oredict.toolHeadArrowAlmandine.name
 gregtech:gt.meta.toolHeadArrow:9102, oredict.toolHeadArrowAndradite.name
@@ -38694,6 +38850,7 @@ gregtech:gt.meta.arrowGtWood:8779, oredict.arrowGtWoodCelenegil.name
 gregtech:gt.meta.arrowGtWood:8781, oredict.arrowGtWoodDesichalkos.name
 gregtech:gt.meta.arrowGtWood:8782, oredict.arrowGtWoodTartarite.name
 gregtech:gt.meta.arrowGtWood:8783, oredict.arrowGtWoodAmordrine.name
+gregtech:gt.meta.arrowGtWood:8784, oredict.arrowGtWoodAdamantine.name
 gregtech:gt.meta.arrowGtWood:8790, oredict.arrowGtWoodTrinitanium.name
 gregtech:gt.meta.arrowGtWood:9101, oredict.arrowGtWoodAlmandine.name
 gregtech:gt.meta.arrowGtWood:9102, oredict.arrowGtWoodAndradite.name
@@ -38909,6 +39066,7 @@ gregtech:gt.meta.arrowGtPlastic:8779, oredict.arrowGtPlasticCelenegil.name
 gregtech:gt.meta.arrowGtPlastic:8781, oredict.arrowGtPlasticDesichalkos.name
 gregtech:gt.meta.arrowGtPlastic:8782, oredict.arrowGtPlasticTartarite.name
 gregtech:gt.meta.arrowGtPlastic:8783, oredict.arrowGtPlasticAmordrine.name
+gregtech:gt.meta.arrowGtPlastic:8784, oredict.arrowGtPlasticAdamantine.name
 gregtech:gt.meta.arrowGtPlastic:8790, oredict.arrowGtPlasticTrinitanium.name
 gregtech:gt.meta.arrowGtPlastic:9101, oredict.arrowGtPlasticAlmandine.name
 gregtech:gt.meta.arrowGtPlastic:9102, oredict.arrowGtPlasticAndradite.name
